@@ -10,6 +10,7 @@ class ColumnMultiplication(Scene):
 
         digits_scale = 1.5
         carry_scale = 0.8
+        CARRY_COLOR = "#FF0000" # Vivid Red
         
         # Numbers
         n1 = 235
@@ -58,6 +59,10 @@ class ColumnMultiplication(Scene):
         dx = 0.8
         dy = 1.0
         
+        # Side calculation position
+        side_x = 4.0
+        side_y = 0.5
+        
         # Row y-positions
         y_top = center_y + dy
         y_bot = center_y
@@ -96,35 +101,104 @@ class ColumnMultiplication(Scene):
         # 4 * 5 = 20
         self.play(Indicate(b_units), Indicate(t_units))
         
+        # Side calculation: 5 x 4 = 20
+        sc1 = MathTex("5", "\\times", "4", "=", "20").scale(digits_scale).move_to([side_x, side_y, 0])
+        self.play(Write(sc1))
+        self.wait(0.5)
+        
         r1_units.move_to([x_units, y_res1, 0])
-        c2_in = MathTex("2").scale(carry_scale).move_to([x_tens, y_res1 + 0.4*dy, 0]).set_color(RED)
+        c2_in = MathTex("2").scale(carry_scale).move_to([x_tens, y_res1 + 0.4*dy, 0]).set_color(CARRY_COLOR)
+        c2_in.set_z_index(2)
         c2_out = c2_in.copy().set_color(BLACK).set_stroke(width=5, color=BLACK)
+        c2_out.set_z_index(1)
         carry_2 = VGroup(c2_out, c2_in)
         
-        self.play(Write(r1_units)) # Write 0
-        self.play(Write(carry_2))  # Carry 2
+        # Turn carry digit red first
+        self.play(sc1[4][0].animate.set_color(CARRY_COLOR))
+        self.wait(0.2)
+        
+        # Animate split: 20 -> 0 (result) + 2 (carry)
+        # sc1[4] is "20". sc1[4][1] is "0", sc1[4][0] is "2"
+        self.play(
+            ReplacementTransform(sc1[4][1], r1_units),
+            ReplacementTransform(sc1[4][0], c2_in),
+            FadeIn(c2_out),
+            FadeOut(sc1[:4]) # Fade out 5 x 4 =
+        )
         self.wait(0.5)
         
         # 4 * 3 = 12 + 2 = 14
         self.play(Indicate(b_units), Indicate(t_tens))
         self.play(indicate_carry(carry_2))
         
+        # Side calculation: 3 x 4 = 12 ... 12 + 2 = 14
+        sc2 = MathTex("3", "\\times", "4", "=", "12").scale(digits_scale).move_to([side_x, side_y, 0])
+        self.play(Write(sc2))
+        self.wait(0.5)
+        
+        sc2_add = MathTex("12", "+", "2", "=", "14").scale(digits_scale).move_to([side_x, side_y - 1.0, 0])
+        sc2_add[2].set_color(CARRY_COLOR) # carry color
+        
+        self.play(
+            TransformFromCopy(sc2[4], sc2_add[0]), # 12
+            TransformFromCopy(carry_2[1], sc2_add[2]), # 2
+            Write(sc2_add[1]), # +
+            Write(sc2_add[3]), # =
+            Write(sc2_add[4])  # 14
+        )
+        self.wait(0.5)
+        
+        # Turn carry digit red first
+        self.play(sc2_add[4][0].animate.set_color(CARRY_COLOR))
+        self.wait(0.2)
+        
         r1_tens.move_to([x_tens, y_res1, 0])
-        c1_in = MathTex("1").scale(carry_scale).move_to([x_hundreds, y_res1 + 0.4*dy, 0]).set_color(RED)
+        c1_in = MathTex("1").scale(carry_scale).move_to([x_hundreds, y_res1 + 0.4*dy, 0]).set_color(CARRY_COLOR)
+        c1_in.set_z_index(2)
         c1_out = c1_in.copy().set_color(BLACK).set_stroke(width=5, color=BLACK)
+        c1_out.set_z_index(1)
         carry_1 = VGroup(c1_out, c1_in)
         
-        self.play(FadeOut(carry_2), Write(r1_tens)) # Write 4
-        self.play(Write(carry_1)) # Carry 1
+        # Animate split: 14 -> 4 (result) + 1 (carry)
+        self.play(
+            FadeOut(carry_2), 
+            ReplacementTransform(sc2_add[4][1], r1_tens), # 4
+            ReplacementTransform(sc2_add[4][0], c1_in),   # 1
+            FadeIn(c1_out),
+            FadeOut(sc2),
+            FadeOut(sc2_add[:4])
+        )
         self.wait(0.5)
         
         # 4 * 2 = 8 + 1 = 9
         self.play(Indicate(b_units), Indicate(t_hundreds))
         self.play(indicate_carry(carry_1))
         
+        # Side calc for last digit (optional but good for consistency)
+        sc3 = MathTex("2", "\\times", "4", "=", "8").scale(digits_scale).move_to([side_x, side_y, 0])
+        self.play(Write(sc3))
+        self.wait(0.5)
+        
+        sc3_add = MathTex("8", "+", "1", "=", "9").scale(digits_scale).move_to([side_x, side_y - 1.0, 0])
+        sc3_add[2].set_color(CARRY_COLOR)
+        
+        self.play(
+            TransformFromCopy(sc3[4], sc3_add[0]),
+            TransformFromCopy(carry_1[1], sc3_add[2]),
+            Write(sc3_add[1]),
+            Write(sc3_add[3]),
+            Write(sc3_add[4])
+        )
+        self.wait(0.5)
+        
         r1_hundreds.move_to([x_hundreds, y_res1, 0])
         
-        self.play(FadeOut(carry_1), Write(r1_hundreds)) # Write 9
+        self.play(
+            FadeOut(carry_1), 
+            ReplacementTransform(sc3_add[4], r1_hundreds), # 9
+            FadeOut(sc3),
+            FadeOut(sc3_add[:4])
+        )
         self.wait(1)
         
         # --- Step 2: Multiply by 20 (Tens) ---
@@ -137,29 +211,74 @@ class ColumnMultiplication(Scene):
         # 2 * 5 = 10
         self.play(Indicate(b_tens), Indicate(t_units))
         
+        sc4 = MathTex("5", "\\times", "2", "=", "10").scale(digits_scale).move_to([side_x, side_y, 0])
+        self.play(Write(sc4))
+        self.wait(0.5)
+        
+        # Turn carry digit red first
+        self.play(sc4[4][0].animate.set_color(CARRY_COLOR))
+        self.wait(0.2)
+        
         r2_tens.move_to([x_tens, y_res2, 0])
-        c1b_in = MathTex("1").scale(carry_scale).move_to([x_hundreds, y_res2 + 0.4*dy, 0]).set_color(RED)
+        c1b_in = MathTex("1").scale(carry_scale).move_to([x_hundreds, y_res2 + 0.4*dy, 0]).set_color(CARRY_COLOR)
+        c1b_in.set_z_index(2)
         c1b_out = c1b_in.copy().set_color(BLACK).set_stroke(width=5, color=BLACK)
+        c1b_out.set_z_index(1)
         carry_1_b = VGroup(c1b_out, c1b_in)
         
-        self.play(Write(r2_tens)) # Write 0
-        self.play(Write(carry_1_b)) # Carry 1
+        # Split 10 -> 0, 1
+        self.play(
+            ReplacementTransform(sc4[4][1], r2_tens), # 0
+            ReplacementTransform(sc4[4][0], c1b_in), # 1
+            FadeIn(c1b_out),
+            FadeOut(sc4[:4])
+        )
         self.wait(0.5)
         
         # 2 * 3 = 6 + 1 = 7
         self.play(Indicate(b_tens), Indicate(t_tens))
         self.play(indicate_carry(carry_1_b))
         
+        sc5 = MathTex("3", "\\times", "2", "=", "6").scale(digits_scale).move_to([side_x, side_y, 0])
+        self.play(Write(sc5))
+        self.wait(0.5)
+        
+        sc5_add = MathTex("6", "+", "1", "=", "7").scale(digits_scale).move_to([side_x, side_y - 1.0, 0])
+        sc5_add[2].set_color(CARRY_COLOR)
+        
+        self.play(
+            TransformFromCopy(sc5[4], sc5_add[0]),
+            TransformFromCopy(carry_1_b[1], sc5_add[2]),
+            Write(sc5_add[1]),
+            Write(sc5_add[3]),
+            Write(sc5_add[4])
+        )
+        self.wait(0.5)
+        
         r2_hundreds.move_to([x_hundreds, y_res2, 0])
         
-        self.play(FadeOut(carry_1_b), Write(r2_hundreds)) # Write 7
+        self.play(
+            FadeOut(carry_1_b), 
+            ReplacementTransform(sc5_add[4], r2_hundreds),
+            FadeOut(sc5),
+            FadeOut(sc5_add[:4])
+        )
         self.wait(0.5)
         
         # 2 * 2 = 4
         self.play(Indicate(b_tens), Indicate(t_hundreds))
         
         r2_thousands.move_to([x_thousands, y_res2, 0])
-        self.play(Write(r2_thousands)) # Write 4
+        
+        # 2 x 2 = 4
+        sc6 = MathTex("2", "\\times", "2", "=", "4").scale(digits_scale).move_to([side_x, side_y, 0])
+        self.play(Write(sc6))
+        self.wait(0.5)
+        
+        self.play(
+            ReplacementTransform(sc6[4], r2_thousands),
+            FadeOut(sc6[:4])
+        ) 
         self.wait(1)
         
         # --- Step 3: Addition ---
@@ -183,13 +302,29 @@ class ColumnMultiplication(Scene):
         f_hundreds.move_to([x_hundreds, y_final, 0])
         # carry 1 for addition (optional visuals, usually we just write 6 and carry 1 mentally or small)
         # Let's write 6 and carry 1 to thousands
-        ca_in = MathTex("1").scale(carry_scale).move_to([x_thousands, y_final + 0.4*dy, 0]).set_color(RED)
+        ca_in = MathTex("1").scale(carry_scale).move_to([x_thousands, y_final + 0.4*dy, 0]).set_color(CARRY_COLOR)
+        ca_in.set_z_index(2)
         ca_out = ca_in.copy().set_color(BLACK).set_stroke(width=5, color=BLACK)
+        ca_out.set_z_index(1)
         carry_add = VGroup(ca_out, ca_in)
         
         self.play(Indicate(r1_hundreds), Indicate(r2_hundreds))
-        self.play(Write(f_hundreds))
-        self.play(Write(carry_add))
+        
+        # Let's show side calc for addition too: 9 + 7 = 16
+        sc_add = MathTex("9", "+", "7", "=", "16").scale(digits_scale).move_to([side_x, side_y, 0])
+        self.play(Write(sc_add))
+        self.wait(0.5)
+        
+        # Turn carry digit red first
+        self.play(sc_add[4][0].animate.set_color(CARRY_COLOR))
+        self.wait(0.2)
+        
+        self.play(
+            ReplacementTransform(sc_add[4][1], f_hundreds),
+            ReplacementTransform(sc_add[4][0], ca_in),
+            FadeIn(ca_out),
+            FadeOut(sc_add[:4])
+        )
         
         # 4 + 1 = 5
         f_thousands.move_to([x_thousands, y_final, 0])
