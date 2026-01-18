@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Manim
+media/Tex/
+media/texts/
+**/partial_movie_files/
+*.log
+*.aux
+*.dvi
+*.svg
+*.mw
