@@ -201,12 +201,35 @@ self.play(TransformMatchingTex(eq2, eq3))
 - **Example Gallery**: https://docs.manim.community/en/stable/examples.html
 - **3Blue1Brown Videos**: Study Grant's videos to see excellent mathematical animation
 
-### Color Schemes
-Use consistent colors for mathematical concepts:
-- **PRIMARY**: `BLUE` for main objects
-- **SECONDARY**: `GREEN` for auxiliary lines/objects
-- **HIGHLIGHT**: `YELLOW` for emphasis
-- **NEGATIVE/SUBTRACT**: `RED` for things being removed or negative values
+### Branding & Color Scheme
+
+**Target Audience:** Adult Learners (Resitters, Career Changers).
+**Style:** Professional, Clean, Minimal Distractions, High Contrast (Dark Mode).
+
+The course uses a strict color palette defined in `animations/styles.py`. All animations **must** import and use these colors.
+
+| Role | Color | Hex Code | Usage |
+|------|-------|----------|-------|
+| **Background** | Deep Navy | `#0B0F19` | Scene background (Standard Slide Color) |
+| **Text** | White | `#FFFFFF` | Primary numbers, text, equations |
+| **Active** | Light Blue | `#29B6F6` | Currently active numbers, focus elements, cursors |
+| **Carry/Action** | Coral | `#FF7043` | Carry digits, bullets, distinct actions |
+| **Answer** | Soft Gold | `#FFD54F` | Final answers, key results |
+| **Auxiliary** | Blue Grey | `#90A4AE` | Side calculations, notes, secondary info |
+
+#### Usage Example
+
+```python
+from animations.styles import Brand
+
+class MyScene(Scene):
+    def construct(self):
+        Brand.set_default_theme(self) # Sets background and default text color
+        
+        # Use Brand constants
+        eq = MathTex("2x = 10").set_color(Brand.TEXT)
+        self.play(Indicate(eq, color=Brand.ACTIVE))
+```
 
 ## Exporting for PowerPoint
 
