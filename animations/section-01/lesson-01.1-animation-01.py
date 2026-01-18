@@ -3,6 +3,11 @@ from manim import *
 class ColumnMultiplication(Scene):
     def construct(self):
         # Configuration
+        def indicate_carry(mob):
+            target = mob.copy().scale(1.2)
+            target[1].set_color(YELLOW)
+            return Transform(mob, target, rate_func=there_and_back, run_time=1)
+
         digits_scale = 1.5
         carry_scale = 0.8
         
@@ -92,7 +97,9 @@ class ColumnMultiplication(Scene):
         self.play(Indicate(b_units), Indicate(t_units))
         
         r1_units.move_to([x_units, y_res1, 0])
-        carry_2 = MathTex("2").scale(carry_scale).move_to([x_tens, y_res1 + 0.4*dy, 0]).set_color(RED)
+        c2_in = MathTex("2").scale(carry_scale).move_to([x_tens, y_res1 + 0.4*dy, 0]).set_color(RED)
+        c2_out = c2_in.copy().set_color(BLACK).set_stroke(width=5, color=BLACK)
+        carry_2 = VGroup(c2_out, c2_in)
         
         self.play(Write(r1_units)) # Write 0
         self.play(Write(carry_2))  # Carry 2
@@ -100,10 +107,12 @@ class ColumnMultiplication(Scene):
         
         # 4 * 3 = 12 + 2 = 14
         self.play(Indicate(b_units), Indicate(t_tens))
-        self.play(Indicate(carry_2))
+        self.play(indicate_carry(carry_2))
         
         r1_tens.move_to([x_tens, y_res1, 0])
-        carry_1 = MathTex("1").scale(carry_scale).move_to([x_hundreds, y_res1 + 0.4*dy, 0]).set_color(RED)
+        c1_in = MathTex("1").scale(carry_scale).move_to([x_hundreds, y_res1 + 0.4*dy, 0]).set_color(RED)
+        c1_out = c1_in.copy().set_color(BLACK).set_stroke(width=5, color=BLACK)
+        carry_1 = VGroup(c1_out, c1_in)
         
         self.play(FadeOut(carry_2), Write(r1_tens)) # Write 4
         self.play(Write(carry_1)) # Carry 1
@@ -111,7 +120,7 @@ class ColumnMultiplication(Scene):
         
         # 4 * 2 = 8 + 1 = 9
         self.play(Indicate(b_units), Indicate(t_hundreds))
-        self.play(Indicate(carry_1))
+        self.play(indicate_carry(carry_1))
         
         r1_hundreds.move_to([x_hundreds, y_res1, 0])
         
@@ -129,7 +138,9 @@ class ColumnMultiplication(Scene):
         self.play(Indicate(b_tens), Indicate(t_units))
         
         r2_tens.move_to([x_tens, y_res2, 0])
-        carry_1_b = MathTex("1").scale(carry_scale).move_to([x_hundreds, y_res2 + 0.4*dy, 0]).set_color(RED)
+        c1b_in = MathTex("1").scale(carry_scale).move_to([x_hundreds, y_res2 + 0.4*dy, 0]).set_color(RED)
+        c1b_out = c1b_in.copy().set_color(BLACK).set_stroke(width=5, color=BLACK)
+        carry_1_b = VGroup(c1b_out, c1b_in)
         
         self.play(Write(r2_tens)) # Write 0
         self.play(Write(carry_1_b)) # Carry 1
@@ -137,7 +148,7 @@ class ColumnMultiplication(Scene):
         
         # 2 * 3 = 6 + 1 = 7
         self.play(Indicate(b_tens), Indicate(t_tens))
-        self.play(Indicate(carry_1_b))
+        self.play(indicate_carry(carry_1_b))
         
         r2_hundreds.move_to([x_hundreds, y_res2, 0])
         
@@ -172,7 +183,9 @@ class ColumnMultiplication(Scene):
         f_hundreds.move_to([x_hundreds, y_final, 0])
         # carry 1 for addition (optional visuals, usually we just write 6 and carry 1 mentally or small)
         # Let's write 6 and carry 1 to thousands
-        carry_add = MathTex("1").scale(carry_scale).move_to([x_thousands, y_final + 0.4*dy, 0]).set_color(RED)
+        ca_in = MathTex("1").scale(carry_scale).move_to([x_thousands, y_final + 0.4*dy, 0]).set_color(RED)
+        ca_out = ca_in.copy().set_color(BLACK).set_stroke(width=5, color=BLACK)
+        carry_add = VGroup(ca_out, ca_in)
         
         self.play(Indicate(r1_hundreds), Indicate(r2_hundreds))
         self.play(Write(f_hundreds))
@@ -180,7 +193,7 @@ class ColumnMultiplication(Scene):
         
         # 4 + 1 = 5
         f_thousands.move_to([x_thousands, y_final, 0])
-        self.play(Indicate(r2_thousands), Indicate(carry_add))
+        self.play(Indicate(r2_thousands), indicate_carry(carry_add))
         self.play(FadeOut(carry_add), Write(f_thousands))
         
         self.wait(2)

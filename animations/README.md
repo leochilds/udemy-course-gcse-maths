@@ -84,6 +84,27 @@ Flags:
 - `-p`: Preview (automatically play after rendering)
 - `-q`: Quality (h=high, m=medium, l=low)
 
+### Helper Script
+
+A helper script `render_animation.sh` is provided in the root directory to simplify rendering.
+
+Usage:
+```bash
+./render_animation.sh <path_to_file> [quality] [scene_name]
+```
+
+Examples:
+```bash
+# Render low quality (default)
+./render_animation.sh animations/section-01/lesson-01.1-animation-01.py
+
+# Render medium quality
+./render_animation.sh animations/section-01/lesson-01.1-animation-01.py m
+
+# Render specific scene at high quality
+./render_animation.sh animations/section-01/lesson-01.1-animation-01.py h ColumnMultiplication
+```
+
 ### Output Location
 
 Rendered videos are saved in `media/videos/[filename]/[quality]/`

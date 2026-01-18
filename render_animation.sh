@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Simple wrapper script to render Manim animations
+# Usage: ./render_animation.sh <path_to_animation_file> [quality] [scene_name]
+
+FILE_PATH=$1
+QUALITY=${2:-l} # Default to low quality (480p15)
+SCENE_NAME=$3
+
+if [ -z "$FILE_PATH" ]; then
+    echo "Usage: ./render_animation.sh <path_to_animation_file> [quality] [scene_name]"
+    echo ""
+    echo "Arguments:"
+    echo "  <path_to_animation_file>  Path to the python animation script"
+    echo "  [quality]                 Optional. l=low (480p), m=medium (720p), h=high (1080p). Default: l"
+    echo "  [scene_name]              Optional. Specific scene to render. If omitted, Manim may prompt or render all."
+    echo ""
+    echo "Example:"
+    echo "  ./render_animation.sh animations/section-01/lesson-01.1-animation-01.py m"
+    exit 1
+fi
+
+echo "Rendering $FILE_PATH at quality '$QUALITY'..."
+
+if [ -z "$SCENE_NAME" ]; then
+    manim -q$QUALITY "$FILE_PATH"
+else
+    manim -q$QUALITY "$FILE_PATH" "$SCENE_NAME"
+fi
