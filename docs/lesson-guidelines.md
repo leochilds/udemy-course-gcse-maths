@@ -53,6 +53,11 @@ This document outlines the standards and best practices for creating lessons for
 ❌ Multiple concepts per slide (split them up)
 ❌ Decorative or filler content
 
+### Narration for Mathematical Steps
+- **Verbalize the math**: Do not just point to a calculation.
+- **Explain the steps**: Narrate the arithmetic (e.g., "multiply 4 by 5 to get 20, carry the 2").
+- The learner should be able to follow the calculation by listening alone.
+
 ---
 
 ## Visual Materials Guidelines
@@ -74,8 +79,9 @@ This document outlines the standards and best practices for creating lessons for
 
 **NEVER include:**
 - Stock photos of people, classrooms, or unrelated objects
-- Decorative graphics without learning value
+- Decorative graphics without learning value (e.g., icons of calculators, generic business people)
 - Images that repeat what text already clearly states
+- If no educational visual is required, explicitly state: **Type: None**.
 
 ### Types of Visual Materials
 

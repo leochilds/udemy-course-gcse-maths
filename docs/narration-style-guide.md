@@ -137,6 +137,12 @@ Build confidence without being patronizing:
 - "Let's work through this together"
 - "With practice, this becomes natural"
 
+### ✅ Verbalize the Steps (Show Your Working)
+When narrating a calculation, explain the arithmetic steps clearly:
+- **Don't just say**: "We multiply 235 by 24 to get 5,640."
+- **Do say**: "First, we multiply 4 by 5 to get 20. We write down the 0 and carry the 2..."
+- Walk the learner through the process so they can follow along even without looking at the screen.
+
 ---
 
 ## Narration Structure
@@ -221,6 +227,14 @@ Mark natural pause points:
 
 ### ✅ Good Narration (Worked Example)
 "Let's solve this equation step by step. We have 2x plus 3 equals 7. [pause] Our goal is to find the value of x. First, we need to isolate the term containing x. To do this, we subtract 3 from both sides of the equation. This gives us 2x equals 4. [pause] Now, to find x on its own, we divide both sides by 2. This gives us x equals 2. We can check this is correct by substituting 2 back into the original equation."
+
+---
+
+### ❌ Poor Narration (Calculation)
+"Using the column method, 235 times 24 gives us 5,640."
+
+### ✅ Good Narration (Calculation)
+"Let's use the column method. First, we multiply 235 by 4. 4 times 5 is 20, so we write the 0 and carry the 2. 4 times 3 is 12, plus the carried 2 is 14. Write the 4, carry the 1. 4 times 2 is 8, plus 1 is 9. That gives us 940. [pause] Now we multiply by the 20. First, put a zero placeholder. Then 2 times 5 is 10..."
 
 ---
 
