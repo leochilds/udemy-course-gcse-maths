@@ -41,3 +41,33 @@ if [ -z "$SCENE_NAME" ]; then
 else
     $MANIM_CMD -q "$QUALITY" "$FILE_PATH" "$SCENE_NAME"
 fi
+
+RET=$?
+
+if [ $RET -eq 0 ]; then
+    # Auto-organize output if inside animations/ directory
+    if [[ "$FILE_PATH" == *"animations/"* ]]; then
+        # Extract part relative to animations/
+        # This handles both animations/section... and ./animations/section...
+        REL_PART="${FILE_PATH#*animations/}"
+        REL_DIR=$(dirname "$REL_PART")
+        MODULE_NAME=$(basename "$FILE_PATH" .py)
+        
+        # Manim outputs to media/videos/{module_name}
+        SRC="media/videos/$MODULE_NAME"
+        # We want it in media/videos/{rel_dir}/{module_name}
+        DST="media/videos/$REL_DIR/$MODULE_NAME"
+        
+        # Only move if source exists and is not already at destination
+        if [ -d "$SRC" ] && [ "$SRC" != "$DST" ]; then
+            echo "Organizing output: Moving $SRC to $DST..."
+            mkdir -p "$(dirname "$DST")"
+            if [ -d "$DST" ]; then
+                rm -rf "$DST"
+            fi
+            mv "$SRC" "$DST"
+        fi
+    fi
+fi
+
+exit $RET

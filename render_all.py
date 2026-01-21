@@ -3,6 +3,7 @@ import json
 import os
 import re
 import sys
+import shutil
 import subprocess
 import threading
 import time
@@ -87,10 +88,11 @@ class RenderManager:
 
     def get_output_path(self, filepath, scene_name):
         """Determine expected output path for a scene."""
-        # Standard Manim output: media/videos/{module_name}/{quality}/{scene_name}.mp4
-        # module_name is filename without extension
+        # New structure: media/videos/{rel_dir}/{module_name}/{quality}/{scene_name}.mp4
         module_name = Path(filepath).stem
-        return Path("media") / "videos" / module_name / self.quality_dir / f"{scene_name}.mp4"
+        rel_path = os.path.relpath(filepath, ANIMATIONS_DIR)
+        rel_dir = os.path.dirname(rel_path)
+        return Path("media") / "videos" / rel_dir / module_name / self.quality_dir / f"{scene_name}.mp4"
 
     def determine_manim_cmd(self):
         """Detect correct manim executable."""
@@ -269,6 +271,22 @@ class RenderManager:
                     process.wait()
                     
                     if process.returncode == 0:
+                        # Move output
+                        rel_path = os.path.relpath(filepath, ANIMATIONS_DIR)
+                        rel_dir = os.path.dirname(rel_path)
+                        module_name = Path(filepath).stem
+                        
+                        # Manim outputs to media/videos/{module_name}
+                        source_dir = Path("media") / "videos" / module_name
+                        # We want it in media/videos/{rel_dir}/{module_name}
+                        target_dir = Path("media") / "videos" / rel_dir / module_name
+                        
+                        if source_dir.exists() and str(source_dir.resolve()) != str(target_dir.resolve()):
+                            target_dir.parent.mkdir(parents=True, exist_ok=True)
+                            if target_dir.exists():
+                                shutil.rmtree(target_dir)
+                            shutil.move(str(source_dir), str(target_dir))
+
                         worker_progress.update(task_id, completed=100, status="Done")
                         self.mark_completed(filepath)
                     else:
