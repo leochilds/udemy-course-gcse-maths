@@ -4,7 +4,7 @@ import sys
 import os
 
 # Ensure we can import from the root animations directory
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..', '..'))
 from animations.styles import Brand
 
 def load_scene_class(filename, class_name):

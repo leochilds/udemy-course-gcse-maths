@@ -3,7 +3,7 @@ import sys
 import os
 
 # Ensure we can import from the root animations directory
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..', '..'))
 from animations.styles import Brand
 from manim_voiceover import VoiceoverScene
 from manim_voiceover.services.gtts import GTTSService
