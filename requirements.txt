@@ -1,0 +1,6 @@
+manim==0.19.2
+manim-voiceover==0.3.7
+rich==14.2.0
+gTTS==2.5.4
+python-dotenv==0.21.1
+sox==1.5.0

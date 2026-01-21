@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  renderer:
+    build: .
+    container_name: manim-renderer
+    volumes:
+      - .:/app
+      # Mask the local virtual environment so container uses its own system manim
+      - /app/.venv
+    # Ensure generated files are owned by the host user (if UID 1000 matches)
+    # If you encounter permission issues, you may need to run with: user: "${UID}:${GID}"
+    
+    # Pass through environment variables (e.g. for API keys in .env)
+    env_file:
+      - .env
+    
+    # Keep container running to execute commands via exec or run
+    command: tail -f /dev/null

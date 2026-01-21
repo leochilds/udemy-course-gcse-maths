@@ -108,10 +108,37 @@ Only create animations when motion/transformation adds clear learning value:
 - ❌ Static diagrams, decorative effects, simple text reveals
 
 See **[animations/README.md](animations/README.md)** for:
-- Installation instructions
 - Creating and rendering animations
 - Common Manim patterns for mathematics
 - Best practices and guidelines
+
+### Rendering with Docker (Recommended)
+
+To ensure a consistent environment and avoid dependency issues, we use Docker to render animations.
+
+**Prerequisites:**
+- Docker Desktop or Docker Engine installed.
+
+**Usage:**
+We provide a helper script `./run_docker_render.sh` to run commands inside the container.
+
+1. **Render All Animations:**
+   ```bash
+   ./run_docker_render.sh python render_all.py
+   ```
+
+2. **Render a Specific Animation:**
+   ```bash
+   ./run_docker_render.sh ./render_animation.sh animations/section-01/lesson-01.1-animation-01.py [quality]
+   ```
+   (Quality options: l, m, h, p, k)
+
+3. **Check Manim Version:**
+   ```bash
+   ./run_docker_render.sh manim --version
+   ```
+
+Note: The first run will build the Docker image, which may take a few minutes. Subsequent runs will be faster.
 
 ## Content Standards
 
