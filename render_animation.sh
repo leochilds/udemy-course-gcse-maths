@@ -10,8 +10,10 @@ SCENE_NAME=$3
 # Determine Manim executable
 if [ -f ".venv/bin/manim" ]; then
     MANIM_CMD=".venv/bin/manim"
-else
+elif command -v manim &> /dev/null; then
     MANIM_CMD="manim"
+else
+    MANIM_CMD="python3 -m manim"
 fi
 
 if [ -z "$FILE_PATH" ]; then
