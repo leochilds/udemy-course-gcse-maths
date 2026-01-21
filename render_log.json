@@ -1,13 +1,13 @@
 {
-  "last_update": "2026-01-21T17:45:53.616402",
+  "last_update": "2026-01-21T20:23:48.253584",
   "status": "completed",
   "completed": [
-    "animations/section-01/lesson-01.1-animation-02.py",
-    "animations/section-01/lesson-01.0-introduction.py",
-    "animations/section-01/lesson-01.1-animation-01.py",
-    "animations/section-01/lesson-01.1-animation-03.py",
-    "animations/section-01/lesson-01.1-animation-05.py",
-    "animations/section-01/lesson-01.1-complete.py",
-    "animations/section-01/lesson-01.1-animation-04.py"
+    "animations/section-01/lesson-01.1-solving-real-life-problems/lesson-01.1-complete.py",
+    "animations/section-01/lesson-01.1-solving-real-life-problems/lesson-01.1-animation-03.py",
+    "animations/section-01/lesson-01.1-solving-real-life-problems/lesson-01.1-animation-04.py",
+    "animations/section-01/lesson-01.1-solving-real-life-problems/lesson-01.1-animation-01.py",
+    "animations/section-01/lesson-01.0-introduction/lesson-01.0-introduction.py",
+    "animations/section-01/lesson-01.1-solving-real-life-problems/lesson-01.1-animation-05.py",
+    "animations/section-01/lesson-01.1-solving-real-life-problems/lesson-01.1-animation-02.py"
   ]
 }
