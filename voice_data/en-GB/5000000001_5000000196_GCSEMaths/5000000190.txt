@@ -1,0 +1,1 @@
+Negative indices represent the reciprocal of the positive power.
