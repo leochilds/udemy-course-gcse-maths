@@ -6,12 +6,15 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..', '..'))
 from animations.styles import Brand
 from manim_voiceover import VoiceoverScene
-from manim_voiceover.services.gtts import GTTSService
+from animations.voxcpm_service import VoxCPMService
 
 class Lesson010Introduction(VoiceoverScene):
     def construct(self):
         Brand.set_default_theme(self)
-        self.set_speech_service(GTTSService())
+        self.set_speech_service(VoxCPMService(
+            checkpoint_dir="/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000",
+            base_model_path="/home/leo/code/udemy-course-gcse-maths/models/VoxCPM1.5"
+        ))
 
         # --- Slide 1: Welcome ---
         self.slide_01_welcome()
