@@ -1,0 +1,1 @@
+The circumference of a circle is calculated by the formula two pi r.

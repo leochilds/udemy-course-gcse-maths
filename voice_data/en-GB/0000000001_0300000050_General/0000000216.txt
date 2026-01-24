@@ -1,0 +1,1 @@
+Second, unlike strict hierarchies, a child term may have more than one parent terms.

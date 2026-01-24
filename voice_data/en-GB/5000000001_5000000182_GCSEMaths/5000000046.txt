@@ -1,0 +1,1 @@
+The sum of an infinite geometric series is a over one minus r.

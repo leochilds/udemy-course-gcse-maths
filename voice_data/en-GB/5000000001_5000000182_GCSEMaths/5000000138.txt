@@ -1,0 +1,1 @@
+BIDMAS stands for Brackets, Indices, Division, Multiplication, Addition, and Subtraction.

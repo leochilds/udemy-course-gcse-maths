@@ -1,0 +1,1 @@
+Compound interest is calculated on the principal and the accumulated interest.

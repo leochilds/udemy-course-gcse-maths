@@ -1,0 +1,1 @@
+The sum of an arithmetic series is n over two times two a plus n minus one times d.

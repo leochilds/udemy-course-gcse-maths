@@ -1,0 +1,1 @@
+A geometric sequence has a common ratio between successive terms.

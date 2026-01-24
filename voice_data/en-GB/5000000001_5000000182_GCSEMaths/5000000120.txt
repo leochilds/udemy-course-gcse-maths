@@ -1,0 +1,1 @@
+The derivative of a function gives the gradient of the function at any point.

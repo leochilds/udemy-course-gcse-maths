@@ -1,0 +1,1 @@
+Conditional probability is the probability of an event occurring given that another event has already occurred.

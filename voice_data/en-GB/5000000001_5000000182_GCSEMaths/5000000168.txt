@@ -1,0 +1,1 @@
+A bar chart is a diagram in which the numerical values of variables are represented by the height or length of lines or rectangles of equal width.

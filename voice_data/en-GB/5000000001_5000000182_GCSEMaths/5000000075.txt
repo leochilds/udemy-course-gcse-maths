@@ -1,0 +1,1 @@
+An inverse function reverses the effect of the original function.

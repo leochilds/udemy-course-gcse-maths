@@ -1,0 +1,1 @@
+The speed of a car is sixty kilometres per hour. Convert this to metres per second.

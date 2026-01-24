@@ -1,0 +1,1 @@
+A number is rounded to the nearest ten. The rounded value is sixty. What are the lower and upper bounds of the original number?

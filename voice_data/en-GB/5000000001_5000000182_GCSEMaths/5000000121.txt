@@ -1,0 +1,1 @@
+An equation of a circle with centre at the origin is x squared plus y squared equals r squared.

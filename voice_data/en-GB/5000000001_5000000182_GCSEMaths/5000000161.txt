@@ -1,0 +1,1 @@
+Error interval is the range of values that a number could have taken before it was rounded or truncated.

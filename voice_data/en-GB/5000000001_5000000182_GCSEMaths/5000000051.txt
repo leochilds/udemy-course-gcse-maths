@@ -1,0 +1,1 @@
+A bearing is the angle measured clockwise from the north direction.

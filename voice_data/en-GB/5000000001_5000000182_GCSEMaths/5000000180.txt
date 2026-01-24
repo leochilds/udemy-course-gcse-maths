@@ -1,0 +1,1 @@
+Capture-recapture method is a method used to estimate the size of a population.

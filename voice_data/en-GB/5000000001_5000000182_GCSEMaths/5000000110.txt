@@ -1,0 +1,1 @@
+A chord is a line segment that joins two points on a circle.

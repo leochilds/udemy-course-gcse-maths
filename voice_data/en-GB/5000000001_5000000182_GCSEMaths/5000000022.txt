@@ -1,0 +1,1 @@
+The area of a triangle is half the base times the height.

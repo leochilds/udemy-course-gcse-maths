@@ -1,0 +1,1 @@
+A box plot is a standardized way of displaying the distribution of data.

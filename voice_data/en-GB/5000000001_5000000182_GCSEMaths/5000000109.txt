@@ -1,0 +1,1 @@
+The alternate segment theorem states that the angle between a tangent and a chord is equal to the angle in the alternate segment.

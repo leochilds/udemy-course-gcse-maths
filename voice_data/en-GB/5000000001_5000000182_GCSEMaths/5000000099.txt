@@ -1,0 +1,1 @@
+The perpendicular bisector of a line segment is the line that is perpendicular to the segment and passes through its midpoint.

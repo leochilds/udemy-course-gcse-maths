@@ -1,0 +1,1 @@
+An identity function is a function that returns the same value that was used as its argument.

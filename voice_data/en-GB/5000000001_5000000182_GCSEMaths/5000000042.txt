@@ -1,0 +1,1 @@
+The nth term of an arithmetic sequence is a plus n minus one times d.

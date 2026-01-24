@@ -1,0 +1,1 @@
+A function is a rule that assigns to each input exactly one output.

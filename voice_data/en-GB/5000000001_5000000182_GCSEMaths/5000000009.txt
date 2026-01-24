@@ -1,0 +1,1 @@
+Pythagoras' theorem states that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.

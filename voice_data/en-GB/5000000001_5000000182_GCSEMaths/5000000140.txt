@@ -1,0 +1,1 @@
+Expand the brackets in the expression three times the quantity of x plus two.

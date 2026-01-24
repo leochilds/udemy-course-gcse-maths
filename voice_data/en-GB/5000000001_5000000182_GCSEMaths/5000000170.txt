@@ -1,0 +1,1 @@
+A stem and leaf diagram is a way of organizing and presenting data.

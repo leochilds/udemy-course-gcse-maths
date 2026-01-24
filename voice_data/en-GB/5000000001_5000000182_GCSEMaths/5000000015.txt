@@ -1,0 +1,1 @@
+The gradient of a straight line is the change in y divided by the change in x.

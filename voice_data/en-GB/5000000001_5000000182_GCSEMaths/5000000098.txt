@@ -1,0 +1,1 @@
+A locus is a set of points that satisfy a given condition.

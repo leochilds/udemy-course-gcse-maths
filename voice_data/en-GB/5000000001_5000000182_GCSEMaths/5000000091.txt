@@ -1,0 +1,1 @@
+A translation is a transformation that slides a shape to a new position.

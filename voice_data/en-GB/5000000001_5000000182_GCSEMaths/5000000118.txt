@@ -1,0 +1,1 @@
+The gradient of a curve at a point is the gradient of the tangent to the curve at that point.

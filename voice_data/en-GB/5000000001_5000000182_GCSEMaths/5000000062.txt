@@ -1,0 +1,1 @@
+A tree diagram is used to represent the possible outcomes of an event.

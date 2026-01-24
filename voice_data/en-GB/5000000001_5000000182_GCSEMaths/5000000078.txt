@@ -1,0 +1,1 @@
+A quadratic function is a function of the form f of x equals a x squared plus b x plus c.

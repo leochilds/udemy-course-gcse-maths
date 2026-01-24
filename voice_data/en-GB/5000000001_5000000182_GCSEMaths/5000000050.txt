@@ -1,0 +1,1 @@
+The area of a triangle can be calculated as half a b sine C.

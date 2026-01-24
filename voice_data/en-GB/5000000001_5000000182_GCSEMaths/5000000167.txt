@@ -1,0 +1,1 @@
+A frequency table shows the number of times each value in a set of data occurs.

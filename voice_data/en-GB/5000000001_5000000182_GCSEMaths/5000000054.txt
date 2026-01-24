@@ -1,0 +1,1 @@
+A cumulative frequency graph shows the total frequency up to a given point.

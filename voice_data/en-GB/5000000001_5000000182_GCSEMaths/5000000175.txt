@@ -1,0 +1,1 @@
+A sample is a specific group that you will collect data from.

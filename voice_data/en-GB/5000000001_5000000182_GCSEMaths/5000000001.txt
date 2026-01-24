@@ -1,0 +1,1 @@
+Solve the quadratic equation x squared plus five x plus six equals zero.

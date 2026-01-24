@@ -1,0 +1,1 @@
+Upper and lower bounds are the highest and lowest values that a number can have.

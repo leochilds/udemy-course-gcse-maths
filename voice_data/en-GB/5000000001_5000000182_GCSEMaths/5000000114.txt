@@ -1,0 +1,1 @@
+A segment is a region of a circle enclosed by a chord and an arc.

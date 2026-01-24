@@ -1,0 +1,1 @@
+A secant is a line that intersects a circle at two points.

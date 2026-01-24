@@ -1,0 +1,1 @@
+A recurring decimal is a decimal number that has a digit or a group of digits that repeats forever.

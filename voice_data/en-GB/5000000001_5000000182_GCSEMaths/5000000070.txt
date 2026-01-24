@@ -1,0 +1,1 @@
+Indices are a way of writing numbers in a more convenient form.

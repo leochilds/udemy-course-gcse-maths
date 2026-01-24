@@ -1,0 +1,1 @@
+A region on a graph is a set of points that satisfy one or more inequalities.

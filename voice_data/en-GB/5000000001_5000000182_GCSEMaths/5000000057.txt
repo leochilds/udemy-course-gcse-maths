@@ -1,0 +1,1 @@
+A scatter diagram is a graph in which the values of two variables are plotted along two axes.

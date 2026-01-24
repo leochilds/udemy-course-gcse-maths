@@ -1,0 +1,1 @@
+The equation of a circle with centre a b is x minus a squared plus y minus b squared equals r squared.

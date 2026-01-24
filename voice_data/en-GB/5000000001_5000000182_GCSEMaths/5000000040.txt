@@ -1,0 +1,1 @@
+Simple interest is calculated as principal times rate times time.

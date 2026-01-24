@@ -1,0 +1,1 @@
+A sector is a region of a circle enclosed by two radii and an arc.

@@ -1,0 +1,1 @@
+A quadratic sequence has a constant second difference.

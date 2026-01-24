@@ -1,0 +1,1 @@
+Find the midpoint of the line segment joining the points two, three and six, seven.

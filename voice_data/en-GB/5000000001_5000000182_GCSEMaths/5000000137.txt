@@ -1,0 +1,1 @@
+BODMAS stands for Brackets, Orders, Division, Multiplication, Addition, and Subtraction.

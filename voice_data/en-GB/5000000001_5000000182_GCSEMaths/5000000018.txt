@@ -1,0 +1,1 @@
+The mean of a set of numbers is the sum of the numbers divided by the count of the numbers.

@@ -1,0 +1,1 @@
+Completing the square is a technique for converting a quadratic polynomial to the form a times x minus h squared plus k.

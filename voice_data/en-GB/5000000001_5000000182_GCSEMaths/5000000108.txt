@@ -1,0 +1,1 @@
+Tangents from an external point to a circle are equal in length.

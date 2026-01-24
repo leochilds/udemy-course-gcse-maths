@@ -1,0 +1,1 @@
+Similar shapes have the same shape but not necessarily the same size.

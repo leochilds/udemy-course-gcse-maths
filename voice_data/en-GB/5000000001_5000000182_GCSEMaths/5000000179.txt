@@ -1,0 +1,1 @@
+A systematic sample is a sample in which members are selected from a larger population according to a random starting point but with a fixed, periodic interval.

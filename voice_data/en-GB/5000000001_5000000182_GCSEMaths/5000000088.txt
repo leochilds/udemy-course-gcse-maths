@@ -1,0 +1,1 @@
+A congruence transformation is a transformation that preserves distance and angle.
