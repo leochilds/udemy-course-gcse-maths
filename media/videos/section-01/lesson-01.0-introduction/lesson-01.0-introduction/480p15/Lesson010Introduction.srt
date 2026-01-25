@@ -1,152 +1,176 @@
 1
-00:00:00,000 --> 00:00:03,578
-Welcome to the first section of your GCSE Maths course. Number. This
+00:00:00,000 --> 00:00:03,437
+Welcome to the first section of your GCSE Maths course. Number.
 
 2
-00:00:03,678 --> 00:00:07,094
-section covers the fundamental building blocks of {M AE2 TH M AE1
+00:00:03,537 --> 00:00:08,042
+This section covers the fundamental building blocks of mathematics. Whether you're
 
 3
-00:00:07,194 --> 00:00:11,152
-T IH0 K S}. Whether you're managing household finances, planning a project,
+00:00:08,142 --> 00:00:11,917
+managing household finances, planning a project, or just want to feel
 
 4
-00:00:11,252 --> 00:00:14,560
-or just want to feel more confident with figures, the skills we
+00:00:12,017 --> 00:00:15,399
+more confident with figures, the skills we will cover here are
 
 5
-00:00:14,660 --> 00:00:18,725
-will cover here are essential. In this brief introduction, we'll outline what
+00:00:15,499 --> 00:00:19,442
+essential. In this brief introduction, we'll outline what you can expect
 
 6
-00:00:18,825 --> 00:00:22,025
-you can expect to learn and why these skills are so valuable.
+00:00:19,542 --> 00:00:22,025
+to learn and why these skills are so valuable.
 
 7
-00:00:23,533 --> 00:00:26,782
+00:00:23,533 --> 00:00:27,795
 In this section, we will guide you through several key topics.
 
 8
-00:00:26,882 --> 00:00:30,618
-We'll start by ensuring you are comfortable calculating with both whole
+00:00:27,866 --> 00:00:31,452
+We'll start by ensuring you are comfortable calculating
 
 9
-00:00:30,718 --> 00:00:34,238
-numbers—which we call integers—and decimals. We will look at how to
+00:00:31,552 --> 00:00:35,472
+with both whole numbers—which we call integers—and decimals.
 
 10
-00:00:34,338 --> 00:00:38,020
-round numbers, which is a crucial skill for estimation. You'll explore
+00:00:35,533 --> 00:00:37,755
+We will look at how to round numbers,
 
 11
-00:00:38,120 --> 00:00:42,234
-the properties of numbers, including factors, multiples, and prime numbers, as
+00:00:37,855 --> 00:00:40,265
+which is a crucial skill for estimation.
 
 12
-00:00:42,334 --> 00:00:45,043
-well as squares and cubes. We will also cover how to
+00:00:40,333 --> 00:00:45,033
+You'll explore the properties of numbers, including factors, multiples,
 
 13
-00:00:45,143 --> 00:00:48,879
-find the Lowest Common Multiple and Highest Common Factor, and finally,
+00:00:45,133 --> 00:00:48,279
+and prime numbers, as well as squares and cubes.
 
 14
-00:00:48,979 --> 00:00:51,959
-we'll master the rules for working with negative numbers.
+00:00:48,333 --> 00:00:50,673
+We will also cover how to find the
 
 15
-00:00:53,500 --> 00:00:57,088
-Before we begin, it's helpful to know where we're starting from.
+00:00:50,773 --> 00:00:54,189
+Lowest Common Multiple and Highest Common Factor,
 
 16
-00:00:57,188 --> 00:01:01,237
-You should already be familiar with the four basic operations: addition,
+00:00:54,266 --> 00:00:58,999
+and finally, we'll master the rules for working with negative numbers.
 
 17
-00:01:01,337 --> 00:01:06,020
-subtraction, multiplication, and division using integers. You should also have some
+00:01:01,566 --> 00:01:05,829
+Before we begin, it's helpful to know where we're starting from.
 
 18
-00:01:06,120 --> 00:01:10,054
-recognition of what multiples, factors, and prime numbers are, even if
+00:01:05,900 --> 00:01:09,536
+You should already be familiar with the four basic
 
 19
-00:01:10,154 --> 00:01:14,607
-you need a refresher. Familiarity with the order of operations—often remembered
+00:01:09,636 --> 00:01:15,439
+operations: addition, subtraction, multiplication, and division using integers.
 
 20
-00:01:14,707 --> 00:01:18,468
-by the acronym BIDMAS or BODMAS—will also be beneficial, along with
+00:01:15,500 --> 00:01:19,594
+You should also have some recognition of what multiples, factors,
 
 21
-00:01:18,568 --> 00:01:22,790
-the ability to substitute numbers into simple algebraic expressions. If any
+00:01:19,694 --> 00:01:22,949
+and prime numbers are, even if you need a refresher.
 
 22
-00:01:22,890 --> 00:01:26,190
-of these sound daunting, don't worry; we will build up your
+00:01:23,033 --> 00:01:27,801
+Familiarity with the order of operations—often remembered by
 
 23
-00:01:26,290 --> 00:01:27,515
-understanding as we go.
+00:01:27,901 --> 00:01:32,102
+the acronym BIDMAS or BODMAS—will also be beneficial,
 
 24
-00:01:29,066 --> 00:01:32,386
-Mathematics isn't just about exams; it's a vital tool for the
+00:01:32,166 --> 00:01:34,815
+along with the ability to substitute
 
 25
-00:01:32,486 --> 00:01:35,861
-workplace and daily life. Consider a cashier who needs to give
+00:01:34,915 --> 00:01:38,022
+numbers into simple algebraic expressions.
 
 26
-00:01:35,961 --> 00:01:39,673
-the correct change, or a delivery driver planning the most efficient
+00:01:38,100 --> 00:01:41,145
+If any of these sound daunting, don't worry; we
 
 27
-00:01:39,773 --> 00:01:42,925
-route to save fuel and time. Pilots use maths to calculate
+00:01:41,245 --> 00:01:43,955
+will build up your understanding as we go.
 
 28
-00:01:43,025 --> 00:01:47,802
-fuel requirements and navigation, while doctors must calculate precise medicine dosages
+00:01:46,533 --> 00:01:50,122
+Mathematics isn't just about exams; it's a vital
 
 29
-00:01:47,902 --> 00:01:50,717
-based on a patient's age and weight. One of the most
+00:01:50,222 --> 00:01:53,042
+tool for the workplace and daily life.
 
 30
-00:01:50,817 --> 00:01:54,921
-important skills you'll develop is knowing when an estimation is sufficient
+00:01:53,133 --> 00:01:56,567
+Consider a cashier who needs to give the correct change, or a
 
 31
-00:01:55,021 --> 00:01:56,996
-and when an exact answer is required.
+00:01:56,667 --> 00:02:00,739
+delivery driver planning the most efficient route to save fuel and time.
 
 32
-00:01:58,566 --> 00:02:01,845
-To summarize, this section is designed to make you competent and
+00:02:00,800 --> 00:02:04,521
+Pilots use maths to calculate fuel requirements and
 
 33
-00:02:01,945 --> 00:02:04,959
-confident in basic number skills. We will focus not just on
+00:02:04,621 --> 00:02:09,391
+navigation, while doctors must calculate precise medicine dosages
 
 34
-00:02:05,059 --> 00:02:07,916
-the abstract rules, but on how to apply them to identify
+00:02:09,491 --> 00:02:12,089
+based on a patient's age and weight.
 
 35
-00:02:08,016 --> 00:02:11,664
-and solve problems in real-life situations. This preparation is key for
+00:02:12,133 --> 00:02:17,407
+One of the most important skills you'll develop is knowing when
 
 36
-00:02:11,764 --> 00:02:14,567
-the world of work and for the rest of your mathematical
+00:02:17,507 --> 00:02:22,952
+an estimation is sufficient and when an exact answer is required.
 
 37
-00:02:14,667 --> 00:02:17,523
-journey. When you are ready, move on to the next lesson,
+00:02:25,500 --> 00:02:28,757
+To summarize, this section is designed to make
 
 38
-00:02:17,623 --> 00:02:21,219
-where we will start applying these skills to solve real-life problems.
+00:02:28,857 --> 00:02:32,479
+you competent and confident in basic number skills.
+
+39
+00:02:32,566 --> 00:02:35,848
+We will focus not just on the abstract rules, but on how
+
+40
+00:02:35,948 --> 00:02:40,016
+to apply them to identify and solve problems in real-life situations.
+
+41
+00:02:40,100 --> 00:02:42,945
+This preparation is key for the world of work
+
+42
+00:02:43,045 --> 00:02:45,955
+and for the rest of your mathematical journey.
+
+43
+00:02:46,033 --> 00:02:49,211
+When you are ready, move on to the next lesson, where
+
+44
+00:02:49,311 --> 00:02:53,169
+we will start applying these skills to solve real-life problems.
 
