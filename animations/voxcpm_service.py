@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import hashlib
 import numpy as np
 import soundfile as sf
@@ -19,6 +20,10 @@ class VoxCPMService(SpeechService):
         self.checkpoint_dir = checkpoint_dir
         self.base_model_path = base_model_path
         self.sample_rate = sample_rate
+        
+        # Load phoneme map
+        self.phoneme_map = {}
+        self.load_phoneme_map()
         
         # Load config from checkpoint
         lora_config_path = os.path.join(checkpoint_dir, "lora_config.json")
@@ -40,14 +45,32 @@ class VoxCPMService(SpeechService):
         )
         print("VoxCPM model loaded.")
 
+    def load_phoneme_map(self):
+        map_path = os.path.join(os.path.dirname(__file__), "phoneme_map.json")
+        if os.path.exists(map_path):
+            with open(map_path, "r") as f:
+                self.phoneme_map = json.load(f)
+            print(f"Loaded phoneme map from {map_path}")
+        else:
+            print(f"Phoneme map not found at {map_path}")
+
+    def apply_phoneme_map(self, text: str) -> str:
+        for word, phoneme in self.phoneme_map.items():
+            # Use word boundary to avoid partial replacements
+            pattern = re.compile(r'\b' + re.escape(word) + r'\b', re.IGNORECASE)
+            text = pattern.sub(phoneme, text)
+        return text
+
     def generate_from_text(self, text: str, cache_dir: str = None, path: str = None, **kwargs) -> dict:
         if cache_dir is None:
             cache_dir = self.cache_dir
+            
+        processed_text = self.apply_phoneme_map(text)
         
         cache_dir = Path(cache_dir)
             
         input_data = {
-            "input_text": text,
+            "input_text": processed_text,
             "service": "VoxCPM",
             "checkpoint": self.checkpoint_dir
         }
@@ -60,11 +83,11 @@ class VoxCPMService(SpeechService):
             basename = self.get_audio_basename(input_data)
             path = str(cache_dir / f"{basename}.mp3")
 
-        print(f"Generating audio for: {text[:50]}...")
+        print(f"Generating audio for: {processed_text[:50]}...")
         print(f"Writing to: {path}")
         # Generate audio
         # Note: VoxCPM.generate returns a numpy array (1D float32)
-        wav = self.model.generate(text=text)
+        wav = self.model.generate(text=processed_text)
         
         # Save to file (via temp wav then mp3)
         temp_wav = path.replace(".mp3", ".temp.wav")

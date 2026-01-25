@@ -568,5 +568,155 @@
       "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
     },
     "final_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3"
+  },
+  {
+    "original_audio": "welcome-to-the-first-section-of-your-gcse-maths-c40e89e1.mp3",
+    "input_text": "Welcome to the first section of your GCSE Maths course... Number. This section covers the fundamental building blocks of {M AE2 TH AH0 M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+    "input_data": {
+      "input_text": "Welcome to the first section of your GCSE Maths course... Number. This section covers the fundamental building blocks of {M AE2 TH AH0 M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-the-first-section-of-your-gcse-maths-c40e89e1.mp3"
+  },
+  {
+    "original_audio": "in-this-section-we-will-guide-you-through-several-c11d0837.mp3",
+    "input_text": "In this section, we will guide you through several key topics. We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals. We will look at how to round numbers, which is a crucial skill for estimation. You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes. We will also cover how to find the Lowest Common Multiple and Highest Common Factor, and finally, we'll master the rules for working with negative numbers.",
+    "input_data": {
+      "input_text": "In this section, we will guide you through several key topics. We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals. We will look at how to round numbers, which is a crucial skill for estimation. You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes. We will also cover how to find the Lowest Common Multiple and Highest Common Factor, and finally, we'll master the rules for working with negative numbers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-section-we-will-guide-you-through-several-c11d0837.mp3"
+  },
+  {
+    "original_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-6f4411ea.mp3",
+    "input_text": "Before we begin, it's helpful to know where we're starting from. You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers. You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher. Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial, along with the ability to substitute numbers into simple algebraic expressions. If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+    "input_data": {
+      "input_text": "Before we begin, it's helpful to know where we're starting from. You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers. You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher. Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial, along with the ability to substitute numbers into simple algebraic expressions. If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-6f4411ea.mp3"
+  },
+  {
+    "original_audio": "mathematics-isn-t-just-about-exams-it-s-a-vital-ddbb5dc6.mp3",
+    "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life. Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time. Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight. One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+    "input_data": {
+      "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life. Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time. Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight. One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "mathematics-isn-t-just-about-exams-it-s-a-vital-ddbb5dc6.mp3"
+  },
+  {
+    "original_audio": "to-summarize-this-section-is-designed-to-make-you-eefe47b0.mp3",
+    "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills. We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations. This preparation is key for the world of work and for the rest of your mathematical journey. When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+    "input_data": {
+      "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills. We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations. This preparation is key for the world of work and for the rest of your mathematical journey. When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-this-section-is-designed-to-make-you-eefe47b0.mp3"
+  },
+  {
+    "original_audio": "welcome-to-the-first-section-of-your-gcse-maths-2abc45f0.mp3",
+    "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH AH0 M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+    "input_data": {
+      "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH AH0 M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-the-first-section-of-your-gcse-maths-2abc45f0.mp3"
+  },
+  {
+    "original_audio": "in-this-section-we-will-guide-you-through-several-c11d0837.mp3",
+    "input_text": "In this section, we will guide you through several key topics. We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals. We will look at how to round numbers, which is a crucial skill for estimation. You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes. We will also cover how to find the Lowest Common Multiple and Highest Common Factor, and finally, we'll master the rules for working with negative numbers.",
+    "input_data": {
+      "input_text": "In this section, we will guide you through several key topics. We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals. We will look at how to round numbers, which is a crucial skill for estimation. You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes. We will also cover how to find the Lowest Common Multiple and Highest Common Factor, and finally, we'll master the rules for working with negative numbers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-section-we-will-guide-you-through-several-c11d0837.mp3"
+  },
+  {
+    "original_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-6f4411ea.mp3",
+    "input_text": "Before we begin, it's helpful to know where we're starting from. You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers. You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher. Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial, along with the ability to substitute numbers into simple algebraic expressions. If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+    "input_data": {
+      "input_text": "Before we begin, it's helpful to know where we're starting from. You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers. You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher. Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial, along with the ability to substitute numbers into simple algebraic expressions. If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-6f4411ea.mp3"
+  },
+  {
+    "original_audio": "mathematics-isn-t-just-about-exams-it-s-a-vital-ddbb5dc6.mp3",
+    "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life. Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time. Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight. One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+    "input_data": {
+      "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life. Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time. Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight. One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "mathematics-isn-t-just-about-exams-it-s-a-vital-ddbb5dc6.mp3"
+  },
+  {
+    "original_audio": "to-summarize-this-section-is-designed-to-make-you-eefe47b0.mp3",
+    "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills. We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations. This preparation is key for the world of work and for the rest of your mathematical journey. When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+    "input_data": {
+      "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills. We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations. This preparation is key for the world of work and for the rest of your mathematical journey. When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-this-section-is-designed-to-make-you-eefe47b0.mp3"
+  },
+  {
+    "original_audio": "welcome-to-the-first-section-of-your-gcse-maths-11e99e26.mp3",
+    "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+    "input_data": {
+      "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-the-first-section-of-your-gcse-maths-11e99e26.mp3"
+  },
+  {
+    "original_audio": "in-this-section-we-will-guide-you-through-several-c11d0837.mp3",
+    "input_text": "In this section, we will guide you through several key topics. We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals. We will look at how to round numbers, which is a crucial skill for estimation. You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes. We will also cover how to find the Lowest Common Multiple and Highest Common Factor, and finally, we'll master the rules for working with negative numbers.",
+    "input_data": {
+      "input_text": "In this section, we will guide you through several key topics. We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals. We will look at how to round numbers, which is a crucial skill for estimation. You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes. We will also cover how to find the Lowest Common Multiple and Highest Common Factor, and finally, we'll master the rules for working with negative numbers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-section-we-will-guide-you-through-several-c11d0837.mp3"
+  },
+  {
+    "original_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-6f4411ea.mp3",
+    "input_text": "Before we begin, it's helpful to know where we're starting from. You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers. You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher. Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial, along with the ability to substitute numbers into simple algebraic expressions. If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+    "input_data": {
+      "input_text": "Before we begin, it's helpful to know where we're starting from. You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers. You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher. Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial, along with the ability to substitute numbers into simple algebraic expressions. If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-6f4411ea.mp3"
+  },
+  {
+    "original_audio": "mathematics-isn-t-just-about-exams-it-s-a-vital-ddbb5dc6.mp3",
+    "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life. Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time. Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight. One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+    "input_data": {
+      "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life. Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time. Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight. One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "mathematics-isn-t-just-about-exams-it-s-a-vital-ddbb5dc6.mp3"
+  },
+  {
+    "original_audio": "to-summarize-this-section-is-designed-to-make-you-eefe47b0.mp3",
+    "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills. We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations. This preparation is key for the world of work and for the rest of your mathematical journey. When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+    "input_data": {
+      "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills. We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations. This preparation is key for the world of work and for the rest of your mathematical journey. When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-this-section-is-designed-to-make-you-eefe47b0.mp3"
   }
 ]

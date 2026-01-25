@@ -41,7 +41,7 @@ class Lesson010Introduction(VoiceoverScene):
         self.wait(0.5)
 
     def slide_01_welcome(self):
-        with self.voiceover(text="Welcome to the first section of your GCSE Maths course... Number. This section covers the fundamental building blocks of {M AE2 TH AH0 M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.") as tracker:
+        with self.voiceover(text="Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of mathematics. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.") as tracker:
             title = Text("Section 1: Basic Number Skills").scale(1.2).to_edge(UP)
             underline = Line(LEFT, RIGHT).next_to(title, DOWN).scale(2)
             

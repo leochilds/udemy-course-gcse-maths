@@ -1,0 +1,152 @@
+1
+00:00:00,000 --> 00:00:03,578
+Welcome to the first section of your GCSE Maths course. Number. This
+
+2
+00:00:03,678 --> 00:00:07,094
+section covers the fundamental building blocks of {M AE2 TH M AE1
+
+3
+00:00:07,194 --> 00:00:11,152
+T IH0 K S}. Whether you're managing household finances, planning a project,
+
+4
+00:00:11,252 --> 00:00:14,560
+or just want to feel more confident with figures, the skills we
+
+5
+00:00:14,660 --> 00:00:18,725
+will cover here are essential. In this brief introduction, we'll outline what
+
+6
+00:00:18,825 --> 00:00:22,025
+you can expect to learn and why these skills are so valuable.
+
+7
+00:00:23,533 --> 00:00:26,782
+In this section, we will guide you through several key topics.
+
+8
+00:00:26,882 --> 00:00:30,618
+We'll start by ensuring you are comfortable calculating with both whole
+
+9
+00:00:30,718 --> 00:00:34,238
+numbers—which we call integers—and decimals. We will look at how to
+
+10
+00:00:34,338 --> 00:00:38,020
+round numbers, which is a crucial skill for estimation. You'll explore
+
+11
+00:00:38,120 --> 00:00:42,234
+the properties of numbers, including factors, multiples, and prime numbers, as
+
+12
+00:00:42,334 --> 00:00:45,043
+well as squares and cubes. We will also cover how to
+
+13
+00:00:45,143 --> 00:00:48,879
+find the Lowest Common Multiple and Highest Common Factor, and finally,
+
+14
+00:00:48,979 --> 00:00:51,959
+we'll master the rules for working with negative numbers.
+
+15
+00:00:53,500 --> 00:00:57,088
+Before we begin, it's helpful to know where we're starting from.
+
+16
+00:00:57,188 --> 00:01:01,237
+You should already be familiar with the four basic operations: addition,
+
+17
+00:01:01,337 --> 00:01:06,020
+subtraction, multiplication, and division using integers. You should also have some
+
+18
+00:01:06,120 --> 00:01:10,054
+recognition of what multiples, factors, and prime numbers are, even if
+
+19
+00:01:10,154 --> 00:01:14,607
+you need a refresher. Familiarity with the order of operations—often remembered
+
+20
+00:01:14,707 --> 00:01:18,468
+by the acronym BIDMAS or BODMAS—will also be beneficial, along with
+
+21
+00:01:18,568 --> 00:01:22,790
+the ability to substitute numbers into simple algebraic expressions. If any
+
+22
+00:01:22,890 --> 00:01:26,190
+of these sound daunting, don't worry; we will build up your
+
+23
+00:01:26,290 --> 00:01:27,515
+understanding as we go.
+
+24
+00:01:29,066 --> 00:01:32,386
+Mathematics isn't just about exams; it's a vital tool for the
+
+25
+00:01:32,486 --> 00:01:35,861
+workplace and daily life. Consider a cashier who needs to give
+
+26
+00:01:35,961 --> 00:01:39,673
+the correct change, or a delivery driver planning the most efficient
+
+27
+00:01:39,773 --> 00:01:42,925
+route to save fuel and time. Pilots use maths to calculate
+
+28
+00:01:43,025 --> 00:01:47,802
+fuel requirements and navigation, while doctors must calculate precise medicine dosages
+
+29
+00:01:47,902 --> 00:01:50,717
+based on a patient's age and weight. One of the most
+
+30
+00:01:50,817 --> 00:01:54,921
+important skills you'll develop is knowing when an estimation is sufficient
+
+31
+00:01:55,021 --> 00:01:56,996
+and when an exact answer is required.
+
+32
+00:01:58,566 --> 00:02:01,845
+To summarize, this section is designed to make you competent and
+
+33
+00:02:01,945 --> 00:02:04,959
+confident in basic number skills. We will focus not just on
+
+34
+00:02:05,059 --> 00:02:07,916
+the abstract rules, but on how to apply them to identify
+
+35
+00:02:08,016 --> 00:02:11,664
+and solve problems in real-life situations. This preparation is key for
+
+36
+00:02:11,764 --> 00:02:14,567
+the world of work and for the rest of your mathematical
+
+37
+00:02:14,667 --> 00:02:17,523
+journey. When you are ready, move on to the next lesson,
+
+38
+00:02:17,623 --> 00:02:21,219
+where we will start applying these skills to solve real-life problems.
+
