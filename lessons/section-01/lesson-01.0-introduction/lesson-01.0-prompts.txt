@@ -1,0 +1,31 @@
+0000000001 Section 1 covers Number, specifically Basic Number.
+0000000002 This section is going to show you how to calculate integers and decimals.
+0000000003 It will show you how to round numbers to a given number of significant figures.
+0000000004 You will learn to work out and recognise multiples, factors and prime numbers.
+0000000005 You will also learn to recognise squares, cubes and their roots.
+0000000006 We will cover how to find the prime factors of a number.
+0000000007 You will learn how to work out lowest common multiples, or LCM.
+0000000008 We will also cover how to work out highest common factors, or HCF.
+0000000009 Finally, we will show you how to calculate with negative numbers.
+0000000010 You should already know how to add, subtract, multiply and divide with integers.
+0000000011 You should know what multiples, factors, square numbers and prime numbers are.
+0000000012 You should be familiar with the BIDMAS or BODMAS rule.
+0000000013 And you should know how to substitute values into simple algebraic expressions.
+0000000014 Let's talk a bit about this section.
+0000000015 Most jobs require some knowledge of mathematics.
+0000000016 For any job, you should be competent in basic number skills.
+0000000017 This includes addition, subtraction, multiplication and division.
+0000000018 You should be able to use whole numbers, fractions and decimals.
+0000000019 You should know when it is sensible to use estimation or approximation.
+0000000020 And you should know when it is important to have exact answers.
+0000000021 You need to be able to identify the skills required.
+0000000022 This applies when questions are set in real-life situations.
+0000000023 This is in preparation for the world of work.
+0000000024 Here are some examples of mathematical problems faced in a range of jobs.
+0000000025 Cashiers need to know what coins to give in change.
+0000000026 Pilots need to work out how much fuel they need.
+0000000027 They also need to calculate the direction to fly the plane.
+0000000028 Delivery drivers need to work out their best route to save time and fuel.
+0000000029 Doctors need to know how much medicine to prescribe.
+0000000030 This varies for different ages and weights of patients.
+0000000031 How many other jobs can you think of that require mathematics?
