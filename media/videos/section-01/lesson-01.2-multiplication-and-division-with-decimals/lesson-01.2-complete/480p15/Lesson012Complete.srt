@@ -1,0 +1,376 @@
+1
+00:00:00,000 --> 00:00:03,114
+Welcome to this lesson on multiplication and division
+
+2
+00:00:03,214 --> 00:00:05,843
+with decimals. In this session, we will learn
+
+3
+00:00:05,943 --> 00:00:08,572
+how to multiply two decimal numbers together.
+
+4
+00:00:08,666 --> 00:00:11,319
+We will also look at how to divide by a
+
+5
+00:00:11,419 --> 00:00:16,612
+decimal number by transforming the calculation into one involving integers.
+
+6
+00:00:16,666 --> 00:00:19,660
+We'll start by reviewing some key terms:
+
+7
+00:00:19,760 --> 00:00:22,522
+the decimal point and decimal places.
+
+8
+00:00:25,066 --> 00:00:27,741
+The number system is extended by using decimal
+
+9
+00:00:27,841 --> 00:00:31,300
+numbers to represent fractions. The decimal point separates
+
+10
+00:00:31,400 --> 00:00:34,135
+the whole-number part from the fractional part.
+
+11
+00:00:34,200 --> 00:00:39,168
+Take the number 25.374, for example. To the left of
+
+12
+00:00:39,268 --> 00:00:43,739
+the decimal point, we have 2 Tens and 5 Units.
+
+13
+00:00:43,800 --> 00:00:50,779
+To the right, we have 3 Tenths, 7 Hundredths, and 4 Thousandths.
+
+14
+00:00:50,866 --> 00:00:55,969
+We use this every day with money. £36.67 is simply 3 tens,
+
+15
+00:00:56,069 --> 00:01:02,965
+6 units, 6 tenths—which are 10 pence coins—and 7 hundredths—which are pennies.
+
+16
+00:01:04,500 --> 00:01:07,760
+When we talk about 'decimal places,' we are referring to the
+
+17
+00:01:07,860 --> 00:01:11,008
+positions of the digits to the right of the decimal point.
+
+18
+00:01:11,100 --> 00:01:14,861
+For instance, 79.4 has one digit after the
+
+19
+00:01:14,961 --> 00:01:18,079
+point, so it has one decimal place.
+
+20
+00:01:18,166 --> 00:01:24,832
+6.83 has two digits after the point, so it has two decimal places.
+
+21
+00:01:24,900 --> 00:01:29,177
+And 0.526 has three decimal places. Knowing this is crucial
+
+22
+00:01:29,277 --> 00:01:33,629
+for rounding and for checking our answers in multiplication.
+
+23
+00:01:35,200 --> 00:01:37,832
+Often, you will need to round a decimal
+
+24
+00:01:37,932 --> 00:01:41,055
+number to a specific number of decimal places.
+
+25
+00:01:41,133 --> 00:01:44,423
+Here is the method: Start at the decimal point and count
+
+26
+00:01:44,523 --> 00:01:47,873
+along to the required number of places. Then, look at the
+
+27
+00:01:47,973 --> 00:01:51,142
+very next digit—the first one you are going to remove.
+
+28
+00:01:51,200 --> 00:01:53,651
+If that digit is less than 5, you
+
+29
+00:01:53,751 --> 00:01:56,899
+simply remove it and all following digits.
+
+30
+00:01:56,933 --> 00:02:00,512
+If that digit is 5 or more, you must round up. Add 1 to
+
+31
+00:02:00,612 --> 00:02:05,662
+the digit in the previous decimal place, and then remove the unwanted digits.
+
+32
+00:02:07,233 --> 00:02:11,400
+Let's practice this with some examples. First,
+
+33
+00:02:11,500 --> 00:02:14,369
+round 5.852 to 2 decimal places.
+
+34
+00:02:14,433 --> 00:02:19,483
+The second decimal digit is 5. The next digit is 2,
+
+35
+00:02:19,583 --> 00:02:24,129
+which is less than 5. So, we leave it as 5.85.
+
+36
+00:02:24,166 --> 00:02:29,212
+Second, round 7.156 to 2 decimal places.
+
+37
+00:02:29,300 --> 00:02:34,699
+The second digit is 5, but the next digit is 6. Since 6 is 5
+
+38
+00:02:34,799 --> 00:02:39,648
+or more, we round up the 5 to a 6. The answer is 7.16.
+
+39
+00:02:39,700 --> 00:02:45,085
+Third, round 0.274 to 1 decimal place.
+
+40
+00:02:45,166 --> 00:02:49,113
+The first digit is 2. The next is 7, which
+
+41
+00:02:49,213 --> 00:02:53,739
+is high enough to round up. So, 0.2 becomes 0.3.
+
+42
+00:02:53,833 --> 00:03:00,525
+Finally, 15.3518 to 1 decimal place. The next digit is 5, so
+
+43
+00:03:00,625 --> 00:03:05,619
+we round up the 3 to a 4. The result is 15.4.
+
+44
+00:03:07,200 --> 00:03:11,639
+Now, let's look at multiplying two decimal numbers. The easiest way
+
+45
+00:03:11,739 --> 00:03:15,772
+to do this is to temporarily forget about the decimal points.
+
+46
+00:03:15,866 --> 00:03:21,848
+First, multiply each decimal by a power of 10—like
+
+47
+00:03:21,948 --> 00:03:27,809
+10, 100, or 1000—to turn them into whole numbers.
+
+48
+00:03:27,866 --> 00:03:31,632
+Second, multiply those whole numbers together.
+
+49
+00:03:31,666 --> 00:03:36,399
+Third, multiply the powers of 10 you used in step one.
+
+50
+00:03:36,466 --> 00:03:40,317
+Finally, divide your result by that combined power of 10
+
+51
+00:03:40,417 --> 00:03:43,916
+to put the decimal point back in the correct place.
+
+52
+00:03:45,500 --> 00:03:50,232
+Let's calculate 3.42 multiplied by 2.7.
+
+53
+00:03:50,300 --> 00:03:55,812
+First, we make them whole numbers. 3.42 has two decimal
+
+54
+00:03:55,912 --> 00:03:59,995
+places, so we multiply by 100 to get 342.
+
+55
+00:04:00,033 --> 00:04:05,889
+2.7 has one decimal place, so we multiply by 10 to get 27.
+
+56
+00:04:05,966 --> 00:04:09,997
+Now we calculate 342 times 27.
+
+57
+00:04:10,097 --> 00:04:15,505
+Using long multiplication, we get 9,234.
+
+58
+00:04:15,566 --> 00:04:22,389
+We multiplied by 100 and then by 10. 100 times 10 is 1,000.
+
+59
+00:04:22,433 --> 00:04:28,035
+So, we must divide our answer, 9,234, by 1,000. This
+
+60
+00:04:28,135 --> 00:04:33,409
+moves the decimal point three places to the left.
+
+61
+00:04:33,500 --> 00:04:37,762
+The final answer is 9.234.
+
+62
+00:04:39,333 --> 00:04:43,635
+Dividing by a decimal number can be tricky. The best strategy is to
+
+63
+00:04:43,735 --> 00:04:47,905
+change the problem so you are dividing by a whole number instead.
+
+64
+00:04:48,000 --> 00:04:53,648
+Look at the divisor—the number you are dividing by. Decide what you
+
+65
+00:04:53,748 --> 00:04:57,852
+need to multiply it by to make it a whole number.
+
+66
+00:04:57,933 --> 00:05:02,235
+Then, multiply BOTH parts of the division by that same amount. This
+
+67
+00:05:02,335 --> 00:05:06,505
+keeps the answer the same, but makes the calculation much easier.
+
+68
+00:05:08,100 --> 00:05:12,362
+Let's try 42 divided by 0.2.
+
+69
+00:05:12,433 --> 00:05:15,607
+We are dividing by 0.2. To make 0.2 a
+
+70
+00:05:15,707 --> 00:05:19,412
+whole number, we need to multiply it by 10.
+
+71
+00:05:19,500 --> 00:05:24,075
+So, we must also multiply 42 by 10.
+
+72
+00:05:24,166 --> 00:05:32,269
+The calculation changes from 42 divided by 0.2... to 420 divided by 2.
+
+73
+00:05:32,366 --> 00:05:36,629
+420 divided by 2 is easy: it is 210.
+
+74
+00:05:36,700 --> 00:05:41,589
+So, 42 divided by 0.2 is 210.
+
+75
+00:05:43,133 --> 00:05:48,519
+Now a harder one: 19.8 divided by 0.55.
+
+76
+00:05:48,600 --> 00:05:51,976
+The divisor is 0.55. To make this a
+
+77
+00:05:52,076 --> 00:05:56,049
+whole number, we need to multiply by 100.
+
+78
+00:05:56,133 --> 00:06:03,582
+So we multiply 19.8 by 100 as well, which gives us 1,980.
+
+79
+00:06:03,666 --> 00:06:07,624
+Our new problem is 1,980 divided by 55. We
+
+80
+00:06:07,724 --> 00:06:12,552
+can use long division or repeated subtraction here.
+
+81
+00:06:12,600 --> 00:06:21,172
+20 times 55 is 1,100. Subtracting that from 1,980 leaves 880.
+
+82
+00:06:21,266 --> 00:06:25,114
+8 times 55 is 440. We can subtract
+
+83
+00:06:25,214 --> 00:06:29,525
+that twice to clear the remaining 880.
+
+84
+00:06:29,600 --> 00:06:38,668
+20 plus 8 plus 8 equals 36. So, 19.8 divided by 0.55 is 36.
+
+85
+00:06:40,233 --> 00:06:42,943
+To summarize, we've seen that decimals are
+
+86
+00:06:43,043 --> 00:06:45,619
+just another way to represent fractions.
+
+87
+00:06:45,700 --> 00:06:48,891
+When rounding, always look at the digit immediately
+
+88
+00:06:48,991 --> 00:06:51,085
+to the right of your target place.
+
+89
+00:06:51,166 --> 00:06:55,086
+For multiplication, treat them as whole numbers first, then
+
+90
+00:06:55,186 --> 00:06:57,675
+put the decimal point back at the end.
+
+91
+00:06:57,766 --> 00:07:00,960
+And for division, always adjust the problem so
+
+92
+00:07:01,060 --> 00:07:03,465
+you are dividing by a whole number.
+
+93
+00:07:03,500 --> 00:07:05,620
+With these methods, you can handle
+
+94
+00:07:05,720 --> 00:07:08,232
+any decimal calculation with confidence.
+
