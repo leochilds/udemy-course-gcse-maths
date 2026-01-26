@@ -1328,5 +1328,3285 @@
       "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
     },
     "final_audio": "when-you-are-ready-move-on-to-the-next-lesson-b0384d83.mp3"
+  },
+  {
+    "original_audio": "welcome-to-the-first-section-of-your-gcse-maths-11e99e26.mp3",
+    "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+    "input_data": {
+      "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-the-first-section-of-your-gcse-maths-11e99e26.mp3"
+  },
+  {
+    "original_audio": "in-this-section-we-will-guide-you-through-several-d514f7e0.mp3",
+    "input_text": "In this section, we will guide you through several key topics.",
+    "input_data": {
+      "input_text": "In this section, we will guide you through several key topics.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-section-we-will-guide-you-through-several-d514f7e0.mp3"
+  },
+  {
+    "original_audio": "we-ll-start-by-ensuring-you-are-comfortable-b4a3ce57.mp3",
+    "input_text": "We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals.",
+    "input_data": {
+      "input_text": "We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-ll-start-by-ensuring-you-are-comfortable-b4a3ce57.mp3"
+  },
+  {
+    "original_audio": "we-will-look-at-how-to-round-numbers-which-is-a-f54c9f7d.mp3",
+    "input_text": "We will look at how to round numbers, which is a crucial skill for estimation.",
+    "input_data": {
+      "input_text": "We will look at how to round numbers, which is a crucial skill for estimation.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-look-at-how-to-round-numbers-which-is-a-f54c9f7d.mp3"
+  },
+  {
+    "original_audio": "you-ll-explore-the-properties-of-numbers-including-18e8eff8.mp3",
+    "input_text": "You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes.",
+    "input_data": {
+      "input_text": "You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-ll-explore-the-properties-of-numbers-including-18e8eff8.mp3"
+  },
+  {
+    "original_audio": "we-will-also-cover-how-to-find-the-lowest-common-a12e9da3.mp3",
+    "input_text": "We will also cover how to find the Lowest Common Multiple and Highest Common Factor,",
+    "input_data": {
+      "input_text": "We will also cover how to find the Lowest Common Multiple and Highest Common Factor,",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-also-cover-how-to-find-the-lowest-common-a12e9da3.mp3"
+  },
+  {
+    "original_audio": "and-finally-we-ll-master-the-rules-for-working-87159906.mp3",
+    "input_text": "and finally, we'll master the rules for working with negative numbers.",
+    "input_data": {
+      "input_text": "and finally, we'll master the rules for working with negative numbers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "and-finally-we-ll-master-the-rules-for-working-87159906.mp3"
+  },
+  {
+    "original_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-62440408.mp3",
+    "input_text": "Before we begin, it's helpful to know where we're starting from.",
+    "input_data": {
+      "input_text": "Before we begin, it's helpful to know where we're starting from.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-62440408.mp3"
+  },
+  {
+    "original_audio": "you-should-already-be-familiar-with-the-four-basic-0f042dac.mp3",
+    "input_text": "You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers.",
+    "input_data": {
+      "input_text": "You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-should-already-be-familiar-with-the-four-basic-0f042dac.mp3"
+  },
+  {
+    "original_audio": "you-should-also-have-some-recognition-of-what-24e784f3.mp3",
+    "input_text": "You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher.",
+    "input_data": {
+      "input_text": "You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-should-also-have-some-recognition-of-what-24e784f3.mp3"
+  },
+  {
+    "original_audio": "familiarity-with-the-order-of-operations-often-81136a29.mp3",
+    "input_text": "Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial,",
+    "input_data": {
+      "input_text": "Familiarity with the order of operations\u2014often remembered by the acronym {B IH1 D M AE1 S} or {B AA1 D M AE1 S}\u2014will also be beneficial,",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "familiarity-with-the-order-of-operations-often-81136a29.mp3"
+  },
+  {
+    "original_audio": "along-with-the-ability-to-substitute-numbers-into-abbd3638.mp3",
+    "input_text": "along with the ability to substitute numbers into simple algebraic expressions.",
+    "input_data": {
+      "input_text": "along with the ability to substitute numbers into simple algebraic expressions.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "along-with-the-ability-to-substitute-numbers-into-abbd3638.mp3"
+  },
+  {
+    "original_audio": "if-any-of-these-sound-daunting-don-t-worry-we-will-3b2e1de5.mp3",
+    "input_text": "If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+    "input_data": {
+      "input_text": "If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "if-any-of-these-sound-daunting-don-t-worry-we-will-3b2e1de5.mp3"
+  },
+  {
+    "original_audio": "m-ae2-th-m-ae1-t-ih0-k-s-isn-t-just-about-exams-it-fc869ddf.mp3",
+    "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life.",
+    "input_data": {
+      "input_text": "{M AE2 TH M AE1 T IH0 K S} isn't just about exams; it's a vital tool for the workplace and daily life.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "m-ae2-th-m-ae1-t-ih0-k-s-isn-t-just-about-exams-it-fc869ddf.mp3"
+  },
+  {
+    "original_audio": "consider-a-cashier-who-needs-to-give-the-correct-900c14ba.mp3",
+    "input_text": "Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time.",
+    "input_data": {
+      "input_text": "Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "consider-a-cashier-who-needs-to-give-the-correct-900c14ba.mp3"
+  },
+  {
+    "original_audio": "pilots-use-maths-to-calculate-fuel-requirements-81503366.mp3",
+    "input_text": "Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight.",
+    "input_data": {
+      "input_text": "Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "pilots-use-maths-to-calculate-fuel-requirements-81503366.mp3"
+  },
+  {
+    "original_audio": "one-of-the-most-important-skills-you-ll-develop-is-14a380f0.mp3",
+    "input_text": "One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+    "input_data": {
+      "input_text": "One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "one-of-the-most-important-skills-you-ll-develop-is-14a380f0.mp3"
+  },
+  {
+    "original_audio": "to-summarize-this-section-is-designed-to-make-you-e56a94a0.mp3",
+    "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills.",
+    "input_data": {
+      "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-this-section-is-designed-to-make-you-e56a94a0.mp3"
+  },
+  {
+    "original_audio": "we-will-focus-not-just-on-the-abstract-rules-but-b3e0a897.mp3",
+    "input_text": "We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations.",
+    "input_data": {
+      "input_text": "We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-focus-not-just-on-the-abstract-rules-but-b3e0a897.mp3"
+  },
+  {
+    "original_audio": "this-preparation-is-key-for-the-world-of-work-and-1c95adcd.mp3",
+    "input_text": "This preparation is key for the world of work and for the rest of your mathematical journey.",
+    "input_data": {
+      "input_text": "This preparation is key for the world of work and for the rest of your mathematical journey.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "this-preparation-is-key-for-the-world-of-work-and-1c95adcd.mp3"
+  },
+  {
+    "original_audio": "when-you-are-ready-move-on-to-the-next-lesson-b0384d83.mp3",
+    "input_text": "When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+    "input_data": {
+      "input_text": "When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "when-you-are-ready-move-on-to-the-next-lesson-b0384d83.mp3"
+  },
+  {
+    "original_audio": "welcome-to-the-first-section-of-your-gcse-maths-11e99e26.mp3",
+    "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+    "input_data": {
+      "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-the-first-section-of-your-gcse-maths-11e99e26.mp3"
+  },
+  {
+    "original_audio": "in-this-section-we-will-guide-you-through-several-d514f7e0.mp3",
+    "input_text": "In this section, we will guide you through several key topics.",
+    "input_data": {
+      "input_text": "In this section, we will guide you through several key topics.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-section-we-will-guide-you-through-several-d514f7e0.mp3"
+  },
+  {
+    "original_audio": "we-ll-start-by-ensuring-you-are-comfortable-b4a3ce57.mp3",
+    "input_text": "We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals.",
+    "input_data": {
+      "input_text": "We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-ll-start-by-ensuring-you-are-comfortable-b4a3ce57.mp3"
+  },
+  {
+    "original_audio": "we-will-look-at-how-to-round-numbers-which-is-a-f54c9f7d.mp3",
+    "input_text": "We will look at how to round numbers, which is a crucial skill for estimation.",
+    "input_data": {
+      "input_text": "We will look at how to round numbers, which is a crucial skill for estimation.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-look-at-how-to-round-numbers-which-is-a-f54c9f7d.mp3"
+  },
+  {
+    "original_audio": "you-ll-explore-the-properties-of-numbers-including-18e8eff8.mp3",
+    "input_text": "You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes.",
+    "input_data": {
+      "input_text": "You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-ll-explore-the-properties-of-numbers-including-18e8eff8.mp3"
+  },
+  {
+    "original_audio": "we-will-also-cover-how-to-find-the-lowest-common-a12e9da3.mp3",
+    "input_text": "We will also cover how to find the Lowest Common Multiple and Highest Common Factor,",
+    "input_data": {
+      "input_text": "We will also cover how to find the Lowest Common Multiple and Highest Common Factor,",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-also-cover-how-to-find-the-lowest-common-a12e9da3.mp3"
+  },
+  {
+    "original_audio": "and-finally-we-ll-master-the-rules-for-working-87159906.mp3",
+    "input_text": "and finally, we'll master the rules for working with negative numbers.",
+    "input_data": {
+      "input_text": "and finally, we'll master the rules for working with negative numbers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "and-finally-we-ll-master-the-rules-for-working-87159906.mp3"
+  },
+  {
+    "original_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-62440408.mp3",
+    "input_text": "Before we begin, it's helpful to know where we're starting from.",
+    "input_data": {
+      "input_text": "Before we begin, it's helpful to know where we're starting from.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-62440408.mp3"
+  },
+  {
+    "original_audio": "you-should-already-be-familiar-with-the-four-basic-0f042dac.mp3",
+    "input_text": "You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers.",
+    "input_data": {
+      "input_text": "You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-should-already-be-familiar-with-the-four-basic-0f042dac.mp3"
+  },
+  {
+    "original_audio": "you-should-also-have-some-recognition-of-what-24e784f3.mp3",
+    "input_text": "You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher.",
+    "input_data": {
+      "input_text": "You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-should-also-have-some-recognition-of-what-24e784f3.mp3"
+  },
+  {
+    "original_audio": "familiarity-with-the-order-of-operations-often-81136a29.mp3",
+    "input_text": "Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial,",
+    "input_data": {
+      "input_text": "Familiarity with the order of operations\u2014often remembered by the acronym {B IH1 D M AE1 S} or {B AA1 D M AE1 S}\u2014will also be beneficial,",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "familiarity-with-the-order-of-operations-often-81136a29.mp3"
+  },
+  {
+    "original_audio": "along-with-the-ability-to-substitute-numbers-into-abbd3638.mp3",
+    "input_text": "along with the ability to substitute numbers into simple algebraic expressions.",
+    "input_data": {
+      "input_text": "along with the ability to substitute numbers into simple algebraic expressions.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "along-with-the-ability-to-substitute-numbers-into-abbd3638.mp3"
+  },
+  {
+    "original_audio": "if-any-of-these-sound-daunting-don-t-worry-we-will-3b2e1de5.mp3",
+    "input_text": "If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+    "input_data": {
+      "input_text": "If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "if-any-of-these-sound-daunting-don-t-worry-we-will-3b2e1de5.mp3"
+  },
+  {
+    "original_audio": "m-ae2-th-m-ae1-t-ih0-k-s-isn-t-just-about-exams-it-fc869ddf.mp3",
+    "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life.",
+    "input_data": {
+      "input_text": "{M AE2 TH M AE1 T IH0 K S} isn't just about exams; it's a vital tool for the workplace and daily life.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "m-ae2-th-m-ae1-t-ih0-k-s-isn-t-just-about-exams-it-fc869ddf.mp3"
+  },
+  {
+    "original_audio": "consider-a-cashier-who-needs-to-give-the-correct-900c14ba.mp3",
+    "input_text": "Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time.",
+    "input_data": {
+      "input_text": "Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "consider-a-cashier-who-needs-to-give-the-correct-900c14ba.mp3"
+  },
+  {
+    "original_audio": "pilots-use-maths-to-calculate-fuel-requirements-81503366.mp3",
+    "input_text": "Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight.",
+    "input_data": {
+      "input_text": "Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "pilots-use-maths-to-calculate-fuel-requirements-81503366.mp3"
+  },
+  {
+    "original_audio": "one-of-the-most-important-skills-you-ll-develop-is-14a380f0.mp3",
+    "input_text": "One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+    "input_data": {
+      "input_text": "One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "one-of-the-most-important-skills-you-ll-develop-is-14a380f0.mp3"
+  },
+  {
+    "original_audio": "to-summarize-this-section-is-designed-to-make-you-e56a94a0.mp3",
+    "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills.",
+    "input_data": {
+      "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-this-section-is-designed-to-make-you-e56a94a0.mp3"
+  },
+  {
+    "original_audio": "we-will-focus-not-just-on-the-abstract-rules-but-b3e0a897.mp3",
+    "input_text": "We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations.",
+    "input_data": {
+      "input_text": "We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-focus-not-just-on-the-abstract-rules-but-b3e0a897.mp3"
+  },
+  {
+    "original_audio": "this-preparation-is-key-for-the-world-of-work-and-1c95adcd.mp3",
+    "input_text": "This preparation is key for the world of work and for the rest of your mathematical journey.",
+    "input_data": {
+      "input_text": "This preparation is key for the world of work and for the rest of your mathematical journey.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "this-preparation-is-key-for-the-world-of-work-and-1c95adcd.mp3"
+  },
+  {
+    "original_audio": "when-you-are-ready-move-on-to-the-next-lesson-b0384d83.mp3",
+    "input_text": "When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+    "input_data": {
+      "input_text": "When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "when-you-are-ready-move-on-to-the-next-lesson-b0384d83.mp3"
+  },
+  {
+    "original_audio": "welcome-to-the-first-section-of-your-gcse-maths-11e99e26.mp3",
+    "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+    "input_data": {
+      "input_text": "Welcome to the first section of your GCSE Maths course. Number. This section covers the fundamental building blocks of {M AE2 TH M AE1 T IH0 K S}. Whether you're managing household finances, planning a project, or just want to feel more confident with figures, the skills we will cover here are essential. In this brief introduction, we'll outline what you can expect to learn and why these skills are so valuable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-the-first-section-of-your-gcse-maths-11e99e26.mp3"
+  },
+  {
+    "original_audio": "in-this-section-we-will-guide-you-through-several-d514f7e0.mp3",
+    "input_text": "In this section, we will guide you through several key topics.",
+    "input_data": {
+      "input_text": "In this section, we will guide you through several key topics.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-section-we-will-guide-you-through-several-d514f7e0.mp3"
+  },
+  {
+    "original_audio": "we-ll-start-by-ensuring-you-are-comfortable-b4a3ce57.mp3",
+    "input_text": "We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals.",
+    "input_data": {
+      "input_text": "We'll start by ensuring you are comfortable calculating with both whole numbers\u2014which we call integers\u2014and decimals.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-ll-start-by-ensuring-you-are-comfortable-b4a3ce57.mp3"
+  },
+  {
+    "original_audio": "we-will-look-at-how-to-round-numbers-which-is-a-f54c9f7d.mp3",
+    "input_text": "We will look at how to round numbers, which is a crucial skill for estimation.",
+    "input_data": {
+      "input_text": "We will look at how to round numbers, which is a crucial skill for estimation.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-look-at-how-to-round-numbers-which-is-a-f54c9f7d.mp3"
+  },
+  {
+    "original_audio": "you-ll-explore-the-properties-of-numbers-including-18e8eff8.mp3",
+    "input_text": "You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes.",
+    "input_data": {
+      "input_text": "You'll explore the properties of numbers, including factors, multiples, and prime numbers, as well as squares and cubes.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-ll-explore-the-properties-of-numbers-including-18e8eff8.mp3"
+  },
+  {
+    "original_audio": "we-will-also-cover-how-to-find-the-lowest-common-a12e9da3.mp3",
+    "input_text": "We will also cover how to find the Lowest Common Multiple and Highest Common Factor,",
+    "input_data": {
+      "input_text": "We will also cover how to find the Lowest Common Multiple and Highest Common Factor,",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-also-cover-how-to-find-the-lowest-common-a12e9da3.mp3"
+  },
+  {
+    "original_audio": "and-finally-we-ll-master-the-rules-for-working-87159906.mp3",
+    "input_text": "and finally, we'll master the rules for working with negative numbers.",
+    "input_data": {
+      "input_text": "and finally, we'll master the rules for working with negative numbers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "and-finally-we-ll-master-the-rules-for-working-87159906.mp3"
+  },
+  {
+    "original_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-62440408.mp3",
+    "input_text": "Before we begin, it's helpful to know where we're starting from.",
+    "input_data": {
+      "input_text": "Before we begin, it's helpful to know where we're starting from.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "before-we-begin-it-s-helpful-to-know-where-we-re-62440408.mp3"
+  },
+  {
+    "original_audio": "you-should-already-be-familiar-with-the-four-basic-0f042dac.mp3",
+    "input_text": "You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers.",
+    "input_data": {
+      "input_text": "You should already be familiar with the four basic operations: addition, subtraction, multiplication, and division using integers.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-should-already-be-familiar-with-the-four-basic-0f042dac.mp3"
+  },
+  {
+    "original_audio": "you-should-also-have-some-recognition-of-what-24e784f3.mp3",
+    "input_text": "You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher.",
+    "input_data": {
+      "input_text": "You should also have some recognition of what multiples, factors, and prime numbers are, even if you need a refresher.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-should-also-have-some-recognition-of-what-24e784f3.mp3"
+  },
+  {
+    "original_audio": "familiarity-with-the-order-of-operations-often-81136a29.mp3",
+    "input_text": "Familiarity with the order of operations\u2014often remembered by the acronym BIDMAS or BODMAS\u2014will also be beneficial,",
+    "input_data": {
+      "input_text": "Familiarity with the order of operations\u2014often remembered by the acronym {B IH1 D M AE1 S} or {B AA1 D M AE1 S}\u2014will also be beneficial,",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "familiarity-with-the-order-of-operations-often-81136a29.mp3"
+  },
+  {
+    "original_audio": "along-with-the-ability-to-substitute-numbers-into-abbd3638.mp3",
+    "input_text": "along with the ability to substitute numbers into simple algebraic expressions.",
+    "input_data": {
+      "input_text": "along with the ability to substitute numbers into simple algebraic expressions.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "along-with-the-ability-to-substitute-numbers-into-abbd3638.mp3"
+  },
+  {
+    "original_audio": "if-any-of-these-sound-daunting-don-t-worry-we-will-3b2e1de5.mp3",
+    "input_text": "If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+    "input_data": {
+      "input_text": "If any of these sound daunting, don't worry; we will build up your understanding as we go.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "if-any-of-these-sound-daunting-don-t-worry-we-will-3b2e1de5.mp3"
+  },
+  {
+    "original_audio": "m-ae2-th-m-ae1-t-ih0-k-s-isn-t-just-about-exams-it-fc869ddf.mp3",
+    "input_text": "Mathematics isn't just about exams; it's a vital tool for the workplace and daily life.",
+    "input_data": {
+      "input_text": "{M AE2 TH M AE1 T IH0 K S} isn't just about exams; it's a vital tool for the workplace and daily life.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "m-ae2-th-m-ae1-t-ih0-k-s-isn-t-just-about-exams-it-fc869ddf.mp3"
+  },
+  {
+    "original_audio": "consider-a-cashier-who-needs-to-give-the-correct-900c14ba.mp3",
+    "input_text": "Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time.",
+    "input_data": {
+      "input_text": "Consider a cashier who needs to give the correct change, or a delivery driver planning the most efficient route to save fuel and time.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "consider-a-cashier-who-needs-to-give-the-correct-900c14ba.mp3"
+  },
+  {
+    "original_audio": "pilots-use-maths-to-calculate-fuel-requirements-81503366.mp3",
+    "input_text": "Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight.",
+    "input_data": {
+      "input_text": "Pilots use maths to calculate fuel requirements and navigation, while doctors must calculate precise medicine dosages based on a patient's age and weight.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "pilots-use-maths-to-calculate-fuel-requirements-81503366.mp3"
+  },
+  {
+    "original_audio": "one-of-the-most-important-skills-you-ll-develop-is-14a380f0.mp3",
+    "input_text": "One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+    "input_data": {
+      "input_text": "One of the most important skills you'll develop is knowing when an estimation is sufficient and when an exact answer is required.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "one-of-the-most-important-skills-you-ll-develop-is-14a380f0.mp3"
+  },
+  {
+    "original_audio": "to-summarize-this-section-is-designed-to-make-you-e56a94a0.mp3",
+    "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills.",
+    "input_data": {
+      "input_text": "To summarize, this section is designed to make you competent and confident in basic number skills.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-this-section-is-designed-to-make-you-e56a94a0.mp3"
+  },
+  {
+    "original_audio": "we-will-focus-not-just-on-the-abstract-rules-but-b3e0a897.mp3",
+    "input_text": "We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations.",
+    "input_data": {
+      "input_text": "We will focus not just on the abstract rules, but on how to apply them to identify and solve problems in real-life situations.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-will-focus-not-just-on-the-abstract-rules-but-b3e0a897.mp3"
+  },
+  {
+    "original_audio": "this-preparation-is-key-for-the-world-of-work-and-1c95adcd.mp3",
+    "input_text": "This preparation is key for the world of work and for the rest of your mathematical journey.",
+    "input_data": {
+      "input_text": "This preparation is key for the world of work and for the rest of your mathematical journey.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "this-preparation-is-key-for-the-world-of-work-and-1c95adcd.mp3"
+  },
+  {
+    "original_audio": "when-you-are-ready-move-on-to-the-next-lesson-b0384d83.mp3",
+    "input_text": "When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+    "input_data": {
+      "input_text": "When you are ready, move on to the next lesson, where we will start applying these skills to solve real-life problems.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "when-you-are-ready-move-on-to-the-next-lesson-b0384d83.mp3"
+  },
+  {
+    "original_audio": "welcome-to-this-lesson-on-solving-real-life-c534d902.mp3",
+    "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts. These require you to read carefully, plan a strategy, and apply arithmetic skills. In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+    "input_data": {
+      "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts. These require you to read carefully, plan a strategy, and apply arithmetic skills. In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-this-lesson-on-solving-real-life-c534d902.mp3"
+  },
+  {
+    "original_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-eb9be263.mp3",
+    "input_text": "When facing a word problem, it's helpful to have a consistent approach. First, read the question carefully to identify the key information. Second, plan your strategy\u2014decide which mathematical operations you need to use. Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed. Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+    "input_data": {
+      "input_text": "When facing a word problem, it's helpful to have a consistent approach. First, read the question carefully to identify the key information. Second, plan your strategy\u2014decide which mathematical operations you need to use. Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed. Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-eb9be263.mp3"
+  },
+  {
+    "original_audio": "let-s-apply-this-to-an-example-a-supermarket-24fbbc33.mp3",
+    "input_text": "Let's apply this to an example. A supermarket receives a delivery of 235 cases of tins of beans. Each case contains 24 tins. We need to calculate how many tins the supermarket receives altogether. Since we have 235 groups of 24, our strategy is multiplication. We need to calculate 235 multiplied by 24.",
+    "input_data": {
+      "input_text": "Let's apply this to an example. A supermarket receives a delivery of 235 cases of tins of beans. Each case contains 24 tins. We need to calculate how many tins the supermarket receives altogether. Since we have 235 groups of 24, our strategy is multiplication. We need to calculate 235 multiplied by 24.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-apply-this-to-an-example-a-supermarket-24fbbc33.mp3"
+  },
+  {
+    "original_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3",
+    "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+    "input_data": {
+      "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3"
+  },
+  {
+    "original_audio": "we-break-235-into-200-30-and-5-we-break-24-into-20-4e4f37d8.mp3",
+    "input_text": "We break 235 into 200, 30, and 5. We break 24 into 20 and 4.",
+    "input_data": {
+      "input_text": "We break 235 into 200, 30, and 5. We break 24 into 20 and 4.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-break-235-into-200-30-and-5-we-break-24-into-20-4e4f37d8.mp3"
+  },
+  {
+    "original_audio": "now-we-multiply-each-part-200-times-20-is-4000-30-8f095ed0.mp3",
+    "input_text": "Now we multiply each part. 200 times 20 is 4,000. 30 times 20 is 600. 5 times 20 is 100.",
+    "input_data": {
+      "input_text": "Now we multiply each part. 200 times 20 is 4,000. 30 times 20 is 600. 5 times 20 is 100.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-multiply-each-part-200-times-20-is-4000-30-8f095ed0.mp3"
+  },
+  {
+    "original_audio": "then-we-multiply-by-4-200-times-4-is-800-30-times-8c105276.mp3",
+    "input_text": "Then we multiply by 4: 200 times 4 is 800. 30 times 4 is 120. 5 times 4 is 20.",
+    "input_data": {
+      "input_text": "Then we multiply by 4: 200 times 4 is 800. 30 times 4 is 120. 5 times 4 is 20.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-we-multiply-by-4-200-times-4-is-800-30-times-8c105276.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-all-these-answers-together-4000-65cdfbf9.mp3",
+    "input_text": "Finally, we add all these answers together: 4,000 plus 600 plus 100 is 4,700.",
+    "input_data": {
+      "input_text": "Finally, we add all these answers together: 4,000 plus 600 plus 100 is 4,700.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-all-these-answers-together-4000-65cdfbf9.mp3"
+  },
+  {
+    "original_audio": "800-plus-120-plus-20-is-940-f3015b4e.mp3",
+    "input_text": "800 plus 120 plus 20 is 940.",
+    "input_data": {
+      "input_text": "800 plus 120 plus 20 is 940.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "800-plus-120-plus-20-is-940-f3015b4e.mp3"
+  },
+  {
+    "original_audio": "adding-4700-and-940-gives-us-a-total-of-5640-c75c5ca1.mp3",
+    "input_text": "Adding 4,700 and 940 gives us a total of 5,640.",
+    "input_data": {
+      "input_text": "Adding 4,700 and 940 gives us a total of 5,640.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "adding-4700-and-940-gives-us-a-total-of-5640-c75c5ca1.mp3"
+  },
+  {
+    "original_audio": "now-let-s-look-at-the-column-method-ee751968.mp3",
+    "input_text": "Now let's look at the Column Method.",
+    "input_data": {
+      "input_text": "Now let's look at the Column Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-let-s-look-at-the-column-method-ee751968.mp3"
+  },
+  {
+    "original_audio": "first-we-multiply-235-by-4-4-times-5-is-20-so-0d88cf61.mp3",
+    "input_text": "First, we multiply 235 by 4. 4 times 5 is 20, so write the 0 and carry the 2.",
+    "input_data": {
+      "input_text": "First, we multiply 235 by 4. 4 times 5 is 20, so write the 0 and carry the 2.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-we-multiply-235-by-4-4-times-5-is-20-so-0d88cf61.mp3"
+  },
+  {
+    "original_audio": "4-times-3-is-12-plus-the-carried-2-is-14-write-the-4b419e79.mp3",
+    "input_text": "4 times 3 is 12, plus the carried 2 is 14. Write the 4 and carry the 1.",
+    "input_data": {
+      "input_text": "4 times 3 is 12, plus the carried 2 is 14. Write the 4 and carry the 1.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "4-times-3-is-12-plus-the-carried-2-is-14-write-the-4b419e79.mp3"
+  },
+  {
+    "original_audio": "4-times-2-is-8-plus-the-1-is-9-this-gives-us-940-18fd040b.mp3",
+    "input_text": "4 times 2 is 8, plus the 1 is 9. This gives us 940.",
+    "input_data": {
+      "input_text": "4 times 2 is 8, plus the 1 is 9. This gives us 940.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "4-times-2-is-8-plus-the-1-is-9-this-gives-us-940-18fd040b.mp3"
+  },
+  {
+    "original_audio": "next-we-multiply-by-the-20-we-start-by-placing-a-65d66f9f.mp3",
+    "input_text": "Next, we multiply by the 20. We start by placing a zero in the units column.",
+    "input_data": {
+      "input_text": "Next, we multiply by the 20. We start by placing a zero in the units column.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "next-we-multiply-by-the-20-we-start-by-placing-a-65d66f9f.mp3"
+  },
+  {
+    "original_audio": "then-2-times-5-is-10-write-0-carry-1-b391d49c.mp3",
+    "input_text": "Then, 2 times 5 is 10; write 0, carry 1.",
+    "input_data": {
+      "input_text": "Then, 2 times 5 is 10; write 0, carry 1.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-2-times-5-is-10-write-0-carry-1-b391d49c.mp3"
+  },
+  {
+    "original_audio": "2-times-3-is-6-plus-1-is-7-66bdb759.mp3",
+    "input_text": "2 times 3 is 6, plus 1 is 7.",
+    "input_data": {
+      "input_text": "2 times 3 is 6, plus 1 is 7.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "2-times-3-is-6-plus-1-is-7-66bdb759.mp3"
+  },
+  {
+    "original_audio": "2-times-2-is-4-this-gives-us-4700-880debc8.mp3",
+    "input_text": "2 times 2 is 4. This gives us 4,700.",
+    "input_data": {
+      "input_text": "2 times 2 is 4. This gives us 4,700.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "2-times-2-is-4-this-gives-us-4700-880debc8.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-940-and-4700-together-to-get-5640-3bd7f346.mp3",
+    "input_text": "Finally, we add 940 and 4,700 together to get 5,640.",
+    "input_data": {
+      "input_text": "Finally, we add 940 and 4,700 together to get 5,640.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-940-and-4700-together-to-get-5640-3bd7f346.mp3"
+  },
+  {
+    "original_audio": "both-methods-give-us-the-same-result-5640-tins-fbc07a48.mp3",
+    "input_text": "Both methods give us the same result: 5,640 tins.",
+    "input_data": {
+      "input_text": "Both methods give us the same result: 5,640 tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "both-methods-give-us-the-same-result-5640-tins-fbc07a48.mp3"
+  },
+  {
+    "original_audio": "now-for-the-second-part-of-the-problem-we-are-told-92988c8c.mp3",
+    "input_text": "Now for the second part of the problem. We are told that 5% of the tins were damaged and thrown away. The supermarket sells 250 tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of 250.",
+    "input_data": {
+      "input_text": "Now for the second part of the problem. We are told that 5% of the tins were damaged and thrown away. The supermarket sells 250 tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of 250.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-for-the-second-part-of-the-problem-we-are-told-92988c8c.mp3"
+  },
+  {
+    "original_audio": "let-s-work-through-the-numbers-we-started-with-d652e9b8.mp3",
+    "input_text": "Let's work through the numbers. We started with 5,640 tins. To find 5%, we can first find 10%, which is 564. 5% is half of 10%, so half of 564 is 282.",
+    "input_data": {
+      "input_text": "Let's work through the numbers. We started with 5,640 tins. To find 5%, we can first find 10%, which is 564. 5% is half of 10%, so half of 564 is 282.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-work-through-the-numbers-we-started-with-d652e9b8.mp3"
+  },
+  {
+    "original_audio": "we-subtract-these-damaged-tins-from-the-total-5640-90a08b22.mp3",
+    "input_text": "We subtract these damaged tins from the total: 5,640 minus 282 leaves us with 5,358 saleable tins.",
+    "input_data": {
+      "input_text": "We subtract these damaged tins from the total: 5,640 minus 282 leaves us with 5,358 saleable tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-subtract-these-damaged-tins-from-the-total-5640-90a08b22.mp3"
+  },
+  {
+    "original_audio": "now-we-need-to-divide-5358-by-250-to-find-the-16cd0ccc.mp3",
+    "input_text": "Now we need to divide 5,358 by 250 to find the number of days.",
+    "input_data": {
+      "input_text": "Now we need to divide 5,358 by 250 to find the number of days.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-need-to-divide-5358-by-250-to-find-the-16cd0ccc.mp3"
+  },
+  {
+    "original_audio": "we-can-estimate-this-we-know-that-4-lots-of-250-efd1fb85.mp3",
+    "input_text": "We can estimate this. We know that 4 lots of 250 make 1,000. Therefore, 20 lots of 250 make 5,000.",
+    "input_data": {
+      "input_text": "We can estimate this. We know that 4 lots of 250 make 1,000. Therefore, 20 lots of 250 make 5,000.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-can-estimate-this-we-know-that-4-lots-of-250-efd1fb85.mp3"
+  },
+  {
+    "original_audio": "if-we-subtract-5000-from-5358-we-are-left-with-358-b1af7765.mp3",
+    "input_text": "If we subtract 5,000 from 5,358, we are left with 358.",
+    "input_data": {
+      "input_text": "If we subtract 5,000 from 5,358, we are left with 358.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "if-we-subtract-5000-from-5358-we-are-left-with-358-b1af7765.mp3"
+  },
+  {
+    "original_audio": "how-many-250s-are-in-358-there-is-1-lot-of-250-4010e3eb.mp3",
+    "input_text": "How many 250s are in 358? There is 1 lot of 250, with a remainder.",
+    "input_data": {
+      "input_text": "How many 250s are in 358? There is 1 lot of 250, with a remainder.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-250s-are-in-358-there-is-1-lot-of-250-4010e3eb.mp3"
+  },
+  {
+    "original_audio": "so-we-have-20-days-plus-1-day-giving-us-21-full-341aae70.mp3",
+    "input_text": "So, we have 20 days plus 1 day, giving us 21 full days. The remainder means we have a few beans left over, but not enough for a 22nd day.",
+    "input_data": {
+      "input_text": "So, we have 20 days plus 1 day, giving us 21 full days. The remainder means we have a few beans left over, but not enough for a 22nd day.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "so-we-have-20-days-plus-1-day-giving-us-21-full-341aae70.mp3"
+  },
+  {
+    "original_audio": "let-s-look-at-a-second-example-a-party-of-613-bf09973c.mp3",
+    "input_text": "Let's look at a second example. A party of 613 children and 59 adults are going to a theme park. We need to determine how many coaches are needed if each holds 53 people. First, we find the total number of people by adding 613 and 59, which gives us 672. The strategy here is division: we divide the total people, 672, by the coach capacity, 53.",
+    "input_data": {
+      "input_text": "Let's look at a second example. A party of 613 children and 59 adults are going to a theme park. We need to determine how many coaches are needed if each holds 53 people. First, we find the total number of people by adding 613 and 59, which gives us 672. The strategy here is division: we divide the total people, 672, by the coach capacity, 53.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-look-at-a-second-example-a-party-of-613-bf09973c.mp3"
+  },
+  {
+    "original_audio": "we-need-to-calculate-672-divided-by-53-using-long-822c71cd.mp3",
+    "input_text": "We need to calculate 672 divided by 53 using long division.",
+    "input_data": {
+      "input_text": "We need to calculate 672 divided by 53 using long division.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-calculate-672-divided-by-53-using-long-822c71cd.mp3"
+  },
+  {
+    "original_audio": "first-how-many-53s-go-into-67-the-answer-is-1-we-969810c9.mp3",
+    "input_text": "First, how many 53s go into 67? The answer is 1. We write the 1 above the line.",
+    "input_data": {
+      "input_text": "First, how many 53s go into 67? The answer is 1. We write the 1 above the line.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-how-many-53s-go-into-67-the-answer-is-1-we-969810c9.mp3"
+  },
+  {
+    "original_audio": "1-times-53-is-53-subtracting-53-from-67-gives-us-8dd12929.mp3",
+    "input_text": "1 times 53 is 53. Subtracting 53 from 67 gives us 14.",
+    "input_data": {
+      "input_text": "1 times 53 is 53. Subtracting 53 from 67 gives us 14.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "1-times-53-is-53-subtracting-53-from-67-gives-us-8dd12929.mp3"
+  },
+  {
+    "original_audio": "now-bring-down-the-2-to-make-142-ba33dd5c.mp3",
+    "input_text": "Now, bring down the 2 to make 142.",
+    "input_data": {
+      "input_text": "Now, bring down the 2 to make 142.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-bring-down-the-2-to-make-142-ba33dd5c.mp3"
+  },
+  {
+    "original_audio": "how-many-53s-go-into-142-let-s-estimate-50-times-2-8bba4b2d.mp3",
+    "input_text": "How many 53s go into 142? Let's estimate. 50 times 2 is 100. 50 times 3 is 150, which is too high. So it must be 2.",
+    "input_data": {
+      "input_text": "How many 53s go into 142? Let's estimate. 50 times 2 is 100. 50 times 3 is 150, which is too high. So it must be 2.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-53s-go-into-142-let-s-estimate-50-times-2-8bba4b2d.mp3"
+  },
+  {
+    "original_audio": "we-write-the-2-above-the-line-2-times-53-is-106-bfdb3132.mp3",
+    "input_text": "We write the 2 above the line. 2 times 53 is 106.",
+    "input_data": {
+      "input_text": "We write the 2 above the line. 2 times 53 is 106.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-write-the-2-above-the-line-2-times-53-is-106-bfdb3132.mp3"
+  },
+  {
+    "original_audio": "subtracting-106-from-142-leaves-a-remainder-of-36-eaf2e0e7.mp3",
+    "input_text": "Subtracting 106 from 142 leaves a remainder of 36. So the answer is 12 remainder 36.",
+    "input_data": {
+      "input_text": "Subtracting 106 from 142 leaves a remainder of 36. So the answer is 12 remainder 36.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "subtracting-106-from-142-leaves-a-remainder-of-36-eaf2e0e7.mp3"
+  },
+  {
+    "original_audio": "now-we-must-interpret-this-answer-the-12-2f50db07.mp3",
+    "input_text": "Now we must interpret this answer. The 12 represents full coaches. The remainder of 36 represents 36 people still waiting. We need another coach for them. So, we round up to 13 coaches in total.",
+    "input_data": {
+      "input_text": "Now we must interpret this answer. The 12 represents full coaches. The remainder of 36 represents 36 people still waiting. We need another coach for them. So, we round up to 13 coaches in total.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-must-interpret-this-answer-the-12-2f50db07.mp3"
+  },
+  {
+    "original_audio": "finally-let-s-look-at-the-entry-costs-one-adult-b94417f0.mp3",
+    "input_text": "Finally, let's look at the entry costs. One adult gets in free for every 15 children. We need to find out how many adults must pay. We divide the number of children, 613, by 15.",
+    "input_data": {
+      "input_text": "Finally, let's look at the entry costs. One adult gets in free for every 15 children. We need to find out how many adults must pay. We divide the number of children, 613, by 15.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-let-s-look-at-the-entry-costs-one-adult-b94417f0.mp3"
+  },
+  {
+    "original_audio": "we-know-that-2-times-15-is-30-so-4-times-15-is-60-d1cd5ba2.mp3",
+    "input_text": "We know that 2 times 15 is 30, so 4 times 15 is 60. Therefore, 40 times 15 is 600.",
+    "input_data": {
+      "input_text": "We know that 2 times 15 is 30, so 4 times 15 is 60. Therefore, 40 times 15 is 600.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-know-that-2-times-15-is-30-so-4-times-15-is-60-d1cd5ba2.mp3"
+  },
+  {
+    "original_audio": "we-have-613-children-so-we-have-40-groups-of-15-7ea693ba.mp3",
+    "input_text": "We have 613 children, so we have 40 groups of 15, with 13 children left over. Since we get one free adult for each full group of 15, 40 adults get in for free.",
+    "input_data": {
+      "input_text": "We have 613 children, so we have 40 groups of 15, with 13 children left over. Since we get one free adult for each full group of 15, 40 adults get in for free.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-have-613-children-so-we-have-40-groups-of-15-7ea693ba.mp3"
+  },
+  {
+    "original_audio": "the-question-asks-how-many-adults-must-pay-there-4f8116bc.mp3",
+    "input_text": "The question asks how many adults must pay. There are 59 adults in total. We subtract the 40 free places from 59, which tells us that 19 adults must pay to get in.",
+    "input_data": {
+      "input_text": "The question asks how many adults must pay. There are 59 adults in total. We subtract the 40 free places from 59, which tells us that 19 adults must pay to get in.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "the-question-asks-how-many-adults-must-pay-there-4f8116bc.mp3"
+  },
+  {
+    "original_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3",
+    "input_text": "To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method\u2014whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.",
+    "input_data": {
+      "input_text": "To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method\u2014whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3"
+  },
+  {
+    "original_audio": "welcome-to-this-lesson-on-solving-real-life-8acfee8c.mp3",
+    "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.",
+    "input_data": {
+      "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-this-lesson-on-solving-real-life-8acfee8c.mp3"
+  },
+  {
+    "original_audio": "these-require-you-to-read-carefully-plan-a-9a7bb559.mp3",
+    "input_text": "These require you to read carefully, plan a strategy, and apply arithmetic skills.",
+    "input_data": {
+      "input_text": "These require you to read carefully, plan a strategy, and apply arithmetic skills.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "these-require-you-to-read-carefully-plan-a-9a7bb559.mp3"
+  },
+  {
+    "original_audio": "in-this-lesson-we-will-look-at-how-to-approach-23813fd0.mp3",
+    "input_text": "In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+    "input_data": {
+      "input_text": "In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-lesson-we-will-look-at-how-to-approach-23813fd0.mp3"
+  },
+  {
+    "original_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-eb9be263.mp3",
+    "input_text": "When facing a word problem, it's helpful to have a consistent approach. First, read the question carefully to identify the key information. Second, plan your strategy\u2014decide which mathematical operations you need to use. Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed. Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+    "input_data": {
+      "input_text": "When facing a word problem, it's helpful to have a consistent approach. First, read the question carefully to identify the key information. Second, plan your strategy\u2014decide which mathematical operations you need to use. Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed. Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-eb9be263.mp3"
+  },
+  {
+    "original_audio": "let-s-apply-this-to-an-example-a-supermarket-24fbbc33.mp3",
+    "input_text": "Let's apply this to an example. A supermarket receives a delivery of 235 cases of tins of beans. Each case contains 24 tins. We need to calculate how many tins the supermarket receives altogether. Since we have 235 groups of 24, our strategy is multiplication. We need to calculate 235 multiplied by 24.",
+    "input_data": {
+      "input_text": "Let's apply this to an example. A supermarket receives a delivery of 235 cases of tins of beans. Each case contains 24 tins. We need to calculate how many tins the supermarket receives altogether. Since we have 235 groups of 24, our strategy is multiplication. We need to calculate 235 multiplied by 24.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-apply-this-to-an-example-a-supermarket-24fbbc33.mp3"
+  },
+  {
+    "original_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3",
+    "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+    "input_data": {
+      "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3"
+  },
+  {
+    "original_audio": "we-break-235-into-200-30-and-5-we-break-24-into-20-4e4f37d8.mp3",
+    "input_text": "We break 235 into 200, 30, and 5. We break 24 into 20 and 4.",
+    "input_data": {
+      "input_text": "We break 235 into 200, 30, and 5. We break 24 into 20 and 4.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-break-235-into-200-30-and-5-we-break-24-into-20-4e4f37d8.mp3"
+  },
+  {
+    "original_audio": "now-we-multiply-each-part-200-times-20-is-4000-30-8f095ed0.mp3",
+    "input_text": "Now we multiply each part. 200 times 20 is 4,000. 30 times 20 is 600. 5 times 20 is 100.",
+    "input_data": {
+      "input_text": "Now we multiply each part. 200 times 20 is 4,000. 30 times 20 is 600. 5 times 20 is 100.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-multiply-each-part-200-times-20-is-4000-30-8f095ed0.mp3"
+  },
+  {
+    "original_audio": "then-we-multiply-by-4-200-times-4-is-800-30-times-8c105276.mp3",
+    "input_text": "Then we multiply by 4: 200 times 4 is 800. 30 times 4 is 120. 5 times 4 is 20.",
+    "input_data": {
+      "input_text": "Then we multiply by 4: 200 times 4 is 800. 30 times 4 is 120. 5 times 4 is 20.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-we-multiply-by-4-200-times-4-is-800-30-times-8c105276.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-all-these-answers-together-4000-65cdfbf9.mp3",
+    "input_text": "Finally, we add all these answers together: 4,000 plus 600 plus 100 is 4,700.",
+    "input_data": {
+      "input_text": "Finally, we add all these answers together: 4,000 plus 600 plus 100 is 4,700.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-all-these-answers-together-4000-65cdfbf9.mp3"
+  },
+  {
+    "original_audio": "800-plus-120-plus-20-is-940-f3015b4e.mp3",
+    "input_text": "800 plus 120 plus 20 is 940.",
+    "input_data": {
+      "input_text": "800 plus 120 plus 20 is 940.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "800-plus-120-plus-20-is-940-f3015b4e.mp3"
+  },
+  {
+    "original_audio": "adding-4700-and-940-gives-us-a-total-of-5640-c75c5ca1.mp3",
+    "input_text": "Adding 4,700 and 940 gives us a total of 5,640.",
+    "input_data": {
+      "input_text": "Adding 4,700 and 940 gives us a total of 5,640.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "adding-4700-and-940-gives-us-a-total-of-5640-c75c5ca1.mp3"
+  },
+  {
+    "original_audio": "now-let-s-look-at-the-column-method-ee751968.mp3",
+    "input_text": "Now let's look at the Column Method.",
+    "input_data": {
+      "input_text": "Now let's look at the Column Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-let-s-look-at-the-column-method-ee751968.mp3"
+  },
+  {
+    "original_audio": "first-we-multiply-235-by-4-4-times-5-is-20-so-0d88cf61.mp3",
+    "input_text": "First, we multiply 235 by 4. 4 times 5 is 20, so write the 0 and carry the 2.",
+    "input_data": {
+      "input_text": "First, we multiply 235 by 4. 4 times 5 is 20, so write the 0 and carry the 2.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-we-multiply-235-by-4-4-times-5-is-20-so-0d88cf61.mp3"
+  },
+  {
+    "original_audio": "4-times-3-is-12-plus-the-carried-2-is-14-write-the-4b419e79.mp3",
+    "input_text": "4 times 3 is 12, plus the carried 2 is 14. Write the 4 and carry the 1.",
+    "input_data": {
+      "input_text": "4 times 3 is 12, plus the carried 2 is 14. Write the 4 and carry the 1.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "4-times-3-is-12-plus-the-carried-2-is-14-write-the-4b419e79.mp3"
+  },
+  {
+    "original_audio": "4-times-2-is-8-plus-the-1-is-9-this-gives-us-940-18fd040b.mp3",
+    "input_text": "4 times 2 is 8, plus the 1 is 9. This gives us 940.",
+    "input_data": {
+      "input_text": "4 times 2 is 8, plus the 1 is 9. This gives us 940.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "4-times-2-is-8-plus-the-1-is-9-this-gives-us-940-18fd040b.mp3"
+  },
+  {
+    "original_audio": "next-we-multiply-by-the-20-we-start-by-placing-a-65d66f9f.mp3",
+    "input_text": "Next, we multiply by the 20. We start by placing a zero in the units column.",
+    "input_data": {
+      "input_text": "Next, we multiply by the 20. We start by placing a zero in the units column.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "next-we-multiply-by-the-20-we-start-by-placing-a-65d66f9f.mp3"
+  },
+  {
+    "original_audio": "then-2-times-5-is-10-write-0-carry-1-b391d49c.mp3",
+    "input_text": "Then, 2 times 5 is 10; write 0, carry 1.",
+    "input_data": {
+      "input_text": "Then, 2 times 5 is 10; write 0, carry 1.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-2-times-5-is-10-write-0-carry-1-b391d49c.mp3"
+  },
+  {
+    "original_audio": "2-times-3-is-6-plus-1-is-7-66bdb759.mp3",
+    "input_text": "2 times 3 is 6, plus 1 is 7.",
+    "input_data": {
+      "input_text": "2 times 3 is 6, plus 1 is 7.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "2-times-3-is-6-plus-1-is-7-66bdb759.mp3"
+  },
+  {
+    "original_audio": "2-times-2-is-4-this-gives-us-4700-880debc8.mp3",
+    "input_text": "2 times 2 is 4. This gives us 4,700.",
+    "input_data": {
+      "input_text": "2 times 2 is 4. This gives us 4,700.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "2-times-2-is-4-this-gives-us-4700-880debc8.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-940-and-4700-together-to-get-5640-3bd7f346.mp3",
+    "input_text": "Finally, we add 940 and 4,700 together to get 5,640.",
+    "input_data": {
+      "input_text": "Finally, we add 940 and 4,700 together to get 5,640.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-940-and-4700-together-to-get-5640-3bd7f346.mp3"
+  },
+  {
+    "original_audio": "both-methods-give-us-the-same-result-5640-tins-fbc07a48.mp3",
+    "input_text": "Both methods give us the same result: 5,640 tins.",
+    "input_data": {
+      "input_text": "Both methods give us the same result: 5,640 tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "both-methods-give-us-the-same-result-5640-tins-fbc07a48.mp3"
+  },
+  {
+    "original_audio": "now-for-the-second-part-of-the-problem-we-are-told-92988c8c.mp3",
+    "input_text": "Now for the second part of the problem. We are told that 5% of the tins were damaged and thrown away. The supermarket sells 250 tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of 250.",
+    "input_data": {
+      "input_text": "Now for the second part of the problem. We are told that 5% of the tins were damaged and thrown away. The supermarket sells 250 tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of 250.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-for-the-second-part-of-the-problem-we-are-told-92988c8c.mp3"
+  },
+  {
+    "original_audio": "let-s-work-through-the-numbers-we-started-with-d652e9b8.mp3",
+    "input_text": "Let's work through the numbers. We started with 5,640 tins. To find 5%, we can first find 10%, which is 564. 5% is half of 10%, so half of 564 is 282.",
+    "input_data": {
+      "input_text": "Let's work through the numbers. We started with 5,640 tins. To find 5%, we can first find 10%, which is 564. 5% is half of 10%, so half of 564 is 282.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-work-through-the-numbers-we-started-with-d652e9b8.mp3"
+  },
+  {
+    "original_audio": "we-subtract-these-damaged-tins-from-the-total-5640-90a08b22.mp3",
+    "input_text": "We subtract these damaged tins from the total: 5,640 minus 282 leaves us with 5,358 saleable tins.",
+    "input_data": {
+      "input_text": "We subtract these damaged tins from the total: 5,640 minus 282 leaves us with 5,358 saleable tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-subtract-these-damaged-tins-from-the-total-5640-90a08b22.mp3"
+  },
+  {
+    "original_audio": "now-we-need-to-divide-5358-by-250-to-find-the-16cd0ccc.mp3",
+    "input_text": "Now we need to divide 5,358 by 250 to find the number of days.",
+    "input_data": {
+      "input_text": "Now we need to divide 5,358 by 250 to find the number of days.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-need-to-divide-5358-by-250-to-find-the-16cd0ccc.mp3"
+  },
+  {
+    "original_audio": "we-can-estimate-this-we-know-that-4-lots-of-250-efd1fb85.mp3",
+    "input_text": "We can estimate this. We know that 4 lots of 250 make 1,000. Therefore, 20 lots of 250 make 5,000.",
+    "input_data": {
+      "input_text": "We can estimate this. We know that 4 lots of 250 make 1,000. Therefore, 20 lots of 250 make 5,000.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-can-estimate-this-we-know-that-4-lots-of-250-efd1fb85.mp3"
+  },
+  {
+    "original_audio": "if-we-subtract-5000-from-5358-we-are-left-with-358-b1af7765.mp3",
+    "input_text": "If we subtract 5,000 from 5,358, we are left with 358.",
+    "input_data": {
+      "input_text": "If we subtract 5,000 from 5,358, we are left with 358.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "if-we-subtract-5000-from-5358-we-are-left-with-358-b1af7765.mp3"
+  },
+  {
+    "original_audio": "how-many-250s-are-in-358-there-is-1-lot-of-250-4010e3eb.mp3",
+    "input_text": "How many 250s are in 358? There is 1 lot of 250, with a remainder.",
+    "input_data": {
+      "input_text": "How many 250s are in 358? There is 1 lot of 250, with a remainder.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-250s-are-in-358-there-is-1-lot-of-250-4010e3eb.mp3"
+  },
+  {
+    "original_audio": "so-we-have-20-days-plus-1-day-giving-us-21-full-341aae70.mp3",
+    "input_text": "So, we have 20 days plus 1 day, giving us 21 full days. The remainder means we have a few beans left over, but not enough for a 22nd day.",
+    "input_data": {
+      "input_text": "So, we have 20 days plus 1 day, giving us 21 full days. The remainder means we have a few beans left over, but not enough for a 22nd day.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "so-we-have-20-days-plus-1-day-giving-us-21-full-341aae70.mp3"
+  },
+  {
+    "original_audio": "let-s-look-at-a-second-example-a-party-of-613-bf09973c.mp3",
+    "input_text": "Let's look at a second example. A party of 613 children and 59 adults are going to a theme park. We need to determine how many coaches are needed if each holds 53 people. First, we find the total number of people by adding 613 and 59, which gives us 672. The strategy here is division: we divide the total people, 672, by the coach capacity, 53.",
+    "input_data": {
+      "input_text": "Let's look at a second example. A party of 613 children and 59 adults are going to a theme park. We need to determine how many coaches are needed if each holds 53 people. First, we find the total number of people by adding 613 and 59, which gives us 672. The strategy here is division: we divide the total people, 672, by the coach capacity, 53.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-look-at-a-second-example-a-party-of-613-bf09973c.mp3"
+  },
+  {
+    "original_audio": "we-need-to-calculate-672-divided-by-53-using-long-822c71cd.mp3",
+    "input_text": "We need to calculate 672 divided by 53 using long division.",
+    "input_data": {
+      "input_text": "We need to calculate 672 divided by 53 using long division.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-calculate-672-divided-by-53-using-long-822c71cd.mp3"
+  },
+  {
+    "original_audio": "first-how-many-53s-go-into-67-the-answer-is-1-we-969810c9.mp3",
+    "input_text": "First, how many 53s go into 67? The answer is 1. We write the 1 above the line.",
+    "input_data": {
+      "input_text": "First, how many 53s go into 67? The answer is 1. We write the 1 above the line.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-how-many-53s-go-into-67-the-answer-is-1-we-969810c9.mp3"
+  },
+  {
+    "original_audio": "1-times-53-is-53-subtracting-53-from-67-gives-us-8dd12929.mp3",
+    "input_text": "1 times 53 is 53. Subtracting 53 from 67 gives us 14.",
+    "input_data": {
+      "input_text": "1 times 53 is 53. Subtracting 53 from 67 gives us 14.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "1-times-53-is-53-subtracting-53-from-67-gives-us-8dd12929.mp3"
+  },
+  {
+    "original_audio": "now-bring-down-the-2-to-make-142-ba33dd5c.mp3",
+    "input_text": "Now, bring down the 2 to make 142.",
+    "input_data": {
+      "input_text": "Now, bring down the 2 to make 142.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-bring-down-the-2-to-make-142-ba33dd5c.mp3"
+  },
+  {
+    "original_audio": "how-many-53s-go-into-142-let-s-estimate-50-times-2-8bba4b2d.mp3",
+    "input_text": "How many 53s go into 142? Let's estimate. 50 times 2 is 100. 50 times 3 is 150, which is too high. So it must be 2.",
+    "input_data": {
+      "input_text": "How many 53s go into 142? Let's estimate. 50 times 2 is 100. 50 times 3 is 150, which is too high. So it must be 2.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-53s-go-into-142-let-s-estimate-50-times-2-8bba4b2d.mp3"
+  },
+  {
+    "original_audio": "we-write-the-2-above-the-line-2-times-53-is-106-bfdb3132.mp3",
+    "input_text": "We write the 2 above the line. 2 times 53 is 106.",
+    "input_data": {
+      "input_text": "We write the 2 above the line. 2 times 53 is 106.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-write-the-2-above-the-line-2-times-53-is-106-bfdb3132.mp3"
+  },
+  {
+    "original_audio": "subtracting-106-from-142-leaves-a-remainder-of-36-eaf2e0e7.mp3",
+    "input_text": "Subtracting 106 from 142 leaves a remainder of 36. So the answer is 12 remainder 36.",
+    "input_data": {
+      "input_text": "Subtracting 106 from 142 leaves a remainder of 36. So the answer is 12 remainder 36.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "subtracting-106-from-142-leaves-a-remainder-of-36-eaf2e0e7.mp3"
+  },
+  {
+    "original_audio": "now-we-must-interpret-this-answer-the-12-2f50db07.mp3",
+    "input_text": "Now we must interpret this answer. The 12 represents full coaches. The remainder of 36 represents 36 people still waiting. We need another coach for them. So, we round up to 13 coaches in total.",
+    "input_data": {
+      "input_text": "Now we must interpret this answer. The 12 represents full coaches. The remainder of 36 represents 36 people still waiting. We need another coach for them. So, we round up to 13 coaches in total.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-must-interpret-this-answer-the-12-2f50db07.mp3"
+  },
+  {
+    "original_audio": "finally-let-s-look-at-the-entry-costs-one-adult-b94417f0.mp3",
+    "input_text": "Finally, let's look at the entry costs. One adult gets in free for every 15 children. We need to find out how many adults must pay. We divide the number of children, 613, by 15.",
+    "input_data": {
+      "input_text": "Finally, let's look at the entry costs. One adult gets in free for every 15 children. We need to find out how many adults must pay. We divide the number of children, 613, by 15.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-let-s-look-at-the-entry-costs-one-adult-b94417f0.mp3"
+  },
+  {
+    "original_audio": "we-know-that-2-times-15-is-30-so-4-times-15-is-60-d1cd5ba2.mp3",
+    "input_text": "We know that 2 times 15 is 30, so 4 times 15 is 60. Therefore, 40 times 15 is 600.",
+    "input_data": {
+      "input_text": "We know that 2 times 15 is 30, so 4 times 15 is 60. Therefore, 40 times 15 is 600.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-know-that-2-times-15-is-30-so-4-times-15-is-60-d1cd5ba2.mp3"
+  },
+  {
+    "original_audio": "we-have-613-children-so-we-have-40-groups-of-15-7ea693ba.mp3",
+    "input_text": "We have 613 children, so we have 40 groups of 15, with 13 children left over. Since we get one free adult for each full group of 15, 40 adults get in for free.",
+    "input_data": {
+      "input_text": "We have 613 children, so we have 40 groups of 15, with 13 children left over. Since we get one free adult for each full group of 15, 40 adults get in for free.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-have-613-children-so-we-have-40-groups-of-15-7ea693ba.mp3"
+  },
+  {
+    "original_audio": "the-question-asks-how-many-adults-must-pay-there-4f8116bc.mp3",
+    "input_text": "The question asks how many adults must pay. There are 59 adults in total. We subtract the 40 free places from 59, which tells us that 19 adults must pay to get in.",
+    "input_data": {
+      "input_text": "The question asks how many adults must pay. There are 59 adults in total. We subtract the 40 free places from 59, which tells us that 19 adults must pay to get in.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "the-question-asks-how-many-adults-must-pay-there-4f8116bc.mp3"
+  },
+  {
+    "original_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3",
+    "input_text": "To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method\u2014whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.",
+    "input_data": {
+      "input_text": "To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method\u2014whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3"
+  },
+  {
+    "original_audio": "welcome-to-this-lesson-on-solving-real-life-8acfee8c.mp3",
+    "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.",
+    "input_data": {
+      "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-this-lesson-on-solving-real-life-8acfee8c.mp3"
+  },
+  {
+    "original_audio": "these-require-you-to-read-carefully-plan-a-9a7bb559.mp3",
+    "input_text": "These require you to read carefully, plan a strategy, and apply arithmetic skills.",
+    "input_data": {
+      "input_text": "These require you to read carefully, plan a strategy, and apply arithmetic skills.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "these-require-you-to-read-carefully-plan-a-9a7bb559.mp3"
+  },
+  {
+    "original_audio": "in-this-lesson-we-will-look-at-how-to-approach-23813fd0.mp3",
+    "input_text": "In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+    "input_data": {
+      "input_text": "In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-lesson-we-will-look-at-how-to-approach-23813fd0.mp3"
+  },
+  {
+    "original_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-6d10b750.mp3",
+    "input_text": "When facing a word problem, it's helpful to have a consistent approach.",
+    "input_data": {
+      "input_text": "When facing a word problem, it's helpful to have a consistent approach.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-6d10b750.mp3"
+  },
+  {
+    "original_audio": "first-read-the-question-carefully-to-identify-the-1aa72c0d.mp3",
+    "input_text": "First, read the question carefully to identify the key information.",
+    "input_data": {
+      "input_text": "First, read the question carefully to identify the key information.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-read-the-question-carefully-to-identify-the-1aa72c0d.mp3"
+  },
+  {
+    "original_audio": "second-plan-your-strategy-decide-which-794e104f.mp3",
+    "input_text": "Second, plan your strategy\u2014decide which mathematical operations you need to use.",
+    "input_data": {
+      "input_text": "Second, plan your strategy\u2014decide which mathematical operations you need to use.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "second-plan-your-strategy-decide-which-794e104f.mp3"
+  },
+  {
+    "original_audio": "third-perform-the-calculation-you-might-need-to-5a27fc47.mp3",
+    "input_text": "Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed.",
+    "input_data": {
+      "input_text": "Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "third-perform-the-calculation-you-might-need-to-5a27fc47.mp3"
+  },
+  {
+    "original_audio": "finally-always-check-your-answer-ask-yourself-is-caf71697.mp3",
+    "input_text": "Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+    "input_data": {
+      "input_text": "Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-always-check-your-answer-ask-yourself-is-caf71697.mp3"
+  },
+  {
+    "original_audio": "let-s-apply-this-to-an-example-a-supermarket-24fbbc33.mp3",
+    "input_text": "Let's apply this to an example. A supermarket receives a delivery of 235 cases of tins of beans. Each case contains 24 tins. We need to calculate how many tins the supermarket receives altogether. Since we have 235 groups of 24, our strategy is multiplication. We need to calculate 235 multiplied by 24.",
+    "input_data": {
+      "input_text": "Let's apply this to an example. A supermarket receives a delivery of 235 cases of tins of beans. Each case contains 24 tins. We need to calculate how many tins the supermarket receives altogether. Since we have 235 groups of 24, our strategy is multiplication. We need to calculate 235 multiplied by 24.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-apply-this-to-an-example-a-supermarket-24fbbc33.mp3"
+  },
+  {
+    "original_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3",
+    "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+    "input_data": {
+      "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3"
+  },
+  {
+    "original_audio": "we-break-235-into-200-30-and-5-we-break-24-into-20-4e4f37d8.mp3",
+    "input_text": "We break 235 into 200, 30, and 5. We break 24 into 20 and 4.",
+    "input_data": {
+      "input_text": "We break 235 into 200, 30, and 5. We break 24 into 20 and 4.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-break-235-into-200-30-and-5-we-break-24-into-20-4e4f37d8.mp3"
+  },
+  {
+    "original_audio": "now-we-multiply-each-part-200-times-20-is-4000-30-8f095ed0.mp3",
+    "input_text": "Now we multiply each part. 200 times 20 is 4,000. 30 times 20 is 600. 5 times 20 is 100.",
+    "input_data": {
+      "input_text": "Now we multiply each part. 200 times 20 is 4,000. 30 times 20 is 600. 5 times 20 is 100.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-multiply-each-part-200-times-20-is-4000-30-8f095ed0.mp3"
+  },
+  {
+    "original_audio": "then-we-multiply-by-4-200-times-4-is-800-30-times-8c105276.mp3",
+    "input_text": "Then we multiply by 4: 200 times 4 is 800. 30 times 4 is 120. 5 times 4 is 20.",
+    "input_data": {
+      "input_text": "Then we multiply by 4: 200 times 4 is 800. 30 times 4 is 120. 5 times 4 is 20.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-we-multiply-by-4-200-times-4-is-800-30-times-8c105276.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-all-these-answers-together-4000-65cdfbf9.mp3",
+    "input_text": "Finally, we add all these answers together: 4,000 plus 600 plus 100 is 4,700.",
+    "input_data": {
+      "input_text": "Finally, we add all these answers together: 4,000 plus 600 plus 100 is 4,700.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-all-these-answers-together-4000-65cdfbf9.mp3"
+  },
+  {
+    "original_audio": "800-plus-120-plus-20-is-940-f3015b4e.mp3",
+    "input_text": "800 plus 120 plus 20 is 940.",
+    "input_data": {
+      "input_text": "800 plus 120 plus 20 is 940.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "800-plus-120-plus-20-is-940-f3015b4e.mp3"
+  },
+  {
+    "original_audio": "adding-4700-and-940-gives-us-a-total-of-5640-c75c5ca1.mp3",
+    "input_text": "Adding 4,700 and 940 gives us a total of 5,640.",
+    "input_data": {
+      "input_text": "Adding 4,700 and 940 gives us a total of 5,640.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "adding-4700-and-940-gives-us-a-total-of-5640-c75c5ca1.mp3"
+  },
+  {
+    "original_audio": "now-let-s-look-at-the-column-method-ee751968.mp3",
+    "input_text": "Now let's look at the Column Method.",
+    "input_data": {
+      "input_text": "Now let's look at the Column Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-let-s-look-at-the-column-method-ee751968.mp3"
+  },
+  {
+    "original_audio": "first-we-multiply-235-by-4-4-times-5-is-20-so-0d88cf61.mp3",
+    "input_text": "First, we multiply 235 by 4. 4 times 5 is 20, so write the 0 and carry the 2.",
+    "input_data": {
+      "input_text": "First, we multiply 235 by 4. 4 times 5 is 20, so write the 0 and carry the 2.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-we-multiply-235-by-4-4-times-5-is-20-so-0d88cf61.mp3"
+  },
+  {
+    "original_audio": "4-times-3-is-12-plus-the-carried-2-is-14-write-the-4b419e79.mp3",
+    "input_text": "4 times 3 is 12, plus the carried 2 is 14. Write the 4 and carry the 1.",
+    "input_data": {
+      "input_text": "4 times 3 is 12, plus the carried 2 is 14. Write the 4 and carry the 1.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "4-times-3-is-12-plus-the-carried-2-is-14-write-the-4b419e79.mp3"
+  },
+  {
+    "original_audio": "4-times-2-is-8-plus-the-1-is-9-this-gives-us-940-18fd040b.mp3",
+    "input_text": "4 times 2 is 8, plus the 1 is 9. This gives us 940.",
+    "input_data": {
+      "input_text": "4 times 2 is 8, plus the 1 is 9. This gives us 940.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "4-times-2-is-8-plus-the-1-is-9-this-gives-us-940-18fd040b.mp3"
+  },
+  {
+    "original_audio": "next-we-multiply-by-the-20-we-start-by-placing-a-65d66f9f.mp3",
+    "input_text": "Next, we multiply by the 20. We start by placing a zero in the units column.",
+    "input_data": {
+      "input_text": "Next, we multiply by the 20. We start by placing a zero in the units column.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "next-we-multiply-by-the-20-we-start-by-placing-a-65d66f9f.mp3"
+  },
+  {
+    "original_audio": "then-2-times-5-is-10-write-0-carry-1-b391d49c.mp3",
+    "input_text": "Then, 2 times 5 is 10; write 0, carry 1.",
+    "input_data": {
+      "input_text": "Then, 2 times 5 is 10; write 0, carry 1.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-2-times-5-is-10-write-0-carry-1-b391d49c.mp3"
+  },
+  {
+    "original_audio": "2-times-3-is-6-plus-1-is-7-66bdb759.mp3",
+    "input_text": "2 times 3 is 6, plus 1 is 7.",
+    "input_data": {
+      "input_text": "2 times 3 is 6, plus 1 is 7.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "2-times-3-is-6-plus-1-is-7-66bdb759.mp3"
+  },
+  {
+    "original_audio": "2-times-2-is-4-this-gives-us-4700-880debc8.mp3",
+    "input_text": "2 times 2 is 4. This gives us 4,700.",
+    "input_data": {
+      "input_text": "2 times 2 is 4. This gives us 4,700.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "2-times-2-is-4-this-gives-us-4700-880debc8.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-940-and-4700-together-to-get-5640-3bd7f346.mp3",
+    "input_text": "Finally, we add 940 and 4,700 together to get 5,640.",
+    "input_data": {
+      "input_text": "Finally, we add 940 and 4,700 together to get 5,640.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-940-and-4700-together-to-get-5640-3bd7f346.mp3"
+  },
+  {
+    "original_audio": "both-methods-give-us-the-same-result-5640-tins-fbc07a48.mp3",
+    "input_text": "Both methods give us the same result: 5,640 tins.",
+    "input_data": {
+      "input_text": "Both methods give us the same result: 5,640 tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "both-methods-give-us-the-same-result-5640-tins-fbc07a48.mp3"
+  },
+  {
+    "original_audio": "now-for-the-second-part-of-the-problem-we-are-told-92988c8c.mp3",
+    "input_text": "Now for the second part of the problem. We are told that 5% of the tins were damaged and thrown away. The supermarket sells 250 tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of 250.",
+    "input_data": {
+      "input_text": "Now for the second part of the problem. We are told that 5% of the tins were damaged and thrown away. The supermarket sells 250 tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of 250.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-for-the-second-part-of-the-problem-we-are-told-92988c8c.mp3"
+  },
+  {
+    "original_audio": "let-s-work-through-the-numbers-we-started-with-d652e9b8.mp3",
+    "input_text": "Let's work through the numbers. We started with 5,640 tins. To find 5%, we can first find 10%, which is 564. 5% is half of 10%, so half of 564 is 282.",
+    "input_data": {
+      "input_text": "Let's work through the numbers. We started with 5,640 tins. To find 5%, we can first find 10%, which is 564. 5% is half of 10%, so half of 564 is 282.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-work-through-the-numbers-we-started-with-d652e9b8.mp3"
+  },
+  {
+    "original_audio": "we-subtract-these-damaged-tins-from-the-total-5640-90a08b22.mp3",
+    "input_text": "We subtract these damaged tins from the total: 5,640 minus 282 leaves us with 5,358 saleable tins.",
+    "input_data": {
+      "input_text": "We subtract these damaged tins from the total: 5,640 minus 282 leaves us with 5,358 saleable tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-subtract-these-damaged-tins-from-the-total-5640-90a08b22.mp3"
+  },
+  {
+    "original_audio": "now-we-need-to-divide-5358-by-250-to-find-the-16cd0ccc.mp3",
+    "input_text": "Now we need to divide 5,358 by 250 to find the number of days.",
+    "input_data": {
+      "input_text": "Now we need to divide 5,358 by 250 to find the number of days.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-need-to-divide-5358-by-250-to-find-the-16cd0ccc.mp3"
+  },
+  {
+    "original_audio": "we-can-estimate-this-we-know-that-4-lots-of-250-efd1fb85.mp3",
+    "input_text": "We can estimate this. We know that 4 lots of 250 make 1,000. Therefore, 20 lots of 250 make 5,000.",
+    "input_data": {
+      "input_text": "We can estimate this. We know that 4 lots of 250 make 1,000. Therefore, 20 lots of 250 make 5,000.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-can-estimate-this-we-know-that-4-lots-of-250-efd1fb85.mp3"
+  },
+  {
+    "original_audio": "if-we-subtract-5000-from-5358-we-are-left-with-358-b1af7765.mp3",
+    "input_text": "If we subtract 5,000 from 5,358, we are left with 358.",
+    "input_data": {
+      "input_text": "If we subtract 5,000 from 5,358, we are left with 358.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "if-we-subtract-5000-from-5358-we-are-left-with-358-b1af7765.mp3"
+  },
+  {
+    "original_audio": "how-many-250s-are-in-358-there-is-1-lot-of-250-4010e3eb.mp3",
+    "input_text": "How many 250s are in 358? There is 1 lot of 250, with a remainder.",
+    "input_data": {
+      "input_text": "How many 250s are in 358? There is 1 lot of 250, with a remainder.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-250s-are-in-358-there-is-1-lot-of-250-4010e3eb.mp3"
+  },
+  {
+    "original_audio": "so-we-have-20-days-plus-1-day-giving-us-21-full-341aae70.mp3",
+    "input_text": "So, we have 20 days plus 1 day, giving us 21 full days. The remainder means we have a few beans left over, but not enough for a 22nd day.",
+    "input_data": {
+      "input_text": "So, we have 20 days plus 1 day, giving us 21 full days. The remainder means we have a few beans left over, but not enough for a 22nd day.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "so-we-have-20-days-plus-1-day-giving-us-21-full-341aae70.mp3"
+  },
+  {
+    "original_audio": "let-s-look-at-a-second-example-a-party-of-613-bf09973c.mp3",
+    "input_text": "Let's look at a second example. A party of 613 children and 59 adults are going to a theme park. We need to determine how many coaches are needed if each holds 53 people. First, we find the total number of people by adding 613 and 59, which gives us 672. The strategy here is division: we divide the total people, 672, by the coach capacity, 53.",
+    "input_data": {
+      "input_text": "Let's look at a second example. A party of 613 children and 59 adults are going to a theme park. We need to determine how many coaches are needed if each holds 53 people. First, we find the total number of people by adding 613 and 59, which gives us 672. The strategy here is division: we divide the total people, 672, by the coach capacity, 53.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-look-at-a-second-example-a-party-of-613-bf09973c.mp3"
+  },
+  {
+    "original_audio": "we-need-to-calculate-672-divided-by-53-using-long-822c71cd.mp3",
+    "input_text": "We need to calculate 672 divided by 53 using long division.",
+    "input_data": {
+      "input_text": "We need to calculate 672 divided by 53 using long division.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-calculate-672-divided-by-53-using-long-822c71cd.mp3"
+  },
+  {
+    "original_audio": "first-how-many-53s-go-into-67-the-answer-is-1-we-969810c9.mp3",
+    "input_text": "First, how many 53s go into 67? The answer is 1. We write the 1 above the line.",
+    "input_data": {
+      "input_text": "First, how many 53s go into 67? The answer is 1. We write the 1 above the line.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-how-many-53s-go-into-67-the-answer-is-1-we-969810c9.mp3"
+  },
+  {
+    "original_audio": "1-times-53-is-53-subtracting-53-from-67-gives-us-8dd12929.mp3",
+    "input_text": "1 times 53 is 53. Subtracting 53 from 67 gives us 14.",
+    "input_data": {
+      "input_text": "1 times 53 is 53. Subtracting 53 from 67 gives us 14.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "1-times-53-is-53-subtracting-53-from-67-gives-us-8dd12929.mp3"
+  },
+  {
+    "original_audio": "now-bring-down-the-2-to-make-142-ba33dd5c.mp3",
+    "input_text": "Now, bring down the 2 to make 142.",
+    "input_data": {
+      "input_text": "Now, bring down the 2 to make 142.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-bring-down-the-2-to-make-142-ba33dd5c.mp3"
+  },
+  {
+    "original_audio": "how-many-53s-go-into-142-let-s-estimate-50-times-2-8bba4b2d.mp3",
+    "input_text": "How many 53s go into 142? Let's estimate. 50 times 2 is 100. 50 times 3 is 150, which is too high. So it must be 2.",
+    "input_data": {
+      "input_text": "How many 53s go into 142? Let's estimate. 50 times 2 is 100. 50 times 3 is 150, which is too high. So it must be 2.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-53s-go-into-142-let-s-estimate-50-times-2-8bba4b2d.mp3"
+  },
+  {
+    "original_audio": "we-write-the-2-above-the-line-2-times-53-is-106-bfdb3132.mp3",
+    "input_text": "We write the 2 above the line. 2 times 53 is 106.",
+    "input_data": {
+      "input_text": "We write the 2 above the line. 2 times 53 is 106.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-write-the-2-above-the-line-2-times-53-is-106-bfdb3132.mp3"
+  },
+  {
+    "original_audio": "subtracting-106-from-142-leaves-a-remainder-of-36-eaf2e0e7.mp3",
+    "input_text": "Subtracting 106 from 142 leaves a remainder of 36. So the answer is 12 remainder 36.",
+    "input_data": {
+      "input_text": "Subtracting 106 from 142 leaves a remainder of 36. So the answer is 12 remainder 36.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "subtracting-106-from-142-leaves-a-remainder-of-36-eaf2e0e7.mp3"
+  },
+  {
+    "original_audio": "now-we-must-interpret-this-answer-the-12-2f50db07.mp3",
+    "input_text": "Now we must interpret this answer. The 12 represents full coaches. The remainder of 36 represents 36 people still waiting. We need another coach for them. So, we round up to 13 coaches in total.",
+    "input_data": {
+      "input_text": "Now we must interpret this answer. The 12 represents full coaches. The remainder of 36 represents 36 people still waiting. We need another coach for them. So, we round up to 13 coaches in total.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-must-interpret-this-answer-the-12-2f50db07.mp3"
+  },
+  {
+    "original_audio": "finally-let-s-look-at-the-entry-costs-one-adult-b94417f0.mp3",
+    "input_text": "Finally, let's look at the entry costs. One adult gets in free for every 15 children. We need to find out how many adults must pay. We divide the number of children, 613, by 15.",
+    "input_data": {
+      "input_text": "Finally, let's look at the entry costs. One adult gets in free for every 15 children. We need to find out how many adults must pay. We divide the number of children, 613, by 15.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-let-s-look-at-the-entry-costs-one-adult-b94417f0.mp3"
+  },
+  {
+    "original_audio": "we-know-that-2-times-15-is-30-so-4-times-15-is-60-d1cd5ba2.mp3",
+    "input_text": "We know that 2 times 15 is 30, so 4 times 15 is 60. Therefore, 40 times 15 is 600.",
+    "input_data": {
+      "input_text": "We know that 2 times 15 is 30, so 4 times 15 is 60. Therefore, 40 times 15 is 600.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-know-that-2-times-15-is-30-so-4-times-15-is-60-d1cd5ba2.mp3"
+  },
+  {
+    "original_audio": "we-have-613-children-so-we-have-40-groups-of-15-7ea693ba.mp3",
+    "input_text": "We have 613 children, so we have 40 groups of 15, with 13 children left over. Since we get one free adult for each full group of 15, 40 adults get in for free.",
+    "input_data": {
+      "input_text": "We have 613 children, so we have 40 groups of 15, with 13 children left over. Since we get one free adult for each full group of 15, 40 adults get in for free.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-have-613-children-so-we-have-40-groups-of-15-7ea693ba.mp3"
+  },
+  {
+    "original_audio": "the-question-asks-how-many-adults-must-pay-there-4f8116bc.mp3",
+    "input_text": "The question asks how many adults must pay. There are 59 adults in total. We subtract the 40 free places from 59, which tells us that 19 adults must pay to get in.",
+    "input_data": {
+      "input_text": "The question asks how many adults must pay. There are 59 adults in total. We subtract the 40 free places from 59, which tells us that 19 adults must pay to get in.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "the-question-asks-how-many-adults-must-pay-there-4f8116bc.mp3"
+  },
+  {
+    "original_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3",
+    "input_text": "To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method\u2014whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.",
+    "input_data": {
+      "input_text": "To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method\u2014whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3"
+  },
+  {
+    "original_audio": "welcome-to-this-lesson-on-solving-real-life-8acfee8c.mp3",
+    "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.",
+    "input_data": {
+      "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-this-lesson-on-solving-real-life-8acfee8c.mp3"
+  },
+  {
+    "original_audio": "these-require-you-to-read-carefully-plan-a-9a7bb559.mp3",
+    "input_text": "These require you to read carefully, plan a strategy, and apply arithmetic skills.",
+    "input_data": {
+      "input_text": "These require you to read carefully, plan a strategy, and apply arithmetic skills.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "these-require-you-to-read-carefully-plan-a-9a7bb559.mp3"
+  },
+  {
+    "original_audio": "in-this-lesson-we-will-look-at-how-to-approach-23813fd0.mp3",
+    "input_text": "In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+    "input_data": {
+      "input_text": "In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-lesson-we-will-look-at-how-to-approach-23813fd0.mp3"
+  },
+  {
+    "original_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-6d10b750.mp3",
+    "input_text": "When facing a word problem, it's helpful to have a consistent approach.",
+    "input_data": {
+      "input_text": "When facing a word problem, it's helpful to have a consistent approach.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-6d10b750.mp3"
+  },
+  {
+    "original_audio": "first-read-the-question-carefully-to-identify-the-1aa72c0d.mp3",
+    "input_text": "First, read the question carefully to identify the key information.",
+    "input_data": {
+      "input_text": "First, read the question carefully to identify the key information.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-read-the-question-carefully-to-identify-the-1aa72c0d.mp3"
+  },
+  {
+    "original_audio": "second-plan-your-strategy-decide-which-794e104f.mp3",
+    "input_text": "Second, plan your strategy\u2014decide which mathematical operations you need to use.",
+    "input_data": {
+      "input_text": "Second, plan your strategy\u2014decide which mathematical operations you need to use.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "second-plan-your-strategy-decide-which-794e104f.mp3"
+  },
+  {
+    "original_audio": "third-perform-the-calculation-you-might-need-to-5a27fc47.mp3",
+    "input_text": "Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed.",
+    "input_data": {
+      "input_text": "Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "third-perform-the-calculation-you-might-need-to-5a27fc47.mp3"
+  },
+  {
+    "original_audio": "finally-always-check-your-answer-ask-yourself-is-caf71697.mp3",
+    "input_text": "Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+    "input_data": {
+      "input_text": "Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-always-check-your-answer-ask-yourself-is-caf71697.mp3"
+  },
+  {
+    "original_audio": "let-s-apply-this-to-an-example-a902239d.mp3",
+    "input_text": "Let's apply this to an example.",
+    "input_data": {
+      "input_text": "Let's apply this to an example.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-apply-this-to-an-example-a902239d.mp3"
+  },
+  {
+    "original_audio": "a-supermarket-receives-a-delivery-of-two-hundred-d2591a39.mp3",
+    "input_text": "A supermarket receives a delivery of two hundred and thirty-five cases of tins of beans.",
+    "input_data": {
+      "input_text": "A supermarket receives a delivery of two hundred and thirty-five cases of tins of beans.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "a-supermarket-receives-a-delivery-of-two-hundred-d2591a39.mp3"
+  },
+  {
+    "original_audio": "each-case-contains-twenty-four-tins-cd70f092.mp3",
+    "input_text": "Each case contains twenty-four tins.",
+    "input_data": {
+      "input_text": "Each case contains twenty-four tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "each-case-contains-twenty-four-tins-cd70f092.mp3"
+  },
+  {
+    "original_audio": "we-need-to-calculate-how-many-tins-the-supermarket-72d316ff.mp3",
+    "input_text": "We need to calculate how many tins the supermarket receives altogether.",
+    "input_data": {
+      "input_text": "We need to calculate how many tins the supermarket receives altogether.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-calculate-how-many-tins-the-supermarket-72d316ff.mp3"
+  },
+  {
+    "original_audio": "since-we-have-two-hundred-and-thirty-five-groups-0b693ece.mp3",
+    "input_text": "Since we have two hundred and thirty-five groups of twenty-four, our strategy is multiplication. We need to calculate two hundred and thirty-five multiplied by twenty-four.",
+    "input_data": {
+      "input_text": "Since we have two hundred and thirty-five groups of twenty-four, our strategy is multiplication. We need to calculate two hundred and thirty-five multiplied by twenty-four.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "since-we-have-two-hundred-and-thirty-five-groups-0b693ece.mp3"
+  },
+  {
+    "original_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3",
+    "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+    "input_data": {
+      "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3"
+  },
+  {
+    "original_audio": "we-break-two-hundred-and-thirty-five-into-two-65a44da6.mp3",
+    "input_text": "We break two hundred and thirty-five into two hundred, thirty, and five. We break twenty-four into twenty and four.",
+    "input_data": {
+      "input_text": "We break two hundred and thirty-five into two hundred, thirty, and five. We break twenty-four into twenty and four.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-break-two-hundred-and-thirty-five-into-two-65a44da6.mp3"
+  },
+  {
+    "original_audio": "now-we-multiply-each-part-two-hundred-times-twenty-33af4081.mp3",
+    "input_text": "Now we multiply each part. Two hundred times twenty is four thousand. Thirty times twenty is six hundred. Five times twenty is one hundred.",
+    "input_data": {
+      "input_text": "Now we multiply each part. Two hundred times twenty is four thousand. Thirty times twenty is six hundred. Five times twenty is one hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-multiply-each-part-two-hundred-times-twenty-33af4081.mp3"
+  },
+  {
+    "original_audio": "then-we-multiply-by-four-two-hundred-times-four-is-af0a27f0.mp3",
+    "input_text": "Then we multiply by four: Two hundred times four is eight hundred. Thirty times four is one hundred and twenty. Five times four is twenty.",
+    "input_data": {
+      "input_text": "Then we multiply by four: Two hundred times four is eight hundred. Thirty times four is one hundred and twenty. Five times four is twenty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-we-multiply-by-four-two-hundred-times-four-is-af0a27f0.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-all-these-answers-together-four-1037b6ad.mp3",
+    "input_text": "Finally, we add all these answers together: Four thousand plus six hundred plus one hundred is four thousand seven hundred.",
+    "input_data": {
+      "input_text": "Finally, we add all these answers together: Four thousand plus six hundred plus one hundred is four thousand seven hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-all-these-answers-together-four-1037b6ad.mp3"
+  },
+  {
+    "original_audio": "eight-hundred-plus-one-hundred-and-twenty-plus-3e69224b.mp3",
+    "input_text": "Eight hundred plus one hundred and twenty plus twenty is nine hundred and forty.",
+    "input_data": {
+      "input_text": "Eight hundred plus one hundred and twenty plus twenty is nine hundred and forty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "eight-hundred-plus-one-hundred-and-twenty-plus-3e69224b.mp3"
+  },
+  {
+    "original_audio": "adding-four-thousand-seven-hundred-and-nine-8e0d3836.mp3",
+    "input_text": "Adding four thousand seven hundred and nine hundred and forty gives us a total of five thousand six hundred and forty.",
+    "input_data": {
+      "input_text": "Adding four thousand seven hundred and nine hundred and forty gives us a total of five thousand six hundred and forty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "adding-four-thousand-seven-hundred-and-nine-8e0d3836.mp3"
+  },
+  {
+    "original_audio": "now-let-s-look-at-the-column-method-ee751968.mp3",
+    "input_text": "Now let's look at the Column Method.",
+    "input_data": {
+      "input_text": "Now let's look at the Column Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-let-s-look-at-the-column-method-ee751968.mp3"
+  },
+  {
+    "original_audio": "first-we-multiply-two-hundred-and-thirty-five-by-c35cc380.mp3",
+    "input_text": "First, we multiply two hundred and thirty-five by four. Four times five is twenty, so write the zero and carry the two.",
+    "input_data": {
+      "input_text": "First, we multiply two hundred and thirty-five by four. Four times five is twenty, so write the zero and carry the two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-we-multiply-two-hundred-and-thirty-five-by-c35cc380.mp3"
+  },
+  {
+    "original_audio": "four-times-three-is-twelve-plus-the-carried-two-is-da5f4bdf.mp3",
+    "input_text": "Four times three is twelve, plus the carried two is fourteen. Write the four and carry the one.",
+    "input_data": {
+      "input_text": "Four times three is twelve, plus the carried two is fourteen. Write the four and carry the one.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "four-times-three-is-twelve-plus-the-carried-two-is-da5f4bdf.mp3"
+  },
+  {
+    "original_audio": "four-times-two-is-eight-plus-the-one-is-nine-this-440feb72.mp3",
+    "input_text": "Four times two is eight, plus the one is nine. This gives us nine hundred and forty.",
+    "input_data": {
+      "input_text": "Four times two is eight, plus the one is nine. This gives us nine hundred and forty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "four-times-two-is-eight-plus-the-one-is-nine-this-440feb72.mp3"
+  },
+  {
+    "original_audio": "next-we-multiply-by-the-twenty-we-start-by-placing-1f72a5e5.mp3",
+    "input_text": "Next, we multiply by the twenty. We start by placing a zero in the units column.",
+    "input_data": {
+      "input_text": "Next, we multiply by the twenty. We start by placing a zero in the units column.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "next-we-multiply-by-the-twenty-we-start-by-placing-1f72a5e5.mp3"
+  },
+  {
+    "original_audio": "then-two-times-five-is-ten-write-zero-carry-one-6e1cbce3.mp3",
+    "input_text": "Then, two times five is ten; write zero, carry one.",
+    "input_data": {
+      "input_text": "Then, two times five is ten; write zero, carry one.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-two-times-five-is-ten-write-zero-carry-one-6e1cbce3.mp3"
+  },
+  {
+    "original_audio": "two-times-three-is-six-plus-one-is-seven-c318c7e9.mp3",
+    "input_text": "Two times three is six, plus one is seven.",
+    "input_data": {
+      "input_text": "Two times three is six, plus one is seven.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "two-times-three-is-six-plus-one-is-seven-c318c7e9.mp3"
+  },
+  {
+    "original_audio": "two-times-two-is-four-this-gives-us-four-thousand-3c063837.mp3",
+    "input_text": "Two times two is four. This gives us four thousand seven hundred.",
+    "input_data": {
+      "input_text": "Two times two is four. This gives us four thousand seven hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "two-times-two-is-four-this-gives-us-four-thousand-3c063837.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-nine-hundred-and-forty-and-four-9b84b869.mp3",
+    "input_text": "Finally, we add nine hundred and forty and four thousand seven hundred together to get five thousand six hundred and forty.",
+    "input_data": {
+      "input_text": "Finally, we add nine hundred and forty and four thousand seven hundred together to get five thousand six hundred and forty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-nine-hundred-and-forty-and-four-9b84b869.mp3"
+  },
+  {
+    "original_audio": "both-methods-give-us-the-same-result-five-thousand-b9d4f0d7.mp3",
+    "input_text": "Both methods give us the same result: five thousand six hundred and forty tins.",
+    "input_data": {
+      "input_text": "Both methods give us the same result: five thousand six hundred and forty tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "both-methods-give-us-the-same-result-five-thousand-b9d4f0d7.mp3"
+  },
+  {
+    "original_audio": "now-for-the-second-part-of-the-problem-we-are-told-31d178db.mp3",
+    "input_text": "Now for the second part of the problem. We are told that five percent of the tins were damaged and thrown away. The supermarket sells two hundred and fifty tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of two hundred and fifty.",
+    "input_data": {
+      "input_text": "Now for the second part of the problem. We are told that five percent of the tins were damaged and thrown away. The supermarket sells two hundred and fifty tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of two hundred and fifty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-for-the-second-part-of-the-problem-we-are-told-31d178db.mp3"
+  },
+  {
+    "original_audio": "let-s-work-through-the-numbers-we-started-with-a601776b.mp3",
+    "input_text": "Let's work through the numbers. We started with five thousand six hundred and forty tins. To find five percent, we can first find ten percent, which is five hundred and sixty-four. Five percent is half of ten percent, so half of five hundred and sixty-four is two hundred and eighty-two.",
+    "input_data": {
+      "input_text": "Let's work through the numbers. We started with five thousand six hundred and forty tins. To find five percent, we can first find ten percent, which is five hundred and sixty-four. Five percent is half of ten percent, so half of five hundred and sixty-four is two hundred and eighty-two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-work-through-the-numbers-we-started-with-a601776b.mp3"
+  },
+  {
+    "original_audio": "we-subtract-these-damaged-tins-from-the-total-five-f851b252.mp3",
+    "input_text": "We subtract these damaged tins from the total: five thousand six hundred and forty minus two hundred and eighty-two leaves us with five thousand three hundred and fifty-eight saleable tins.",
+    "input_data": {
+      "input_text": "We subtract these damaged tins from the total: five thousand six hundred and forty minus two hundred and eighty-two leaves us with five thousand three hundred and fifty-eight saleable tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-subtract-these-damaged-tins-from-the-total-five-f851b252.mp3"
+  },
+  {
+    "original_audio": "now-we-need-to-divide-five-thousand-three-hundred-a7cd50d0.mp3",
+    "input_text": "Now we need to divide five thousand three hundred and fifty-eight by two hundred and fifty to find the number of days.",
+    "input_data": {
+      "input_text": "Now we need to divide five thousand three hundred and fifty-eight by two hundred and fifty to find the number of days.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-need-to-divide-five-thousand-three-hundred-a7cd50d0.mp3"
+  },
+  {
+    "original_audio": "we-can-estimate-this-we-know-that-four-lots-of-two-53446ee6.mp3",
+    "input_text": "We can estimate this. We know that four lots of two hundred and fifty make one thousand. Therefore, twenty lots of two hundred and fifty make five thousand.",
+    "input_data": {
+      "input_text": "We can estimate this. We know that four lots of two hundred and fifty make one thousand. Therefore, twenty lots of two hundred and fifty make five thousand.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-can-estimate-this-we-know-that-four-lots-of-two-53446ee6.mp3"
+  },
+  {
+    "original_audio": "if-we-subtract-five-thousand-from-five-thousand-050b1e33.mp3",
+    "input_text": "If we subtract five thousand from five thousand three hundred and fifty-eight, we are left with three hundred and fifty-eight.",
+    "input_data": {
+      "input_text": "If we subtract five thousand from five thousand three hundred and fifty-eight, we are left with three hundred and fifty-eight.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "if-we-subtract-five-thousand-from-five-thousand-050b1e33.mp3"
+  },
+  {
+    "original_audio": "how-many-two-hundred-and-fifties-are-in-three-c8bfe71d.mp3",
+    "input_text": "How many two hundred and fifties are in three hundred and fifty-eight? There is one lot of two hundred and fifty, with a remainder.",
+    "input_data": {
+      "input_text": "How many two hundred and fifties are in three hundred and fifty-eight? There is one lot of two hundred and fifty, with a remainder.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-two-hundred-and-fifties-are-in-three-c8bfe71d.mp3"
+  },
+  {
+    "original_audio": "so-we-have-twenty-days-plus-one-day-giving-us-9acf4a22.mp3",
+    "input_text": "So, we have twenty days plus one day, giving us twenty-one full days. The remainder means we have a few beans left over, but not enough for a twenty-second day.",
+    "input_data": {
+      "input_text": "So, we have twenty days plus one day, giving us twenty-one full days. The remainder means we have a few beans left over, but not enough for a twenty-second day.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "so-we-have-twenty-days-plus-one-day-giving-us-9acf4a22.mp3"
+  },
+  {
+    "original_audio": "let-s-look-at-a-second-example-a-party-of-six-e83b12c6.mp3",
+    "input_text": "Let's look at a second example. A party of six hundred and thirteen children and fifty-nine adults are going to a theme park. We need to determine how many coaches are needed if each holds fifty-three people. First, we find the total number of people by adding six hundred and thirteen and fifty-nine, which gives us six hundred and seventy-two. The strategy here is division: we divide the total people, six hundred and seventy-two, by the coach capacity, fifty-three.",
+    "input_data": {
+      "input_text": "Let's look at a second example. A party of six hundred and thirteen children and fifty-nine adults are going to a theme park. We need to determine how many coaches are needed if each holds fifty-three people. First, we find the total number of people by adding six hundred and thirteen and fifty-nine, which gives us six hundred and seventy-two. The strategy here is division: we divide the total people, six hundred and seventy-two, by the coach capacity, fifty-three.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-look-at-a-second-example-a-party-of-six-e83b12c6.mp3"
+  },
+  {
+    "original_audio": "we-need-to-calculate-six-hundred-and-seventy-two-e4968f80.mp3",
+    "input_text": "We need to calculate six hundred and seventy-two divided by fifty-three using long division.",
+    "input_data": {
+      "input_text": "We need to calculate six hundred and seventy-two divided by fifty-three using long division.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-calculate-six-hundred-and-seventy-two-e4968f80.mp3"
+  },
+  {
+    "original_audio": "first-how-many-fifty-threes-go-into-sixty-seven-9ac97653.mp3",
+    "input_text": "First, how many fifty-threes go into sixty-seven? The answer is one. We write the one above the line.",
+    "input_data": {
+      "input_text": "First, how many fifty-threes go into sixty-seven? The answer is one. We write the one above the line.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-how-many-fifty-threes-go-into-sixty-seven-9ac97653.mp3"
+  },
+  {
+    "original_audio": "one-times-fifty-three-is-fifty-three-subtracting-2e3398ed.mp3",
+    "input_text": "One times fifty-three is fifty-three. Subtracting fifty-three from sixty-seven gives us fourteen.",
+    "input_data": {
+      "input_text": "One times fifty-three is fifty-three. Subtracting fifty-three from sixty-seven gives us fourteen.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "one-times-fifty-three-is-fifty-three-subtracting-2e3398ed.mp3"
+  },
+  {
+    "original_audio": "now-bring-down-the-two-to-make-one-hundred-and-d0719981.mp3",
+    "input_text": "Now, bring down the two to make one hundred and forty-two.",
+    "input_data": {
+      "input_text": "Now, bring down the two to make one hundred and forty-two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-bring-down-the-two-to-make-one-hundred-and-d0719981.mp3"
+  },
+  {
+    "original_audio": "how-many-fifty-threes-go-into-one-hundred-and-ac378840.mp3",
+    "input_text": "How many fifty-threes go into one hundred and forty-two? Let's estimate. Fifty times two is one hundred. Fifty times three is one hundred and fifty, which is too high. So it must be two.",
+    "input_data": {
+      "input_text": "How many fifty-threes go into one hundred and forty-two? Let's estimate. Fifty times two is one hundred. Fifty times three is one hundred and fifty, which is too high. So it must be two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-fifty-threes-go-into-one-hundred-and-ac378840.mp3"
+  },
+  {
+    "original_audio": "we-write-the-two-above-the-line-two-times-fifty-7d627a5c.mp3",
+    "input_text": "We write the two above the line. Two times fifty-three is one hundred and six.",
+    "input_data": {
+      "input_text": "We write the two above the line. Two times fifty-three is one hundred and six.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-write-the-two-above-the-line-two-times-fifty-7d627a5c.mp3"
+  },
+  {
+    "original_audio": "subtracting-one-hundred-and-six-from-one-hundred-9a2545cc.mp3",
+    "input_text": "Subtracting one hundred and six from one hundred and forty-two leaves a remainder of thirty-six. So the answer is twelve remainder thirty-six.",
+    "input_data": {
+      "input_text": "Subtracting one hundred and six from one hundred and forty-two leaves a remainder of thirty-six. So the answer is twelve remainder thirty-six.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "subtracting-one-hundred-and-six-from-one-hundred-9a2545cc.mp3"
+  },
+  {
+    "original_audio": "now-we-must-interpret-this-answer-the-twelve-da310e03.mp3",
+    "input_text": "Now we must interpret this answer. The twelve represents full coaches. The remainder of thirty-six represents thirty-six people still waiting. We need another coach for them. So, we round up to thirteen coaches in total.",
+    "input_data": {
+      "input_text": "Now we must interpret this answer. The twelve represents full coaches. The remainder of thirty-six represents thirty-six people still waiting. We need another coach for them. So, we round up to thirteen coaches in total.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-must-interpret-this-answer-the-twelve-da310e03.mp3"
+  },
+  {
+    "original_audio": "finally-let-s-look-at-the-entry-costs-one-adult-277a7197.mp3",
+    "input_text": "Finally, let's look at the entry costs. One adult gets in free for every fifteen children. We need to find out how many adults must pay. We divide the number of children, six hundred and thirteen, by fifteen.",
+    "input_data": {
+      "input_text": "Finally, let's look at the entry costs. One adult gets in free for every fifteen children. We need to find out how many adults must pay. We divide the number of children, six hundred and thirteen, by fifteen.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-let-s-look-at-the-entry-costs-one-adult-277a7197.mp3"
+  },
+  {
+    "original_audio": "we-know-that-two-times-fifteen-is-thirty-so-four-974f2f06.mp3",
+    "input_text": "We know that two times fifteen is thirty, so four times fifteen is sixty. Therefore, forty times fifteen is six hundred.",
+    "input_data": {
+      "input_text": "We know that two times fifteen is thirty, so four times fifteen is sixty. Therefore, forty times fifteen is six hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-know-that-two-times-fifteen-is-thirty-so-four-974f2f06.mp3"
+  },
+  {
+    "original_audio": "we-have-six-hundred-and-thirteen-children-so-we-18fe3abf.mp3",
+    "input_text": "We have six hundred and thirteen children, so we have forty groups of fifteen, with thirteen children left over. Since we get one free adult for each full group of fifteen, forty adults get in for free.",
+    "input_data": {
+      "input_text": "We have six hundred and thirteen children, so we have forty groups of fifteen, with thirteen children left over. Since we get one free adult for each full group of fifteen, forty adults get in for free.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-have-six-hundred-and-thirteen-children-so-we-18fe3abf.mp3"
+  },
+  {
+    "original_audio": "the-question-asks-how-many-adults-must-pay-there-2954aafa.mp3",
+    "input_text": "The question asks how many adults must pay. There are fifty-nine adults in total. We subtract the forty free places from fifty-nine, which tells us that nineteen adults must pay to get in.",
+    "input_data": {
+      "input_text": "The question asks how many adults must pay. There are fifty-nine adults in total. We subtract the forty free places from fifty-nine, which tells us that nineteen adults must pay to get in.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "the-question-asks-how-many-adults-must-pay-there-2954aafa.mp3"
+  },
+  {
+    "original_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3",
+    "input_text": "To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method\u2014whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.",
+    "input_data": {
+      "input_text": "To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method\u2014whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-solving-real-life-problems-is-about-0c0c56ae.mp3"
+  },
+  {
+    "original_audio": "welcome-to-this-lesson-on-solving-real-life-8acfee8c.mp3",
+    "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.",
+    "input_data": {
+      "input_text": "Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "welcome-to-this-lesson-on-solving-real-life-8acfee8c.mp3"
+  },
+  {
+    "original_audio": "these-require-you-to-read-carefully-plan-a-9a7bb559.mp3",
+    "input_text": "These require you to read carefully, plan a strategy, and apply arithmetic skills.",
+    "input_data": {
+      "input_text": "These require you to read carefully, plan a strategy, and apply arithmetic skills.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "these-require-you-to-read-carefully-plan-a-9a7bb559.mp3"
+  },
+  {
+    "original_audio": "in-this-lesson-we-will-look-at-how-to-approach-23813fd0.mp3",
+    "input_text": "In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+    "input_data": {
+      "input_text": "In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "in-this-lesson-we-will-look-at-how-to-approach-23813fd0.mp3"
+  },
+  {
+    "original_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-6d10b750.mp3",
+    "input_text": "When facing a word problem, it's helpful to have a consistent approach.",
+    "input_data": {
+      "input_text": "When facing a word problem, it's helpful to have a consistent approach.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "when-facing-a-word-problem-it-s-helpful-to-have-a-6d10b750.mp3"
+  },
+  {
+    "original_audio": "first-read-the-question-carefully-to-identify-the-1aa72c0d.mp3",
+    "input_text": "First, read the question carefully to identify the key information.",
+    "input_data": {
+      "input_text": "First, read the question carefully to identify the key information.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-read-the-question-carefully-to-identify-the-1aa72c0d.mp3"
+  },
+  {
+    "original_audio": "second-plan-your-strategy-decide-which-794e104f.mp3",
+    "input_text": "Second, plan your strategy\u2014decide which mathematical operations you need to use.",
+    "input_data": {
+      "input_text": "Second, plan your strategy\u2014decide which mathematical operations you need to use.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "second-plan-your-strategy-decide-which-794e104f.mp3"
+  },
+  {
+    "original_audio": "third-perform-the-calculation-you-might-need-to-5a27fc47.mp3",
+    "input_text": "Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed.",
+    "input_data": {
+      "input_text": "Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "third-perform-the-calculation-you-might-need-to-5a27fc47.mp3"
+  },
+  {
+    "original_audio": "finally-always-check-your-answer-ask-yourself-is-caf71697.mp3",
+    "input_text": "Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+    "input_data": {
+      "input_text": "Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-always-check-your-answer-ask-yourself-is-caf71697.mp3"
+  },
+  {
+    "original_audio": "let-s-apply-this-to-an-example-a902239d.mp3",
+    "input_text": "Let's apply this to an example.",
+    "input_data": {
+      "input_text": "Let's apply this to an example.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-apply-this-to-an-example-a902239d.mp3"
+  },
+  {
+    "original_audio": "a-supermarket-receives-a-delivery-of-two-hundred-d2591a39.mp3",
+    "input_text": "A supermarket receives a delivery of two hundred and thirty-five cases of tins of beans.",
+    "input_data": {
+      "input_text": "A supermarket receives a delivery of two hundred and thirty-five cases of tins of beans.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "a-supermarket-receives-a-delivery-of-two-hundred-d2591a39.mp3"
+  },
+  {
+    "original_audio": "each-case-contains-twenty-four-tins-cd70f092.mp3",
+    "input_text": "Each case contains twenty-four tins.",
+    "input_data": {
+      "input_text": "Each case contains twenty-four tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "each-case-contains-twenty-four-tins-cd70f092.mp3"
+  },
+  {
+    "original_audio": "we-need-to-calculate-how-many-tins-the-supermarket-72d316ff.mp3",
+    "input_text": "We need to calculate how many tins the supermarket receives altogether.",
+    "input_data": {
+      "input_text": "We need to calculate how many tins the supermarket receives altogether.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-calculate-how-many-tins-the-supermarket-72d316ff.mp3"
+  },
+  {
+    "original_audio": "since-we-have-two-hundred-and-thirty-five-groups-0b693ece.mp3",
+    "input_text": "Since we have two hundred and thirty-five groups of twenty-four, our strategy is multiplication. We need to calculate two hundred and thirty-five multiplied by twenty-four.",
+    "input_data": {
+      "input_text": "Since we have two hundred and thirty-five groups of twenty-four, our strategy is multiplication. We need to calculate two hundred and thirty-five multiplied by twenty-four.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "since-we-have-two-hundred-and-thirty-five-groups-0b693ece.mp3"
+  },
+  {
+    "original_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3",
+    "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+    "input_data": {
+      "input_text": "There are several ways to perform this calculation. You should use the method you are most comfortable with. Let's start with the Grid Method, also known as the Box Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "there-are-several-ways-to-perform-this-calculation-b0f5e7f6.mp3"
+  },
+  {
+    "original_audio": "we-break-two-hundred-and-thirty-five-into-two-035830a5.mp3",
+    "input_text": "We break two hundred and thirty-five into two hundred, thirty, and five.",
+    "input_data": {
+      "input_text": "We break two hundred and thirty-five into two hundred, thirty, and five.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-break-two-hundred-and-thirty-five-into-two-035830a5.mp3"
+  },
+  {
+    "original_audio": "we-break-twenty-four-into-twenty-and-four-8a9f32d5.mp3",
+    "input_text": "We break twenty-four into twenty and four.",
+    "input_data": {
+      "input_text": "We break twenty-four into twenty and four.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-break-twenty-four-into-twenty-and-four-8a9f32d5.mp3"
+  },
+  {
+    "original_audio": "now-we-multiply-each-part-two-hundred-times-twenty-4a50d74a.mp3",
+    "input_text": "Now we multiply each part. Two hundred times twenty is four thousand.",
+    "input_data": {
+      "input_text": "Now we multiply each part. Two hundred times twenty is four thousand.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-multiply-each-part-two-hundred-times-twenty-4a50d74a.mp3"
+  },
+  {
+    "original_audio": "thirty-times-twenty-is-six-hundred-cee425e8.mp3",
+    "input_text": "Thirty times twenty is six hundred.",
+    "input_data": {
+      "input_text": "Thirty times twenty is six hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "thirty-times-twenty-is-six-hundred-cee425e8.mp3"
+  },
+  {
+    "original_audio": "five-times-twenty-is-one-hundred-c0e67209.mp3",
+    "input_text": "Five times twenty is one hundred.",
+    "input_data": {
+      "input_text": "Five times twenty is one hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "five-times-twenty-is-one-hundred-c0e67209.mp3"
+  },
+  {
+    "original_audio": "then-we-multiply-by-four-two-hundred-times-four-is-808d12b3.mp3",
+    "input_text": "Then we multiply by four: Two hundred times four is eight hundred.",
+    "input_data": {
+      "input_text": "Then we multiply by four: Two hundred times four is eight hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-we-multiply-by-four-two-hundred-times-four-is-808d12b3.mp3"
+  },
+  {
+    "original_audio": "thirty-times-four-is-one-hundred-and-twenty-852ef7fc.mp3",
+    "input_text": "Thirty times four is one hundred and twenty.",
+    "input_data": {
+      "input_text": "Thirty times four is one hundred and twenty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "thirty-times-four-is-one-hundred-and-twenty-852ef7fc.mp3"
+  },
+  {
+    "original_audio": "five-times-four-is-twenty-74aacafd.mp3",
+    "input_text": "Five times four is twenty.",
+    "input_data": {
+      "input_text": "Five times four is twenty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "five-times-four-is-twenty-74aacafd.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-all-these-answers-together-four-1037b6ad.mp3",
+    "input_text": "Finally, we add all these answers together: Four thousand plus six hundred plus one hundred is four thousand seven hundred.",
+    "input_data": {
+      "input_text": "Finally, we add all these answers together: Four thousand plus six hundred plus one hundred is four thousand seven hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-all-these-answers-together-four-1037b6ad.mp3"
+  },
+  {
+    "original_audio": "eight-hundred-plus-one-hundred-and-twenty-plus-3e69224b.mp3",
+    "input_text": "Eight hundred plus one hundred and twenty plus twenty is nine hundred and forty.",
+    "input_data": {
+      "input_text": "Eight hundred plus one hundred and twenty plus twenty is nine hundred and forty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "eight-hundred-plus-one-hundred-and-twenty-plus-3e69224b.mp3"
+  },
+  {
+    "original_audio": "adding-four-thousand-seven-hundred-and-nine-8e0d3836.mp3",
+    "input_text": "Adding four thousand seven hundred and nine hundred and forty gives us a total of five thousand six hundred and forty.",
+    "input_data": {
+      "input_text": "Adding four thousand seven hundred and nine hundred and forty gives us a total of five thousand six hundred and forty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "adding-four-thousand-seven-hundred-and-nine-8e0d3836.mp3"
+  },
+  {
+    "original_audio": "now-let-s-look-at-the-column-method-ee751968.mp3",
+    "input_text": "Now let's look at the Column Method.",
+    "input_data": {
+      "input_text": "Now let's look at the Column Method.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-let-s-look-at-the-column-method-ee751968.mp3"
+  },
+  {
+    "original_audio": "first-we-multiply-two-hundred-and-thirty-five-by-87ea5988.mp3",
+    "input_text": "First, we multiply two hundred and thirty-five by four.",
+    "input_data": {
+      "input_text": "First, we multiply two hundred and thirty-five by four.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-we-multiply-two-hundred-and-thirty-five-by-87ea5988.mp3"
+  },
+  {
+    "original_audio": "four-times-five-is-twenty-so-write-the-zero-and-2f966565.mp3",
+    "input_text": "Four times five is twenty, so write the zero and carry the two.",
+    "input_data": {
+      "input_text": "Four times five is twenty, so write the zero and carry the two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "four-times-five-is-twenty-so-write-the-zero-and-2f966565.mp3"
+  },
+  {
+    "original_audio": "four-times-three-is-twelve-plus-the-carried-two-is-da5f4bdf.mp3",
+    "input_text": "Four times three is twelve, plus the carried two is fourteen. Write the four and carry the one.",
+    "input_data": {
+      "input_text": "Four times three is twelve, plus the carried two is fourteen. Write the four and carry the one.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "four-times-three-is-twelve-plus-the-carried-two-is-da5f4bdf.mp3"
+  },
+  {
+    "original_audio": "four-times-two-is-eight-plus-the-one-is-nine-this-440feb72.mp3",
+    "input_text": "Four times two is eight, plus the one is nine. This gives us nine hundred and forty.",
+    "input_data": {
+      "input_text": "Four times two is eight, plus the one is nine. This gives us nine hundred and forty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "four-times-two-is-eight-plus-the-one-is-nine-this-440feb72.mp3"
+  },
+  {
+    "original_audio": "next-we-multiply-by-the-twenty-we-start-by-placing-1f72a5e5.mp3",
+    "input_text": "Next, we multiply by the twenty. We start by placing a zero in the units column.",
+    "input_data": {
+      "input_text": "Next, we multiply by the twenty. We start by placing a zero in the units column.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "next-we-multiply-by-the-twenty-we-start-by-placing-1f72a5e5.mp3"
+  },
+  {
+    "original_audio": "then-two-times-five-is-ten-write-zero-carry-one-6e1cbce3.mp3",
+    "input_text": "Then, two times five is ten; write zero, carry one.",
+    "input_data": {
+      "input_text": "Then, two times five is ten; write zero, carry one.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "then-two-times-five-is-ten-write-zero-carry-one-6e1cbce3.mp3"
+  },
+  {
+    "original_audio": "two-times-three-is-six-plus-one-is-seven-c318c7e9.mp3",
+    "input_text": "Two times three is six, plus one is seven.",
+    "input_data": {
+      "input_text": "Two times three is six, plus one is seven.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "two-times-three-is-six-plus-one-is-seven-c318c7e9.mp3"
+  },
+  {
+    "original_audio": "two-times-two-is-four-this-gives-us-four-thousand-3c063837.mp3",
+    "input_text": "Two times two is four. This gives us four thousand seven hundred.",
+    "input_data": {
+      "input_text": "Two times two is four. This gives us four thousand seven hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "two-times-two-is-four-this-gives-us-four-thousand-3c063837.mp3"
+  },
+  {
+    "original_audio": "finally-we-add-nine-hundred-and-forty-and-four-9b84b869.mp3",
+    "input_text": "Finally, we add nine hundred and forty and four thousand seven hundred together to get five thousand six hundred and forty.",
+    "input_data": {
+      "input_text": "Finally, we add nine hundred and forty and four thousand seven hundred together to get five thousand six hundred and forty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-we-add-nine-hundred-and-forty-and-four-9b84b869.mp3"
+  },
+  {
+    "original_audio": "both-methods-give-us-the-same-result-five-thousand-b9d4f0d7.mp3",
+    "input_text": "Both methods give us the same result: five thousand six hundred and forty tins.",
+    "input_data": {
+      "input_text": "Both methods give us the same result: five thousand six hundred and forty tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "both-methods-give-us-the-same-result-five-thousand-b9d4f0d7.mp3"
+  },
+  {
+    "original_audio": "now-for-the-second-part-of-the-problem-5bba9537.mp3",
+    "input_text": "Now for the second part of the problem.",
+    "input_data": {
+      "input_text": "Now for the second part of the problem.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-for-the-second-part-of-the-problem-5bba9537.mp3"
+  },
+  {
+    "original_audio": "we-are-told-that-five-percent-of-the-tins-were-aa0508a0.mp3",
+    "input_text": "We are told that five percent of the tins were damaged and thrown away.",
+    "input_data": {
+      "input_text": "We are told that five percent of the tins were damaged and thrown away.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-are-told-that-five-percent-of-the-tins-were-aa0508a0.mp3"
+  },
+  {
+    "original_audio": "the-supermarket-sells-two-hundred-and-fifty-tins-a-5582d4ca.mp3",
+    "input_text": "The supermarket sells two hundred and fifty tins a day.",
+    "input_data": {
+      "input_text": "The supermarket sells two hundred and fifty tins a day.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "the-supermarket-sells-two-hundred-and-fifty-tins-a-5582d4ca.mp3"
+  },
+  {
+    "original_audio": "we-need-to-find-out-how-many-days-the-remaining-296421b7.mp3",
+    "input_text": "We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of two hundred and fifty.",
+    "input_data": {
+      "input_text": "We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of two hundred and fifty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-find-out-how-many-days-the-remaining-296421b7.mp3"
+  },
+  {
+    "original_audio": "let-s-work-through-the-numbers-we-started-with-2f6cf912.mp3",
+    "input_text": "Let's work through the numbers. We started with five thousand six hundred and forty tins.",
+    "input_data": {
+      "input_text": "Let's work through the numbers. We started with five thousand six hundred and forty tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-work-through-the-numbers-we-started-with-2f6cf912.mp3"
+  },
+  {
+    "original_audio": "to-find-five-percent-we-can-first-find-ten-percent-0167ade1.mp3",
+    "input_text": "To find five percent, we can first find ten percent, which is five hundred and sixty-four.",
+    "input_data": {
+      "input_text": "To find five percent, we can first find ten percent, which is five hundred and sixty-four.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-find-five-percent-we-can-first-find-ten-percent-0167ade1.mp3"
+  },
+  {
+    "original_audio": "five-percent-is-half-of-ten-percent-so-half-of-c33805a4.mp3",
+    "input_text": "Five percent is half of ten percent, so half of five hundred and sixty-four is two hundred and eighty-two.",
+    "input_data": {
+      "input_text": "Five percent is half of ten percent, so half of five hundred and sixty-four is two hundred and eighty-two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "five-percent-is-half-of-ten-percent-so-half-of-c33805a4.mp3"
+  },
+  {
+    "original_audio": "we-subtract-these-damaged-tins-from-the-total-five-f851b252.mp3",
+    "input_text": "We subtract these damaged tins from the total: five thousand six hundred and forty minus two hundred and eighty-two leaves us with five thousand three hundred and fifty-eight saleable tins.",
+    "input_data": {
+      "input_text": "We subtract these damaged tins from the total: five thousand six hundred and forty minus two hundred and eighty-two leaves us with five thousand three hundred and fifty-eight saleable tins.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-subtract-these-damaged-tins-from-the-total-five-f851b252.mp3"
+  },
+  {
+    "original_audio": "now-we-need-to-divide-five-thousand-three-hundred-a7cd50d0.mp3",
+    "input_text": "Now we need to divide five thousand three hundred and fifty-eight by two hundred and fifty to find the number of days.",
+    "input_data": {
+      "input_text": "Now we need to divide five thousand three hundred and fifty-eight by two hundred and fifty to find the number of days.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-need-to-divide-five-thousand-three-hundred-a7cd50d0.mp3"
+  },
+  {
+    "original_audio": "we-can-estimate-this-we-know-that-four-lots-of-two-eb3a5351.mp3",
+    "input_text": "We can estimate this. We know that four lots of two hundred and fifty make one thousand.",
+    "input_data": {
+      "input_text": "We can estimate this. We know that four lots of two hundred and fifty make one thousand.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-can-estimate-this-we-know-that-four-lots-of-two-eb3a5351.mp3"
+  },
+  {
+    "original_audio": "therefore-twenty-lots-of-two-hundred-and-fifty-5a1ffccf.mp3",
+    "input_text": "Therefore, twenty lots of two hundred and fifty make five thousand.",
+    "input_data": {
+      "input_text": "Therefore, twenty lots of two hundred and fifty make five thousand.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "therefore-twenty-lots-of-two-hundred-and-fifty-5a1ffccf.mp3"
+  },
+  {
+    "original_audio": "if-we-subtract-five-thousand-from-five-thousand-050b1e33.mp3",
+    "input_text": "If we subtract five thousand from five thousand three hundred and fifty-eight, we are left with three hundred and fifty-eight.",
+    "input_data": {
+      "input_text": "If we subtract five thousand from five thousand three hundred and fifty-eight, we are left with three hundred and fifty-eight.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "if-we-subtract-five-thousand-from-five-thousand-050b1e33.mp3"
+  },
+  {
+    "original_audio": "how-many-two-hundred-and-fifties-are-in-three-c8bfe71d.mp3",
+    "input_text": "How many two hundred and fifties are in three hundred and fifty-eight? There is one lot of two hundred and fifty, with a remainder.",
+    "input_data": {
+      "input_text": "How many two hundred and fifties are in three hundred and fifty-eight? There is one lot of two hundred and fifty, with a remainder.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-two-hundred-and-fifties-are-in-three-c8bfe71d.mp3"
+  },
+  {
+    "original_audio": "so-we-have-twenty-days-plus-one-day-giving-us-9acf4a22.mp3",
+    "input_text": "So, we have twenty days plus one day, giving us twenty-one full days. The remainder means we have a few beans left over, but not enough for a twenty-second day.",
+    "input_data": {
+      "input_text": "So, we have twenty days plus one day, giving us twenty-one full days. The remainder means we have a few beans left over, but not enough for a twenty-second day.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "so-we-have-twenty-days-plus-one-day-giving-us-9acf4a22.mp3"
+  },
+  {
+    "original_audio": "let-s-look-at-a-second-example-a-party-of-six-99aedc84.mp3",
+    "input_text": "Let's look at a second example. A party of six hundred and thirteen children and fifty-nine adults are going to a theme park.",
+    "input_data": {
+      "input_text": "Let's look at a second example. A party of six hundred and thirteen children and fifty-nine adults are going to a theme park.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "let-s-look-at-a-second-example-a-party-of-six-99aedc84.mp3"
+  },
+  {
+    "original_audio": "we-need-to-determine-how-many-coaches-are-needed-462a7475.mp3",
+    "input_text": "We need to determine how many coaches are needed if each holds fifty-three people.",
+    "input_data": {
+      "input_text": "We need to determine how many coaches are needed if each holds fifty-three people.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-determine-how-many-coaches-are-needed-462a7475.mp3"
+  },
+  {
+    "original_audio": "first-we-find-the-total-number-of-people-by-adding-36ebadad.mp3",
+    "input_text": "First, we find the total number of people by adding six hundred and thirteen and fifty-nine, which gives us six hundred and seventy-two.",
+    "input_data": {
+      "input_text": "First, we find the total number of people by adding six hundred and thirteen and fifty-nine, which gives us six hundred and seventy-two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-we-find-the-total-number-of-people-by-adding-36ebadad.mp3"
+  },
+  {
+    "original_audio": "the-strategy-here-is-division-we-divide-the-total-4963f672.mp3",
+    "input_text": "The strategy here is division: we divide the total people, six hundred and seventy-two, by the coach capacity, fifty-three.",
+    "input_data": {
+      "input_text": "The strategy here is division: we divide the total people, six hundred and seventy-two, by the coach capacity, fifty-three.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "the-strategy-here-is-division-we-divide-the-total-4963f672.mp3"
+  },
+  {
+    "original_audio": "we-need-to-calculate-six-hundred-and-seventy-two-e4968f80.mp3",
+    "input_text": "We need to calculate six hundred and seventy-two divided by fifty-three using long division.",
+    "input_data": {
+      "input_text": "We need to calculate six hundred and seventy-two divided by fifty-three using long division.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-calculate-six-hundred-and-seventy-two-e4968f80.mp3"
+  },
+  {
+    "original_audio": "first-how-many-fifty-threes-go-into-sixty-seven-9ac97653.mp3",
+    "input_text": "First, how many fifty-threes go into sixty-seven? The answer is one. We write the one above the line.",
+    "input_data": {
+      "input_text": "First, how many fifty-threes go into sixty-seven? The answer is one. We write the one above the line.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "first-how-many-fifty-threes-go-into-sixty-seven-9ac97653.mp3"
+  },
+  {
+    "original_audio": "one-times-fifty-three-is-fifty-three-subtracting-2e3398ed.mp3",
+    "input_text": "One times fifty-three is fifty-three. Subtracting fifty-three from sixty-seven gives us fourteen.",
+    "input_data": {
+      "input_text": "One times fifty-three is fifty-three. Subtracting fifty-three from sixty-seven gives us fourteen.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "one-times-fifty-three-is-fifty-three-subtracting-2e3398ed.mp3"
+  },
+  {
+    "original_audio": "now-bring-down-the-two-to-make-one-hundred-and-d0719981.mp3",
+    "input_text": "Now, bring down the two to make one hundred and forty-two.",
+    "input_data": {
+      "input_text": "Now, bring down the two to make one hundred and forty-two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-bring-down-the-two-to-make-one-hundred-and-d0719981.mp3"
+  },
+  {
+    "original_audio": "how-many-fifty-threes-go-into-one-hundred-and-a4d30576.mp3",
+    "input_text": "How many fifty-threes go into one hundred and forty-two? Let's estimate.",
+    "input_data": {
+      "input_text": "How many fifty-threes go into one hundred and forty-two? Let's estimate.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "how-many-fifty-threes-go-into-one-hundred-and-a4d30576.mp3"
+  },
+  {
+    "original_audio": "fifty-times-two-is-one-hundred-2f1cc6d2.mp3",
+    "input_text": "Fifty times two is one hundred.",
+    "input_data": {
+      "input_text": "Fifty times two is one hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "fifty-times-two-is-one-hundred-2f1cc6d2.mp3"
+  },
+  {
+    "original_audio": "fifty-times-three-is-one-hundred-and-fifty-which-f5ba5736.mp3",
+    "input_text": "Fifty times three is one hundred and fifty, which is too high. So it must be two.",
+    "input_data": {
+      "input_text": "Fifty times three is one hundred and fifty, which is too high. So it must be two.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "fifty-times-three-is-one-hundred-and-fifty-which-f5ba5736.mp3"
+  },
+  {
+    "original_audio": "we-write-the-two-above-the-line-two-times-fifty-7d627a5c.mp3",
+    "input_text": "We write the two above the line. Two times fifty-three is one hundred and six.",
+    "input_data": {
+      "input_text": "We write the two above the line. Two times fifty-three is one hundred and six.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-write-the-two-above-the-line-two-times-fifty-7d627a5c.mp3"
+  },
+  {
+    "original_audio": "subtracting-one-hundred-and-six-from-one-hundred-9a2545cc.mp3",
+    "input_text": "Subtracting one hundred and six from one hundred and forty-two leaves a remainder of thirty-six. So the answer is twelve remainder thirty-six.",
+    "input_data": {
+      "input_text": "Subtracting one hundred and six from one hundred and forty-two leaves a remainder of thirty-six. So the answer is twelve remainder thirty-six.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "subtracting-one-hundred-and-six-from-one-hundred-9a2545cc.mp3"
+  },
+  {
+    "original_audio": "now-we-must-interpret-this-answer-the-twelve-2733fb33.mp3",
+    "input_text": "Now we must interpret this answer. The twelve represents full coaches.",
+    "input_data": {
+      "input_text": "Now we must interpret this answer. The twelve represents full coaches.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "now-we-must-interpret-this-answer-the-twelve-2733fb33.mp3"
+  },
+  {
+    "original_audio": "the-remainder-of-thirty-six-represents-thirty-six-a62d0394.mp3",
+    "input_text": "The remainder of thirty-six represents thirty-six people still waiting. We need another coach for them.",
+    "input_data": {
+      "input_text": "The remainder of thirty-six represents thirty-six people still waiting. We need another coach for them.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "the-remainder-of-thirty-six-represents-thirty-six-a62d0394.mp3"
+  },
+  {
+    "original_audio": "so-we-round-up-to-thirteen-coaches-in-total-7e3e0062.mp3",
+    "input_text": "So, we round up to thirteen coaches in total.",
+    "input_data": {
+      "input_text": "So, we round up to thirteen coaches in total.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "so-we-round-up-to-thirteen-coaches-in-total-7e3e0062.mp3"
+  },
+  {
+    "original_audio": "finally-let-s-look-at-the-entry-costs-one-adult-e992fccb.mp3",
+    "input_text": "Finally, let's look at the entry costs. One adult gets in free for every fifteen children.",
+    "input_data": {
+      "input_text": "Finally, let's look at the entry costs. One adult gets in free for every fifteen children.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "finally-let-s-look-at-the-entry-costs-one-adult-e992fccb.mp3"
+  },
+  {
+    "original_audio": "we-need-to-find-out-how-many-adults-must-pay-we-0ba7f9c3.mp3",
+    "input_text": "We need to find out how many adults must pay. We divide the number of children, six hundred and thirteen, by fifteen.",
+    "input_data": {
+      "input_text": "We need to find out how many adults must pay. We divide the number of children, six hundred and thirteen, by fifteen.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-need-to-find-out-how-many-adults-must-pay-we-0ba7f9c3.mp3"
+  },
+  {
+    "original_audio": "we-know-that-two-times-fifteen-is-thirty-so-four-5ba2c419.mp3",
+    "input_text": "We know that two times fifteen is thirty, so four times fifteen is sixty.",
+    "input_data": {
+      "input_text": "We know that two times fifteen is thirty, so four times fifteen is sixty.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-know-that-two-times-fifteen-is-thirty-so-four-5ba2c419.mp3"
+  },
+  {
+    "original_audio": "therefore-forty-times-fifteen-is-six-hundred-d2583f1a.mp3",
+    "input_text": "Therefore, forty times fifteen is six hundred.",
+    "input_data": {
+      "input_text": "Therefore, forty times fifteen is six hundred.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "therefore-forty-times-fifteen-is-six-hundred-d2583f1a.mp3"
+  },
+  {
+    "original_audio": "we-have-six-hundred-and-thirteen-children-so-we-3f461468.mp3",
+    "input_text": "We have six hundred and thirteen children, so we have forty groups of fifteen, with thirteen children left over.",
+    "input_data": {
+      "input_text": "We have six hundred and thirteen children, so we have forty groups of fifteen, with thirteen children left over.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-have-six-hundred-and-thirteen-children-so-we-3f461468.mp3"
+  },
+  {
+    "original_audio": "since-we-get-one-free-adult-for-each-full-group-of-acbb0e4a.mp3",
+    "input_text": "Since we get one free adult for each full group of fifteen, forty adults get in for free.",
+    "input_data": {
+      "input_text": "Since we get one free adult for each full group of fifteen, forty adults get in for free.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "since-we-get-one-free-adult-for-each-full-group-of-acbb0e4a.mp3"
+  },
+  {
+    "original_audio": "the-question-asks-how-many-adults-must-pay-there-395f70f1.mp3",
+    "input_text": "The question asks how many adults must pay. There are fifty-nine adults in total.",
+    "input_data": {
+      "input_text": "The question asks how many adults must pay. There are fifty-nine adults in total.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "the-question-asks-how-many-adults-must-pay-there-395f70f1.mp3"
+  },
+  {
+    "original_audio": "we-subtract-the-forty-free-places-from-fifty-nine-6f046cd1.mp3",
+    "input_text": "We subtract the forty free places from fifty-nine, which tells us that nineteen adults must pay to get in.",
+    "input_data": {
+      "input_text": "We subtract the forty free places from fifty-nine, which tells us that nineteen adults must pay to get in.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "we-subtract-the-forty-free-places-from-fifty-nine-6f046cd1.mp3"
+  },
+  {
+    "original_audio": "to-summarize-solving-real-life-problems-is-about-b4805afc.mp3",
+    "input_text": "To summarize, solving real-life problems is about more than just calculation.",
+    "input_data": {
+      "input_text": "To summarize, solving real-life problems is about more than just calculation.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "to-summarize-solving-real-life-problems-is-about-b4805afc.mp3"
+  },
+  {
+    "original_audio": "it-requires-reading-the-context-carefully-to-b0b3fcc9.mp3",
+    "input_text": "It requires reading the context carefully to understand what is being asked.",
+    "input_data": {
+      "input_text": "It requires reading the context carefully to understand what is being asked.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "it-requires-reading-the-context-carefully-to-b0b3fcc9.mp3"
+  },
+  {
+    "original_audio": "you-need-to-choose-an-appropriate-method-whether-69314543.mp3",
+    "input_text": "You need to choose an appropriate method\u2014whether that's long multiplication or division.",
+    "input_data": {
+      "input_text": "You need to choose an appropriate method\u2014whether that's long multiplication or division.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "you-need-to-choose-an-appropriate-method-whether-69314543.mp3"
+  },
+  {
+    "original_audio": "and-crucially-you-must-interpret-your-answers-back-16f330fa.mp3",
+    "input_text": "And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders.",
+    "input_data": {
+      "input_text": "And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "and-crucially-you-must-interpret-your-answers-back-16f330fa.mp3"
+  },
+  {
+    "original_audio": "always-take-a-moment-to-check-if-your-answer-is-a8bd8ec6.mp3",
+    "input_text": "Always take a moment to check if your answer is reasonable.",
+    "input_data": {
+      "input_text": "Always take a moment to check if your answer is reasonable.",
+      "service": "VoxCPM",
+      "checkpoint": "/home/leo/code/udemy-course-gcse-maths/checkpoints/myvoice/step_0002000"
+    },
+    "final_audio": "always-take-a-moment-to-check-if-your-answer-is-a8bd8ec6.mp3"
   }
 ]

@@ -1,388 +1,564 @@
 1
-00:00:00,000 --> 00:00:03,689
-Welcome to this lesson on solving real-life problems. Throughout your
+00:00:00,000 --> 00:00:03,195
+Welcome to this lesson on solving real-life problems.
 
 2
-00:00:03,789 --> 00:00:06,929
-maths course and in daily life, you will encounter problems
+00:00:03,295 --> 00:00:06,118
+Throughout your maths course and in daily life,
 
 3
-00:00:07,029 --> 00:00:10,443
-set in real-world contexts. These require you to read carefully,
+00:00:06,218 --> 00:00:09,539
+you will encounter problems set in real-world contexts.
 
 4
-00:00:10,543 --> 00:00:13,793
-plan a strategy, and apply arithmetic skills. In this lesson,
+00:00:09,600 --> 00:00:12,845
+These require you to read carefully, plan
 
 5
-00:00:13,893 --> 00:00:17,033
-we will look at how to approach these problems effectively,
+00:00:12,945 --> 00:00:16,108
+a strategy, and apply arithmetic skills.
 
 6
-00:00:17,133 --> 00:00:19,779
-using long multiplication and division strategies.
+00:00:16,200 --> 00:00:19,360
+In this lesson, we will look at how to approach
 
 7
-00:00:21,333 --> 00:00:24,285
-When facing a word problem, it's helpful to have a
+00:00:19,460 --> 00:00:24,772
+these problems effectively, using long multiplication and division strategies.
 
 8
-00:00:24,385 --> 00:00:28,620
-consistent approach. First, read the question carefully to identify the
+00:00:28,333 --> 00:00:30,442
+When facing a word problem, it's
 
 9
-00:00:28,720 --> 00:00:33,749
-key information. Second, plan your strategy—decide which mathematical operations you
+00:00:30,542 --> 00:00:33,065
+helpful to have a consistent approach.
 
 10
-00:00:33,849 --> 00:00:37,351
-need to use. Third, perform the calculation. You might need
+00:00:33,133 --> 00:00:38,519
+First, read the question carefully to identify the key information.
 
 11
-00:00:37,451 --> 00:00:40,953
-to use long multiplication or long division if a calculator
+00:00:38,600 --> 00:00:42,850
+Second, plan your strategy—decide which mathematical
 
 12
-00:00:41,053 --> 00:00:44,982
-isn't allowed. Finally, always check your answer. Ask yourself: is
+00:00:42,950 --> 00:00:45,108
+operations you need to use.
 
 13
-00:00:45,082 --> 00:00:47,669
-this a reasonable number for this situation?
+00:00:45,200 --> 00:00:48,913
+Third, perform the calculation. You might need to use long
 
 14
-00:00:49,233 --> 00:00:54,425
-Let's apply this to an example. A supermarket receives a delivery
+00:00:49,013 --> 00:00:52,988
+multiplication or long division if a calculator isn't allowed.
 
 15
-00:00:54,525 --> 00:00:58,660
-of 235 cases of tins of beans. Each case contains 24
+00:00:53,066 --> 00:00:56,767
+Finally, always check your answer. Ask yourself: is
 
 16
-00:00:58,760 --> 00:01:03,952
-tins. We need to calculate how many tins the supermarket receives
+00:00:56,867 --> 00:01:00,045
+this a reasonable number for this situation?
 
 17
-00:01:04,052 --> 00:01:08,756
-altogether. Since we have 235 groups of 24, our strategy is
+00:01:01,633 --> 00:01:04,772
+Let's apply this to an example.
 
 18
-00:01:08,856 --> 00:01:13,479
-multiplication. We need to calculate 235 multiplied by 24.
+00:01:04,833 --> 00:01:08,379
+A supermarket receives a delivery of two hundred
 
 19
-00:01:15,066 --> 00:01:18,891
-There are several ways to perform this calculation. You should
+00:01:08,479 --> 00:01:11,342
+and thirty-five cases of tins of beans.
 
 20
-00:01:18,991 --> 00:01:22,500
-use the method you are most comfortable with. Let's start
+00:01:11,433 --> 00:01:15,199
+Each case contains twenty-four tins.
 
 21
-00:01:22,600 --> 00:01:25,729
-with the Grid Method, also known as the Box Method.
+00:01:15,233 --> 00:01:17,135
+We need to calculate how many
 
 22
-00:01:25,800 --> 00:01:34,059
-We break 235 into 200, 30, and 5. We break 24 into 20 and 4.
+00:01:17,235 --> 00:01:19,965
+tins the supermarket receives altogether.
 
 23
-00:01:34,133 --> 00:01:40,904
-Now we multiply each part. 200 times 20 is 4,000.
+00:01:20,033 --> 00:01:23,068
+Since we have two hundred and thirty-five groups of
 
 24
-00:01:41,004 --> 00:01:46,232
-30 times 20 is 600. 5 times 20 is 100.
+00:01:23,168 --> 00:01:27,063
+twenty-four, our strategy is multiplication. We need to calculate
 
 25
-00:01:46,266 --> 00:01:51,680
-Then we multiply by 4: 200 times 4 is 800.
+00:01:27,163 --> 00:01:30,382
+two hundred and thirty-five multiplied by twenty-four.
 
 26
-00:01:51,780 --> 00:01:56,276
-30 times 4 is 120. 5 times 4 is 20.
+00:01:31,933 --> 00:01:35,758
+There are several ways to perform this calculation. You should
 
 27
-00:01:56,333 --> 00:02:01,317
-Finally, we add all these answers together:
+00:01:35,858 --> 00:01:39,367
+use the method you are most comfortable with. Let's start
 
 28
-00:02:01,417 --> 00:02:05,219
-4,000 plus 600 plus 100 is 4,700.
+00:01:39,467 --> 00:01:42,595
+with the Grid Method, also known as the Box Method.
 
 29
-00:02:05,266 --> 00:02:09,529
-800 plus 120 plus 20 is 940.
+00:01:42,666 --> 00:01:45,017
+We break two hundred and thirty-five
 
 30
-00:02:09,600 --> 00:02:16,579
-Adding 4,700 and 940 gives us a total of 5,640.
+00:01:45,117 --> 00:01:47,399
+into two hundred, thirty, and five.
 
 31
-00:02:18,166 --> 00:02:20,835
-Now let's look at the Column Method.
+00:01:47,466 --> 00:01:51,232
+We break twenty-four into twenty and four.
 
 32
-00:02:23,633 --> 00:02:28,212
-First, we multiply 235 by 4. 4 times 5 is
+00:01:51,266 --> 00:01:57,775
+Now we multiply each part. Two hundred times twenty is four thousand.
 
 33
-00:02:28,312 --> 00:02:32,205
-20, so write the 0 and carry the 2.
+00:01:57,866 --> 00:02:01,632
+Thirty times twenty is six hundred.
 
 34
-00:02:32,300 --> 00:02:35,974
-4 times 3 is 12, plus the carried 2
+00:02:01,666 --> 00:02:05,432
+Five times twenty is one hundred.
 
 35
-00:02:36,074 --> 00:02:39,749
-is 14. Write the 4 and carry the 1.
+00:02:05,466 --> 00:02:09,729
+Then we multiply by four: Two hundred times four is eight hundred.
 
 36
-00:02:39,833 --> 00:02:45,689
-4 times 2 is 8, plus the 1 is 9. This gives us 940.
+00:02:09,800 --> 00:02:14,062
+Thirty times four is one hundred and twenty.
 
 37
-00:02:45,766 --> 00:02:49,004
-Next, we multiply by the 20. We start
+00:02:14,133 --> 00:02:17,272
+Five times four is twenty.
 
 38
-00:02:49,104 --> 00:02:52,432
-by placing a zero in the units column.
+00:02:17,333 --> 00:02:21,322
+Finally, we add all these answers together: Four thousand plus
 
 39
-00:02:52,500 --> 00:02:57,885
-Then, 2 times 5 is 10; write 0, carry 1.
+00:02:21,422 --> 00:02:25,279
+six hundred plus one hundred is four thousand seven hundred.
 
 40
-00:02:57,966 --> 00:03:02,229
-2 times 3 is 6, plus 1 is 7.
+00:02:25,333 --> 00:02:28,663
+Eight hundred plus one hundred and twenty
 
 41
-00:03:02,966 --> 00:03:07,699
-2 times 2 is 4. This gives us 4,700.
+00:02:28,763 --> 00:02:31,842
+plus twenty is nine hundred and forty.
 
 42
-00:03:07,766 --> 00:03:15,712
-Finally, we add 940 and 4,700 together to get 5,640.
+00:02:31,933 --> 00:02:36,156
+Adding four thousand seven hundred and nine hundred and forty gives
 
 43
-00:03:18,766 --> 00:03:26,216
-Both methods give us the same result: 5,640 tins.
+00:02:36,256 --> 00:02:39,382
+us a total of five thousand six hundred and forty.
 
 44
-00:03:27,800 --> 00:03:31,391
-Now for the second part of the problem. We are told that
+00:02:40,966 --> 00:02:43,635
+Now let's look at the Column Method.
 
 45
-00:03:31,491 --> 00:03:35,741
-5% of the tins were damaged and thrown away. The supermarket sells
+00:02:46,433 --> 00:02:51,165
+First, we multiply two hundred and thirty-five by four.
 
 46
-00:03:35,841 --> 00:03:38,970
-250 tins a day. We need to find out how many days
+00:02:51,233 --> 00:02:55,495
+Four times five is twenty, so write the zero and carry the two.
 
 47
-00:03:39,070 --> 00:03:43,584
-the remaining beans will last. This is a multi-step problem. First, we
+00:02:55,566 --> 00:02:59,161
+Four times three is twelve, plus the carried two
 
 48
-00:03:43,684 --> 00:03:48,198
-must calculate how many tins are left after removing the damaged ones.
+00:02:59,261 --> 00:03:02,702
+is fourteen. Write the four and carry the one.
 
 49
-00:03:48,298 --> 00:03:51,889
-Second, we divide that number by the daily sales of 250.
+00:03:02,766 --> 00:03:05,927
+Four times two is eight, plus the one is
 
 50
-00:03:53,433 --> 00:03:59,319
-Let's work through the numbers. We started with 5,640 tins. To
+00:03:06,027 --> 00:03:09,432
+nine. This gives us nine hundred and forty.
 
 51
-00:03:59,419 --> 00:04:03,953
-find 5%, we can first find 10%, which is 564. 5%
+00:03:09,500 --> 00:03:13,155
+Next, we multiply by the twenty. We start
 
 52
-00:04:04,053 --> 00:04:07,622
-is half of 10%, so half of 564 is 282.
+00:03:13,255 --> 00:03:16,635
+by placing a zero in the units column.
 
 53
-00:04:07,700 --> 00:04:13,621
-We subtract these damaged tins from the total: 5,640
+00:03:16,700 --> 00:03:22,555
+Then, two times five is ten; write zero, carry one.
 
 54
-00:04:13,721 --> 00:04:18,832
-minus 282 leaves us with 5,358 saleable tins.
+00:03:22,633 --> 00:03:27,365
+Two times three is six, plus one is seven.
 
 55
-00:04:18,900 --> 00:04:25,879
-Now we need to divide 5,358 by 250 to find the number of days.
+00:03:27,633 --> 00:03:32,365
+Two times two is four. This gives us four thousand seven hundred.
 
 56
-00:04:25,966 --> 00:04:30,025
-We can estimate this. We know that 4 lots of
+00:03:32,433 --> 00:03:36,740
+Finally, we add nine hundred and forty and four thousand seven
 
 57
-00:04:30,125 --> 00:04:35,035
-250 make 1,000. Therefore, 20 lots of 250 make 5,000.
+00:03:36,840 --> 00:03:41,005
+hundred together to get five thousand six hundred and forty.
 
 58
-00:04:35,100 --> 00:04:42,549
-If we subtract 5,000 from 5,358, we are left with 358.
+00:03:43,433 --> 00:03:46,468
+Both methods give us the same result:
 
 59
-00:04:42,633 --> 00:04:49,142
-How many 250s are in 358? There is 1 lot of 250, with a remainder.
+00:03:46,568 --> 00:03:49,942
+five thousand six hundred and forty tins.
 
 60
-00:04:49,233 --> 00:04:54,514
-So, we have 20 days plus 1 day, giving us 21 full days. The remainder
+00:03:51,533 --> 00:03:54,672
+Now for the second part of the problem.
 
 61
-00:04:54,614 --> 00:04:59,739
-means we have a few beans left over, but not enough for a 22nd day.
+00:03:54,733 --> 00:03:57,141
+We are told that five percent of
 
 62
-00:05:01,333 --> 00:05:06,778
-Let's look at a second example. A party of 613 children and 59 adults
+00:03:57,241 --> 00:04:00,119
+the tins were damaged and thrown away.
 
 63
-00:05:06,878 --> 00:05:12,242
-are going to a theme park. We need to determine how many coaches are
+00:04:00,200 --> 00:04:04,462
+The supermarket sells two hundred and fifty tins a day.
 
 64
-00:05:12,342 --> 00:05:18,108
-needed if each holds 53 people. First, we find the total number of people
+00:04:04,533 --> 00:04:08,126
+We need to find out how many days the remaining beans will
 
 65
-00:05:18,208 --> 00:05:23,894
-by adding 613 and 59, which gives us 672. The strategy here is division:
+00:04:08,226 --> 00:04:12,519
+last. This is a multi-step problem. First, we must calculate how many
 
 66
-00:05:23,994 --> 00:05:28,635
-we divide the total people, 672, by the coach capacity, 53.
+00:04:12,619 --> 00:04:16,912
+tins are left after removing the damaged ones. Second, we divide that
 
 67
-00:05:30,233 --> 00:05:36,089
-We need to calculate 672 divided by 53 using long division.
+00:04:17,012 --> 00:04:20,159
+number by the daily sales of two hundred and fifty.
 
 68
-00:05:36,166 --> 00:05:40,131
-First, how many 53s go into 67? The answer
+00:04:21,700 --> 00:04:25,129
+Let's work through the numbers. We started with
 
 69
-00:05:40,231 --> 00:05:43,616
-is 1. We write the 1 above the line.
+00:04:25,229 --> 00:04:28,208
+five thousand six hundred and forty tins.
 
 70
-00:05:43,700 --> 00:05:50,208
-1 times 53 is 53. Subtracting 53 from 67 gives us 14.
+00:04:28,300 --> 00:04:31,576
+To find five percent, we can first find
 
 71
-00:05:50,300 --> 00:05:54,066
-Now, bring down the 2 to make 142.
+00:04:31,676 --> 00:04:35,906
+ten percent, which is five hundred and sixty-four.
 
 72
-00:05:54,100 --> 00:05:59,586
-How many 53s go into 142? Let's estimate. 50 times 2 is 100. 50
+00:04:35,966 --> 00:04:39,245
+Five percent is half of ten percent, so half of
 
 73
-00:05:59,686 --> 00:06:04,109
-times 3 is 150, which is too high. So it must be 2.
+00:04:39,345 --> 00:04:43,416
+five hundred and sixty-four is two hundred and eighty-two.
 
 74
-00:06:04,166 --> 00:06:09,552
-We write the 2 above the line. 2 times 53 is 106.
+00:04:43,500 --> 00:04:46,853
+We subtract these damaged tins from the total: five thousand
 
 75
-00:06:09,633 --> 00:06:14,788
-Subtracting 106 from 142 leaves a remainder of
+00:04:46,953 --> 00:04:50,363
+six hundred and forty minus two hundred and eighty-two leaves
 
 76
-00:06:14,888 --> 00:06:19,015
-36. So the answer is 12 remainder 36.
+00:04:50,463 --> 00:04:54,162
+us with five thousand three hundred and fifty-eight saleable tins.
 
 77
-00:06:19,100 --> 00:06:28,990
-Now we must interpret this answer. The 12 represents full coaches. The
+00:04:54,233 --> 00:04:57,979
+Now we need to divide five thousand three hundred and fifty-eight
 
 78
-00:06:29,090 --> 00:06:39,409
-remainder of 36 represents 36 people still waiting. We need another coach
+00:04:58,079 --> 00:05:01,055
+by two hundred and fifty to find the number of days.
 
 79
-00:06:39,509 --> 00:06:46,402
-for them. So, we round up to 13 coaches in total.
+00:05:01,100 --> 00:05:04,012
+We can estimate this. We know that four lots
 
 80
-00:06:48,000 --> 00:06:52,842
-Finally, let's look at the entry costs. One adult gets in free
+00:05:04,112 --> 00:05:06,955
+of two hundred and fifty make one thousand.
 
 81
-00:06:52,942 --> 00:06:57,465
-for every 15 children. We need to find out how many adults
+00:05:07,033 --> 00:05:11,295
+Therefore, twenty lots of two hundred and fifty make five thousand.
 
 82
-00:06:57,565 --> 00:07:01,849
-must pay. We divide the number of children, 613, by 15.
+00:05:11,366 --> 00:05:15,027
+If we subtract five thousand from five thousand three hundred
 
 83
-00:07:01,933 --> 00:07:05,716
-We know that 2 times 15 is 30, so 4
+00:05:15,127 --> 00:05:18,972
+and fifty-eight, we are left with three hundred and fifty-eight.
 
 84
-00:07:05,816 --> 00:07:10,819
-times 15 is 60. Therefore, 40 times 15 is 600.
+00:05:19,033 --> 00:05:22,998
+How many two hundred and fifties are in three hundred and fifty-eight?
 
 85
-00:07:10,866 --> 00:07:14,854
-We have 613 children, so we have 40 groups of 15, with
+00:05:23,098 --> 00:05:26,482
+There is one lot of two hundred and fifty, with a remainder.
 
 86
-00:07:14,954 --> 00:07:19,321
-13 children left over. Since we get one free adult for each
+00:05:26,566 --> 00:05:29,427
+So, we have twenty days plus one day, giving us
 
 87
-00:07:19,421 --> 00:07:22,652
-full group of 15, 40 adults get in for free.
+00:05:29,527 --> 00:05:32,891
+twenty-one full days. The remainder means we have a few
 
 88
-00:07:22,733 --> 00:07:26,431
-The question asks how many adults must pay. There are 59
+00:05:32,991 --> 00:05:36,419
+beans left over, but not enough for a twenty-second day.
 
 89
-00:07:26,531 --> 00:07:30,229
-adults in total. We subtract the 40 free places from 59,
+00:05:38,000 --> 00:05:42,188
+Let's look at a second example. A party of six hundred and
 
 90
-00:07:30,329 --> 00:07:33,552
-which tells us that 19 adults must pay to get in.
+00:05:42,288 --> 00:05:47,068
+thirteen children and fifty-nine adults are going to a theme park.
 
 91
-00:07:35,100 --> 00:07:38,466
-To summarize, solving real-life problems is about more than just
+00:05:47,133 --> 00:05:49,753
+We need to determine how many coaches
 
 92
-00:07:38,566 --> 00:07:42,419
-calculation. It requires reading the context carefully to understand what
+00:05:49,853 --> 00:05:52,989
+are needed if each holds fifty-three people.
 
 93
-00:07:42,519 --> 00:07:45,886
-is being asked. You need to choose an appropriate method—whether
+00:05:53,066 --> 00:05:57,013
+First, we find the total number of people by adding six hundred
 
 94
-00:07:45,986 --> 00:07:49,839
-that's long multiplication or division. And crucially, you must interpret
+00:05:57,113 --> 00:06:01,639
+and thirteen and fifty-nine, which gives us six hundred and seventy-two.
 
 95
-00:07:49,939 --> 00:07:53,143
-your answers back into the context of the problem, especially
+00:06:01,733 --> 00:06:06,439
+The strategy here is division: we divide the total people,
 
 96
-00:07:53,243 --> 00:07:56,338
-when dealing with remainders. Always take a moment to check
+00:06:06,539 --> 00:06:11,742
+six hundred and seventy-two, by the coach capacity, fifty-three.
 
 97
-00:07:56,438 --> 00:07:57,909
-if your answer is reasonable.
+00:06:13,300 --> 00:06:15,814
+We need to calculate six hundred and
+
+98
+00:06:15,914 --> 00:06:19,808
+seventy-two divided by fifty-three using long division.
+
+99
+00:06:19,900 --> 00:06:24,627
+First, how many fifty-threes go into sixty-seven? The answer
+
+100
+00:06:24,727 --> 00:06:27,845
+is one. We write the one above the line.
+
+101
+00:06:27,900 --> 00:06:31,413
+One times fifty-three is fifty-three. Subtracting
+
+102
+00:06:31,513 --> 00:06:34,879
+fifty-three from sixty-seven gives us fourteen.
+
+103
+00:06:34,966 --> 00:06:39,229
+Now, bring down the two to make one hundred and forty-two.
+
+104
+00:06:39,300 --> 00:06:41,968
+How many fifty-threes go into one
+
+105
+00:06:42,068 --> 00:06:45,155
+hundred and forty-two? Let's estimate.
+
+106
+00:06:45,233 --> 00:06:48,999
+Fifty times two is one hundred.
+
+107
+00:06:49,033 --> 00:06:52,293
+Fifty times three is one hundred and fifty, which
+
+108
+00:06:52,393 --> 00:06:54,419
+is too high. So it must be two.
+
+109
+00:06:54,500 --> 00:06:57,489
+We write the two above the line. Two
+
+110
+00:06:57,589 --> 00:07:01,008
+times fifty-three is one hundred and six.
+
+111
+00:07:01,100 --> 00:07:04,412
+Subtracting one hundred and six from one hundred
+
+112
+00:07:04,512 --> 00:07:07,966
+and forty-two leaves a remainder of thirty-six. So
+
+113
+00:07:08,066 --> 00:07:10,952
+the answer is twelve remainder thirty-six.
+
+114
+00:07:11,033 --> 00:07:16,575
+Now we must interpret this answer. The twelve represents full coaches.
+
+115
+00:07:16,633 --> 00:07:20,931
+The remainder of thirty-six represents thirty-six people still
+
+116
+00:07:21,031 --> 00:07:23,769
+waiting. We need another coach for them.
+
+117
+00:07:23,833 --> 00:07:28,095
+So, we round up to thirteen coaches in total.
+
+118
+00:07:29,666 --> 00:07:32,759
+Finally, let's look at the entry costs. One
+
+119
+00:07:32,859 --> 00:07:36,175
+adult gets in free for every fifteen children.
+
+120
+00:07:36,266 --> 00:07:39,560
+We need to find out how many adults must pay. We
+
+121
+00:07:39,660 --> 00:07:44,369
+divide the number of children, six hundred and thirteen, by fifteen.
+
+122
+00:07:44,466 --> 00:07:46,880
+We know that two times fifteen is
+
+123
+00:07:46,980 --> 00:07:49,852
+thirty, so four times fifteen is sixty.
+
+124
+00:07:49,933 --> 00:07:54,195
+Therefore, forty times fifteen is six hundred.
+
+125
+00:07:54,266 --> 00:07:57,846
+We have six hundred and thirteen children, so we have
+
+126
+00:07:57,946 --> 00:08:01,872
+forty groups of fifteen, with thirteen children left over.
+
+127
+00:08:01,933 --> 00:08:04,912
+Since we get one free adult for each full
+
+128
+00:08:05,012 --> 00:08:08,442
+group of fifteen, forty adults get in for free.
+
+129
+00:08:08,533 --> 00:08:11,572
+The question asks how many adults must
+
+130
+00:08:11,672 --> 00:08:15,042
+pay. There are fifty-nine adults in total.
+
+131
+00:08:15,133 --> 00:08:20,154
+We subtract the forty free places from fifty-nine, which tells
+
+132
+00:08:20,254 --> 00:08:23,705
+us that nineteen adults must pay to get in.
+
+133
+00:08:25,300 --> 00:08:28,939
+To summarize, solving real-life problems is
+
+134
+00:08:29,039 --> 00:08:31,808
+about more than just calculation.
+
+135
+00:08:31,900 --> 00:08:34,798
+It requires reading the context carefully
+
+136
+00:08:34,898 --> 00:08:37,285
+to understand what is being asked.
+
+137
+00:08:37,366 --> 00:08:39,773
+You need to choose an appropriate
+
+138
+00:08:39,873 --> 00:08:43,875
+method—whether that's long multiplication or division.
+
+139
+00:08:43,966 --> 00:08:47,443
+And crucially, you must interpret your answers back into the
+
+140
+00:08:47,543 --> 00:08:51,259
+context of the problem, especially when dealing with remainders.
+
+141
+00:08:51,300 --> 00:08:55,562
+Always take a moment to check if your answer is reasonable.
 

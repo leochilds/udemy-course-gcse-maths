@@ -61,77 +61,99 @@ class Lesson011Complete(VoiceoverScene):
         self.wait(0.5)
 
     def slide_01_introduction(self):
-        with self.voiceover(text="Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts. These require you to read carefully, plan a strategy, and apply arithmetic skills. In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.") as tracker:
+        with self.voiceover(text="Welcome to this lesson on solving real-life problems. Throughout your maths course and in daily life, you will encounter problems set in real-world contexts.") as tracker:
             title = Text("Solving Real-Life Problems").scale(1.2).to_edge(UP)
             underline = Line(LEFT, RIGHT).next_to(title, DOWN).scale(2)
             
             self.play(Write(title), Create(underline))
-            
-            strategies = VGroup(
-                Text("Key Strategies:").scale(0.8).set_color(Brand.ACTIVE),
-                Text("• Read").scale(0.7),
-                Text("• Plan").scale(0.7),
-                Text("• Calculate").scale(0.7)
-            ).arrange(DOWN, aligned_edge=LEFT).shift(LEFT * 2)
-            
-            methods = VGroup(
-                Text("Methods:").scale(0.8).set_color(Brand.ACTIVE),
-                Text("• Grid Method").scale(0.7),
-                Text("• Column Method").scale(0.7),
-                Text("• Long Division").scale(0.7)
-            ).arrange(DOWN, aligned_edge=LEFT).shift(RIGHT * 2)
-            
-            # Align tops
-            methods.match_y(strategies)
-            
-            self.play(Write(strategies), Write(methods))
-            self.wait(2)
+
+        strategies = VGroup(
+            Text("Key Strategies:").scale(0.8).set_color(Brand.ACTIVE),
+            Text("• Read").scale(0.7),
+            Text("• Plan").scale(0.7),
+            Text("• Calculate").scale(0.7)
+        ).arrange(DOWN, aligned_edge=LEFT).shift(LEFT * 3.5)
+        
+        methods = VGroup(
+            Text("Methods:").scale(0.8).set_color(Brand.ACTIVE),
+            Text("• Grid Method").scale(0.7),
+            Text("• Column Method").scale(0.7),
+            Text("• Long Division").scale(0.7)
+        ).arrange(DOWN, aligned_edge=LEFT).shift(RIGHT * 3.5)
+        
+        # Align tops
+        methods.match_y(strategies)
+
+        with self.voiceover(text="These require you to read carefully, plan a strategy, and apply arithmetic skills.") as tracker:
+            self.play(Write(strategies))
+
+        with self.voiceover(text="In this lesson, we will look at how to approach these problems effectively, using long multiplication and division strategies.") as tracker:
+            self.play(Write(methods))
+
+        self.wait(2)
 
     def slide_02_strategy(self):
-        with self.voiceover(text="When facing a word problem, it's helpful to have a consistent approach. First, read the question carefully to identify the key information. Second, plan your strategy—decide which mathematical operations you need to use. Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed. Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?") as tracker:
+        with self.voiceover(text="When facing a word problem, it's helpful to have a consistent approach.") as tracker:
             title = Text("The Strategy").scale(1.2).to_edge(UP)
             self.play(Write(title))
             
-            # Create steps
-            s1 = Text("1. READ").scale(0.9).move_to([-4, 2, 0])
-            t1 = Text("Read the question carefully").scale(0.6).next_to(s1, DOWN)
-            
-            s2 = Text("2. PLAN").scale(0.9).move_to([4, 2, 0])
-            t2 = Text("Decide on a strategy").scale(0.6).next_to(s2, DOWN)
-            
-            s3 = Text("3. CALCULATE").scale(0.9).move_to([-4, -1, 0])
-            t3 = Text("Work out the answer").scale(0.6).next_to(s3, DOWN)
-            
-            s4 = Text("4. CHECK").scale(0.9).move_to([4, -1, 0])
-            t4 = Text("Does it make sense?").scale(0.6).next_to(s4, DOWN)
-            
-            steps = [(s1, t1), (s2, t2), (s3, t3), (s4, t4)]
-            
-            for s, t in steps:
-                self.play(Write(s))
-                self.play(FadeIn(t))
-                self.wait(0.5)
+        # Create steps
+        s1 = Text("1. READ").scale(0.9).move_to([-4, 2, 0])
+        t1 = Text("Read the question carefully").scale(0.6).next_to(s1, DOWN)
+        
+        s2 = Text("2. PLAN").scale(0.9).move_to([4, 2, 0])
+        t2 = Text("Decide on a strategy").scale(0.6).next_to(s2, DOWN)
+        
+        s3 = Text("3. CALCULATE").scale(0.9).move_to([-4, -1, 0])
+        t3 = Text("Work out the answer").scale(0.6).next_to(s3, DOWN)
+        
+        s4 = Text("4. CHECK").scale(0.9).move_to([4, -1, 0])
+        t4 = Text("Does it make sense?").scale(0.6).next_to(s4, DOWN)
+        
+        with self.voiceover(text="First, read the question carefully to identify the key information.") as tracker:
+            self.play(Write(s1))
+            self.play(FadeIn(t1))
+
+        with self.voiceover(text="Second, plan your strategy—decide which mathematical operations you need to use.") as tracker:
+            self.play(Write(s2))
+            self.play(FadeIn(t2))
+
+        with self.voiceover(text="Third, perform the calculation. You might need to use long multiplication or long division if a calculator isn't allowed.") as tracker:
+            self.play(Write(s3))
+            self.play(FadeIn(t3))
+
+        with self.voiceover(text="Finally, always check your answer. Ask yourself: is this a reasonable number for this situation?") as tracker:
+            self.play(Write(s4))
+            self.play(FadeIn(t4))
+            self.wait(0.5)
 
     def slide_03_example_1_context(self):
-        with self.voiceover(text="Let's apply this to an example. A supermarket receives a delivery of 235 cases of tins of beans. Each case contains 24 tins. We need to calculate how many tins the supermarket receives altogether. Since we have 235 groups of 24, our strategy is multiplication. We need to calculate 235 multiplied by 24.") as tracker:
+        with self.voiceover(text="Let's apply this to an example.") as tracker:
             title = Text("Example 1: The Supermarket").scale(1.0).to_edge(UP)
             self.play(Write(title))
             
-            icon_case = Square().scale(0.5).set_fill(Brand.AUXILIARY, opacity=0.5)
-            t_delivery = Text("Delivery: 235 Cases").scale(0.8).next_to(icon_case, RIGHT)
-            g_delivery = VGroup(icon_case, t_delivery).move_to([0, 1, 0])
-            
-            t_contents = Text("Each Case: 24 Tins").scale(0.8).next_to(g_delivery, DOWN, buff=0.5)
-            
+        icon_case = Square().scale(0.5).set_fill(Brand.AUXILIARY, opacity=0.5)
+        t_delivery = Text("Delivery: 235 Cases").scale(0.8).next_to(icon_case, RIGHT)
+        g_delivery = VGroup(icon_case, t_delivery).move_to([0, 1, 0])
+        
+        t_contents = Text("Each Case: 24 Tins").scale(0.8).next_to(g_delivery, DOWN, buff=0.5)
+
+        with self.voiceover(text="A supermarket receives a delivery of two hundred and thirty-five cases of tins of beans.") as tracker:
             self.play(Create(icon_case), Write(t_delivery))
+
+        with self.voiceover(text="Each case contains twenty-four tins.") as tracker:
             self.play(Write(t_contents))
             self.wait(1)
             
-            t_question = Text("How many tins altogether?").scale(1.0).set_color(Brand.ACTIVE).next_to(t_contents, DOWN, buff=1.0)
+        t_question = Text("How many tins altogether?").scale(1.0).set_color(Brand.ACTIVE).next_to(t_contents, DOWN, buff=1.0)
+        
+        with self.voiceover(text="We need to calculate how many tins the supermarket receives altogether.") as tracker:
             self.play(Write(t_question))
             self.wait(1)
             
-            t_calc = MathTex("235 \\times 24").scale(1.5).set_color(Brand.ANSWER).next_to(t_question, DOWN, buff=0.5)
+        t_calc = MathTex("235 \\times 24").scale(1.5).set_color(Brand.ANSWER).next_to(t_question, DOWN, buff=0.5)
+
+        with self.voiceover(text="Since we have two hundred and thirty-five groups of twenty-four, our strategy is multiplication. We need to calculate two hundred and thirty-five multiplied by twenty-four.") as tracker:
             self.play(Write(t_calc))
             self.wait(1)
 
@@ -169,12 +191,14 @@ class Lesson011Complete(VoiceoverScene):
             line_v1 = Line(start=[v_lines_x[0], 3, 0], end=[v_lines_x[0], -3, 0])
             grid_group = VGroup(line_h1, line_h2, line_v1)
 
-        with self.voiceover(text="We break 235 into 200, 30, and 5. We break 24 into 20 and 4.") as tracker:
+        with self.voiceover(text="We break two hundred and thirty-five into two hundred, thirty, and five.") as tracker:
             self.play(
                 ReplacementTransform(problem[0][0].copy(), h_200),
                 ReplacementTransform(problem[0][1].copy(), h_30),
                 ReplacementTransform(problem[0][2].copy(), h_5)
             )
+
+        with self.voiceover(text="We break twenty-four into twenty and four.") as tracker:
             self.play(
                 ReplacementTransform(problem[2][0].copy(), h_20),
                 ReplacementTransform(problem[2][1].copy(), h_4)
@@ -193,17 +217,25 @@ class Lesson011Complete(VoiceoverScene):
             self.play(Write(result_mob))
             return result_mob
         
-        with self.voiceover(text="Now we multiply each part. 200 times 20 is 4,000. 30 times 20 is 600. 5 times 20 is 100.") as tracker:
+        with self.voiceover(text="Now we multiply each part. Two hundred times twenty is four thousand.") as tracker:
             c_20_200 = animate_cell(h_20, h_200, "4000", 1, 1)
+
+        with self.voiceover(text="Thirty times twenty is six hundred.") as tracker:
             c_20_30 = animate_cell(h_20, h_30, "600", 2, 1)
+
+        with self.voiceover(text="Five times twenty is one hundred.") as tracker:
             c_20_5 = animate_cell(h_20, h_5, "100", 3, 1)
 
-        with self.voiceover(text="Then we multiply by 4: 200 times 4 is 800. 30 times 4 is 120. 5 times 4 is 20.") as tracker:
+        with self.voiceover(text="Then we multiply by four: Two hundred times four is eight hundred.") as tracker:
             c_4_200 = animate_cell(h_4, h_200, "800", 1, 2)
+
+        with self.voiceover(text="Thirty times four is one hundred and twenty.") as tracker:
             c_4_30 = animate_cell(h_4, h_30, "120", 2, 2)
+
+        with self.voiceover(text="Five times four is twenty.") as tracker:
             c_4_5 = animate_cell(h_4, h_5, "20", 3, 2)
 
-        with self.voiceover(text="Finally, we add all these answers together: 4,000 plus 600 plus 100 is 4,700.") as tracker:
+        with self.voiceover(text="Finally, we add all these answers together: Four thousand plus six hundred plus one hundred is four thousand seven hundred.") as tracker:
             row1_group = VGroup(c_20_200, c_20_30, c_20_5)
             row1_sum_text = MathTex("4000", "+", "600", "+", "100", "=", "4700").scale(0.8)
             row1_sum_text.to_edge(RIGHT).shift(UP * 1)
@@ -211,7 +243,7 @@ class Lesson011Complete(VoiceoverScene):
             self.play(Write(row1_sum_text[5:]))
             self.play(row1_sum_text[6].animate.set_color(Brand.ACTIVE))
 
-        with self.voiceover(text="800 plus 120 plus 20 is 940.") as tracker:
+        with self.voiceover(text="Eight hundred plus one hundred and twenty plus twenty is nine hundred and forty.") as tracker:
             row2_group = VGroup(c_4_200, c_4_30, c_4_5)
             row2_sum_text = MathTex("800", "+", "120", "+", "20", "=", "940").scale(0.8)
             row2_sum_text.next_to(row1_sum_text, DOWN, aligned_edge=RIGHT)
@@ -219,7 +251,7 @@ class Lesson011Complete(VoiceoverScene):
             self.play(Write(row2_sum_text[5:]))
             self.play(row2_sum_text[6].animate.set_color(Brand.ACTIVE))
 
-        with self.voiceover(text="Adding 4,700 and 940 gives us a total of 5,640.") as tracker:
+        with self.voiceover(text="Adding four thousand seven hundred and nine hundred and forty gives us a total of five thousand six hundred and forty.") as tracker:
             line_sum = Line(start=row2_sum_text.get_left(), end=row2_sum_text.get_right()).next_to(row2_sum_text, DOWN)
             final_sum_text = MathTex("5640").scale(1.2).set_color(Brand.ANSWER)
             final_sum_text.next_to(line_sum, DOWN, aligned_edge=RIGHT)
@@ -291,8 +323,10 @@ class Lesson011Complete(VoiceoverScene):
             self.play(Write(operator), Write(b_tens), Write(b_units))
             self.play(Create(line1))
 
-        with self.voiceover(text="First, we multiply 235 by 4. 4 times 5 is 20, so write the 0 and carry the 2.") as tracker:
+        with self.voiceover(text="First, we multiply two hundred and thirty-five by four.") as tracker:
             self.play(Indicate(b_units, color=Brand.ACTIVE), Indicate(t_units, color=Brand.ACTIVE))
+
+        with self.voiceover(text="Four times five is twenty, so write the zero and carry the two.") as tracker:
             sc1 = MathTex("5", "\\times", "4", "=", "20").scale(digits_scale).move_to([side_x, side_y, 0]).set_color(Brand.AUXILIARY)
             self.play(Write(sc1))
             r1_units.move_to([x_units, y_res1, 0])
@@ -309,7 +343,7 @@ class Lesson011Complete(VoiceoverScene):
                 FadeOut(sc1[:4])
             )
 
-        with self.voiceover(text="4 times 3 is 12, plus the carried 2 is 14. Write the 4 and carry the 1.") as tracker:
+        with self.voiceover(text="Four times three is twelve, plus the carried two is fourteen. Write the four and carry the one.") as tracker:
             self.play(Indicate(b_units, color=Brand.ACTIVE), Indicate(t_tens, color=Brand.ACTIVE))
             self.play(indicate_carry(carry_2))
             sc2 = MathTex("3", "\\times", "4", "=", "12").scale(digits_scale).move_to([side_x, side_y, 0]).set_color(Brand.AUXILIARY)
@@ -339,7 +373,7 @@ class Lesson011Complete(VoiceoverScene):
                 FadeOut(sc2_add[:4])
             )
 
-        with self.voiceover(text="4 times 2 is 8, plus the 1 is 9. This gives us 940.") as tracker:
+        with self.voiceover(text="Four times two is eight, plus the one is nine. This gives us nine hundred and forty.") as tracker:
             self.play(Indicate(b_units, color=Brand.ACTIVE), Indicate(t_hundreds, color=Brand.ACTIVE))
             self.play(indicate_carry(carry_1))
             sc3 = MathTex("2", "\\times", "4", "=", "8").scale(digits_scale).move_to([side_x, side_y, 0]).set_color(Brand.AUXILIARY)
@@ -361,11 +395,11 @@ class Lesson011Complete(VoiceoverScene):
                 FadeOut(sc3_add[:4])
             )
 
-        with self.voiceover(text="Next, we multiply by the 20. We start by placing a zero in the units column.") as tracker:
+        with self.voiceover(text="Next, we multiply by the twenty. We start by placing a zero in the units column.") as tracker:
             r2_units.move_to([x_units, y_res2, 0]).set_color(Brand.ACTIVE)
             self.play(Write(r2_units))
 
-        with self.voiceover(text="Then, 2 times 5 is 10; write 0, carry 1.") as tracker:
+        with self.voiceover(text="Then, two times five is ten; write zero, carry one.") as tracker:
             self.play(Indicate(b_tens, color=Brand.ACTIVE), Indicate(t_units, color=Brand.ACTIVE))
             sc4 = MathTex("5", "\\times", "2", "=", "10").scale(digits_scale).move_to([side_x, side_y, 0]).set_color(Brand.AUXILIARY)
             self.play(Write(sc4))
@@ -383,7 +417,7 @@ class Lesson011Complete(VoiceoverScene):
                 FadeOut(sc4[:4])
             )
 
-        with self.voiceover(text="2 times 3 is 6, plus 1 is 7.") as tracker:
+        with self.voiceover(text="Two times three is six, plus one is seven.") as tracker:
             self.play(Indicate(b_tens, color=Brand.ACTIVE), Indicate(t_tens, color=Brand.ACTIVE))
             self.play(indicate_carry(carry_1_b))
             sc5 = MathTex("3", "\\times", "2", "=", "6").scale(digits_scale).move_to([side_x, side_y, 0]).set_color(Brand.AUXILIARY)
@@ -405,7 +439,7 @@ class Lesson011Complete(VoiceoverScene):
                 FadeOut(sc5_add[:4])
             )
 
-        with self.voiceover(text="2 times 2 is 4. This gives us 4,700.") as tracker:
+        with self.voiceover(text="Two times two is four. This gives us four thousand seven hundred.") as tracker:
             self.play(Indicate(b_tens, color=Brand.ACTIVE), Indicate(t_hundreds, color=Brand.ACTIVE))
             r2_thousands.move_to([x_thousands, y_res2, 0])
             sc6 = MathTex("2", "\\times", "2", "=", "4").scale(digits_scale).move_to([side_x, side_y, 0]).set_color(Brand.AUXILIARY)
@@ -415,7 +449,7 @@ class Lesson011Complete(VoiceoverScene):
                 FadeOut(sc6[:4])
             )
 
-        with self.voiceover(text="Finally, we add 940 and 4,700 together to get 5,640.") as tracker:
+        with self.voiceover(text="Finally, we add nine hundred and forty and four thousand seven hundred together to get five thousand six hundred and forty.") as tracker:
             line2 = Line(start=[x_thousands - dx, y_line2, 0], end=[x_units + dx, y_line2, 0])
             plus = MathTex("+").scale(digits_scale).move_to([x_thousands - dx + 0.2, y_res2, 0])
             self.play(Create(line2), Write(plus))
@@ -449,26 +483,30 @@ class Lesson011Complete(VoiceoverScene):
             self.play(Indicate(r2_thousands, color=Brand.ACTIVE), indicate_carry(carry_add))
             self.play(FadeOut(carry_add), Write(f_thousands))
 
-        with self.voiceover(text="Both methods give us the same result: 5,640 tins.") as tracker:
+        with self.voiceover(text="Both methods give us the same result: five thousand six hundred and forty tins.") as tracker:
             self.wait(1)
 
     def slide_05_part_b_context(self):
-        with self.voiceover(text="Now for the second part of the problem. We are told that 5% of the tins were damaged and thrown away. The supermarket sells 250 tins a day. We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of 250.") as tracker:
+        with self.voiceover(text="Now for the second part of the problem.") as tracker:
             title = Text("Example 1: Part B").scale(1.0).to_edge(UP)
             self.play(Write(title))
             
+        with self.voiceover(text="We are told that five percent of the tins were damaged and thrown away.") as tracker:
             t_damaged = Text("• 5% of tins damaged (thrown away)").scale(0.8).move_to([0, 1, 0])
-            t_sales = Text("• Sales: 250 tins/day").scale(0.8).next_to(t_damaged, DOWN, buff=0.5)
-            t_q = Text("How many days will stock last?").scale(1.0).set_color(Brand.ACTIVE).next_to(t_sales, DOWN, buff=1.0)
-            
             self.play(Write(t_damaged))
+
+        with self.voiceover(text="The supermarket sells two hundred and fifty tins a day.") as tracker:
+            t_sales = Text("• Sales: 250 tins/day").scale(0.8).next_to(t_damaged, DOWN, buff=0.5)
             self.play(Write(t_sales))
+
+        with self.voiceover(text="We need to find out how many days the remaining beans will last. This is a multi-step problem. First, we must calculate how many tins are left after removing the damaged ones. Second, we divide that number by the daily sales of two hundred and fifty.") as tracker:
+            t_q = Text("How many days will stock last?").scale(1.0).set_color(Brand.ACTIVE).next_to(t_sales, DOWN, buff=1.0)
             self.play(Write(t_q))
             self.wait(1)
 
     def slide_06_part_b_calc(self):
         # --- Stock Calculation ---
-        with self.voiceover(text="Let's work through the numbers. We started with 5,640 tins. To find 5%, we can first find 10%, which is 564. 5% is half of 10%, so half of 564 is 282.") as tracker:
+        with self.voiceover(text="Let's work through the numbers. We started with five thousand six hundred and forty tins.") as tracker:
             title = Text("Stock Calculation").scale(0.8).to_corner(UL).set_color(Brand.AUXILIARY)
             self.play(Write(title))
             
@@ -476,18 +514,20 @@ class Lesson011Complete(VoiceoverScene):
             total_tins_val = MathTex("5640").scale(1.2).next_to(total_tins_label, RIGHT)
             self.play(Write(total_tins_label), Write(total_tins_val))
             
+        with self.voiceover(text="To find five percent, we can first find ten percent, which is five hundred and sixty-four.") as tracker:
             p10_label = MathTex("10\\% = ").scale(0.8).move_to([-2, 1, 0])
             p10_val = MathTex("564").scale(0.8).next_to(p10_label, RIGHT)
             self.play(Write(p10_label))
             self.play(TransformFromCopy(total_tins_val, p10_val))
             
+        with self.voiceover(text="Five percent is half of ten percent, so half of five hundred and sixty-four is two hundred and eighty-two.") as tracker:
             p5_label = MathTex("5\\% = ").scale(0.8).next_to(p10_label, DOWN, aligned_edge=LEFT)
             p5_calc = MathTex("564 \\div 2 = ").scale(0.8).next_to(p5_label, RIGHT)
             p5_val = MathTex("282").scale(0.8).next_to(p5_calc, RIGHT).set_color(Brand.CARRY)
             self.play(Write(p5_label), Write(p5_calc))
             self.play(Write(p5_val))
 
-        with self.voiceover(text="We subtract these damaged tins from the total: 5,640 minus 282 leaves us with 5,358 saleable tins.") as tracker:
+        with self.voiceover(text="We subtract these damaged tins from the total: five thousand six hundred and forty minus two hundred and eighty-two leaves us with five thousand three hundred and fifty-eight saleable tins.") as tracker:
             sub_label = Text("Saleable Tins:").scale(0.8).move_to([-2, -1, 0])
             sub_calc = MathTex("5640 - 282 = ").scale(0.8).next_to(sub_label, RIGHT)
             sub_val = MathTex("5358").scale(1.2).next_to(sub_calc, RIGHT).set_color(Brand.ANSWER)
@@ -500,7 +540,7 @@ class Lesson011Complete(VoiceoverScene):
             )
             self.play(Write(sub_val))
             
-        with self.voiceover(text="Now we need to divide 5,358 by 250 to find the number of days.") as tracker:
+        with self.voiceover(text="Now we need to divide five thousand three hundred and fifty-eight by two hundred and fifty to find the number of days.") as tracker:
              # Cleanup Part 1
             part1_group = VGroup(
                 total_tins_label, total_tins_val,
@@ -517,7 +557,7 @@ class Lesson011Complete(VoiceoverScene):
             div_problem = MathTex("5358", "\\div", "250").scale(1.2).move_to([0, 2.5, 0])
             self.play(ReplacementTransform(sub_val, div_problem[0]), Write(div_problem[1:]))
 
-        with self.voiceover(text="We can estimate this. We know that 4 lots of 250 make 1,000. Therefore, 20 lots of 250 make 5,000.") as tracker:
+        with self.voiceover(text="We can estimate this. We know that four lots of two hundred and fifty make one thousand.") as tracker:
             est_box = VGroup()
             est_title = Text("Estimations:").scale(0.6).set_color(Brand.AUXILIARY)
             est1 = MathTex("4 \\times 250 = 1000").scale(0.8)
@@ -525,10 +565,12 @@ class Lesson011Complete(VoiceoverScene):
             est_group = VGroup(est_title, est1, est2).arrange(DOWN, aligned_edge=LEFT).move_to([-3, 0, 0])
             self.play(Write(est_title))
             self.play(Write(est1))
+
+        with self.voiceover(text="Therefore, twenty lots of two hundred and fifty make five thousand.") as tracker:
             self.play(Write(est2))
             self.play(Indicate(est2, color=Brand.ACTIVE))
 
-        with self.voiceover(text="If we subtract 5,000 from 5,358, we are left with 358.") as tracker:
+        with self.voiceover(text="If we subtract five thousand from five thousand three hundred and fifty-eight, we are left with three hundred and fifty-eight.") as tracker:
             step1_calc = MathTex("5358", "-", "5000", "=", "358").scale(1.0).move_to([2, 0.5, 0])
             self.play(
                 TransformFromCopy(div_problem[0], step1_calc[0]),
@@ -538,13 +580,13 @@ class Lesson011Complete(VoiceoverScene):
                 Write(step1_calc[4])
             )
 
-        with self.voiceover(text="How many 250s are in 358? There is 1 lot of 250, with a remainder.") as tracker:
+        with self.voiceover(text="How many two hundred and fifties are in three hundred and fifty-eight? There is one lot of two hundred and fifty, with a remainder.") as tracker:
             rem_check = Text("How many 250s in 358?").scale(0.6).next_to(step1_calc, DOWN, buff=0.5).set_color(Brand.AUXILIARY)
             rem_ans = MathTex("1 \\times 250 = 250").scale(0.8).next_to(rem_check, DOWN)
             self.play(Write(rem_check))
             self.play(Write(rem_ans))
 
-        with self.voiceover(text="So, we have 20 days plus 1 day, giving us 21 full days. The remainder means we have a few beans left over, but not enough for a 22nd day.") as tracker:
+        with self.voiceover(text="So, we have twenty days plus one day, giving us twenty-one full days. The remainder means we have a few beans left over, but not enough for a twenty-second day.") as tracker:
             final_days_label = Text("Total Days:").scale(0.8).move_to([0, -2.5, 0])
             final_days_calc = MathTex("20", "+", "1", "=", "21").scale(1.2).next_to(final_days_label, RIGHT)
             final_days_calc[4].set_color(Brand.ANSWER)
@@ -560,23 +602,26 @@ class Lesson011Complete(VoiceoverScene):
             self.wait(1)
 
     def slide_07_example_2_context(self):
-        with self.voiceover(text="Let's look at a second example. A party of 613 children and 59 adults are going to a theme park. We need to determine how many coaches are needed if each holds 53 people. First, we find the total number of people by adding 613 and 59, which gives us 672. The strategy here is division: we divide the total people, 672, by the coach capacity, 53.") as tracker:
+        with self.voiceover(text="Let's look at a second example. A party of six hundred and thirteen children and fifty-nine adults are going to a theme park.") as tracker:
             title = Text("Example 2: Theme Park").scale(1.0).to_edge(UP)
             self.play(Write(title))
             
             t_kids = Text("613 Children").scale(0.8).shift(LEFT * 3 + UP * 1)
             t_adults = Text("59 Adults").scale(0.8).next_to(t_kids, DOWN, buff=0.5)
             self.play(Write(t_kids), Write(t_adults))
-            
+
+        with self.voiceover(text="We need to determine how many coaches are needed if each holds fifty-three people.") as tracker:
+             self.wait(1)
+
+        with self.voiceover(text="First, we find the total number of people by adding six hundred and thirteen and fifty-nine, which gives us six hundred and seventy-two.") as tracker:
             line = Line(start=t_adults.get_left() + DOWN * 0.2, end=t_adults.get_right() + RIGHT * 2 + DOWN * 0.2)
             calc = MathTex("613 + 59 = 672").scale(1.2).next_to(t_adults, RIGHT, buff=2).set_color(Brand.ANSWER)
             self.play(Write(calc))
-            self.wait(1)
             
             t_total = Text("Total People: 672").scale(1.0).move_to([0, -1, 0]).set_color(Brand.ANSWER)
             self.play(TransformFromCopy(calc, t_total))
-            self.wait(1)
-            
+
+        with self.voiceover(text="The strategy here is division: we divide the total people, six hundred and seventy-two, by the coach capacity, fifty-three.") as tracker:
             t_coach = Text("Coach Capacity: 53").scale(0.8).next_to(t_total, DOWN, buff=0.5)
             self.play(Write(t_coach))
             
@@ -602,10 +647,10 @@ class Lesson011Complete(VoiceoverScene):
         bus_stop_line = Line(p_top_left, p_top_right)
         bus_stop = VGroup(bus_stop_curve, bus_stop_line)
 
-        with self.voiceover(text="We need to calculate 672 divided by 53 using long division.") as tracker:
+        with self.voiceover(text="We need to calculate six hundred and seventy-two divided by fifty-three using long division.") as tracker:
             self.play(Write(d_53), Create(bus_stop), Write(dividend_group))
 
-        with self.voiceover(text="First, how many 53s go into 67? The answer is 1. We write the 1 above the line.") as tracker:
+        with self.voiceover(text="First, how many fifty-threes go into sixty-seven? The answer is one. We write the one above the line.") as tracker:
             self.play(
                 Indicate(d_53, color=Brand.ACTIVE),
                 Indicate(VGroup(div_6, div_7), color=Brand.ACTIVE)
@@ -614,7 +659,7 @@ class Lesson011Complete(VoiceoverScene):
             ans_1.set_x(div_7.get_x())
             self.play(Write(ans_1))
 
-        with self.voiceover(text="1 times 53 is 53. Subtracting 53 from 67 gives us 14.") as tracker:
+        with self.voiceover(text="One times fifty-three is fifty-three. Subtracting fifty-three from sixty-seven gives us fourteen.") as tracker:
             mult_res_53 = MathTex("5", "3").scale(digits_scale)
             mult_res_53[0].move_to([div_6.get_x(), div_6.get_y() - 1.0, 0])
             mult_res_53[1].move_to([div_7.get_x(), div_7.get_y() - 1.0, 0])
@@ -629,7 +674,7 @@ class Lesson011Complete(VoiceoverScene):
             res_14[1].move_to([div_7.get_x(), mult_res_53.get_y() - 1.0, 0])
             self.play(Write(res_14))
 
-        with self.voiceover(text="Now, bring down the 2 to make 142.") as tracker:
+        with self.voiceover(text="Now, bring down the two to make one hundred and forty-two.") as tracker:
             arrow_down = Arrow(start=div_2.get_bottom(), end=[div_2.get_x(), res_14.get_y(), 0], buff=0.1, color=Brand.AUXILIARY)
             res_2_down = MathTex("2").scale(digits_scale).move_to([div_2.get_x(), res_14.get_y(), 0])
             self.play(Create(arrow_down))
@@ -637,17 +682,21 @@ class Lesson011Complete(VoiceoverScene):
             self.play(FadeOut(arrow_down))
             curr_142 = VGroup(res_14, res_2_down)
 
-        with self.voiceover(text="How many 53s go into 142? Let's estimate. 50 times 2 is 100. 50 times 3 is 150, which is too high. So it must be 2.") as tracker:
+        with self.voiceover(text="How many fifty-threes go into one hundred and forty-two? Let's estimate.") as tracker:
             self.play(Indicate(d_53, color=Brand.ACTIVE), Indicate(curr_142, color=Brand.ACTIVE))
             side_calc_pos = [3, 1, 0]
             side_est_1 = MathTex("53", "\\times", "2", "=", "106").scale(note_scale).move_to(side_calc_pos).set_color(Brand.AUXILIARY)
             side_est_2 = MathTex("53", "\\times", "3", "=", "159").scale(note_scale).next_to(side_est_1, DOWN).set_color(Brand.AUXILIARY)
             cross = Cross(side_est_2).scale(0.8)
+
+        with self.voiceover(text="Fifty times two is one hundred.") as tracker:
             self.play(Write(side_est_1))
+
+        with self.voiceover(text="Fifty times three is one hundred and fifty, which is too high. So it must be two.") as tracker:
             self.play(Write(side_est_2))
             self.play(Create(cross))
 
-        with self.voiceover(text="We write the 2 above the line. 2 times 53 is 106.") as tracker:
+        with self.voiceover(text="We write the two above the line. Two times fifty-three is one hundred and six.") as tracker:
             ans_2 = MathTex("2").scale(digits_scale).next_to(ans_1, RIGHT, buff=0.3)
             ans_2.set_x(div_2.get_x())
             self.play(Write(ans_2))
@@ -668,7 +717,7 @@ class Lesson011Complete(VoiceoverScene):
                 FadeOut(side_est_1), FadeOut(side_est_2), FadeOut(cross)
             )
 
-        with self.voiceover(text="Subtracting 106 from 142 leaves a remainder of 36. So the answer is 12 remainder 36.") as tracker:
+        with self.voiceover(text="Subtracting one hundred and six from one hundred and forty-two leaves a remainder of thirty-six. So the answer is twelve remainder thirty-six.") as tracker:
             res_36 = MathTex("3", "6").scale(digits_scale)
             res_36[0].move_to([mult_res_106[1].get_x(), mult_res_106.get_y() - 1.0, 0])
             res_36[1].move_to([mult_res_106[2].get_x(), mult_res_106.get_y() - 1.0, 0])
@@ -676,54 +725,63 @@ class Lesson011Complete(VoiceoverScene):
             rem_text = MathTex("r", "36").scale(digits_scale).next_to(ans_2, RIGHT, buff=0.3)
             self.play(Write(rem_text[0]), TransformFromCopy(res_36, rem_text[1]))
 
-        with self.voiceover(text="Now we must interpret this answer. The 12 represents full coaches. The remainder of 36 represents 36 people still waiting. We need another coach for them. So, we round up to 13 coaches in total.") as tracker:
+        with self.voiceover(text="Now we must interpret this answer. The twelve represents full coaches.") as tracker:
             t_full = Text("12 Full Coaches").scale(0.8).move_to([3, 0, 0])
-            t_rem = Text("36 People Left").scale(0.8).next_to(t_full, DOWN, buff=0.5)
-            t_plus1 = Text("+1 Coach").scale(0.8).next_to(t_rem, DOWN, buff=0.2).set_color(Brand.ACTIVE)
-            line_total = Line(start=t_plus1.get_left(), end=t_plus1.get_right()).next_to(t_plus1, DOWN)
-            t_total = Text("13 Coaches Total").scale(1.0).next_to(line_total, DOWN).set_color(Brand.ANSWER)
-            
             self.play(Write(t_full))
             self.play(Indicate(VGroup(ans_1, ans_2), color=Brand.ACTIVE))
+
+        with self.voiceover(text="The remainder of thirty-six represents thirty-six people still waiting. We need another coach for them.") as tracker:
+            t_rem = Text("36 People Left").scale(0.8).next_to(t_full, DOWN, buff=0.5)
             self.play(Write(t_rem))
             self.play(Indicate(rem_text, color=Brand.ACTIVE))
+            t_plus1 = Text("+1 Coach").scale(0.8).next_to(t_rem, DOWN, buff=0.2).set_color(Brand.ACTIVE)
             self.play(Write(t_plus1))
+
+        with self.voiceover(text="So, we round up to thirteen coaches in total.") as tracker:
+            line_total = Line(start=t_plus1.get_left(), end=t_plus1.get_right()).next_to(t_plus1, DOWN)
+            t_total = Text("13 Coaches Total").scale(1.0).next_to(line_total, DOWN).set_color(Brand.ANSWER)
             self.play(Create(line_total), Write(t_total))
             self.wait(1)
 
     def slide_09_free_entry(self):
-        with self.voiceover(text="Finally, let's look at the entry costs. One adult gets in free for every 15 children. We need to find out how many adults must pay. We divide the number of children, 613, by 15.") as tracker:
+        with self.voiceover(text="Finally, let's look at the entry costs. One adult gets in free for every fifteen children.") as tracker:
             text_scale = 0.8
             math_scale = 1.0
             t_children = Text("613 Children").scale(text_scale).to_edge(UP).shift(LEFT * 2)
             t_rule = Text("1 Free Adult / 15 Children").scale(text_scale).next_to(t_children, DOWN)
             self.play(Write(t_children))
             self.play(Write(t_rule))
+
+        with self.voiceover(text="We need to find out how many adults must pay. We divide the number of children, six hundred and thirteen, by fifteen.") as tracker:
             eq_div = MathTex("613", "\\div", "15").scale(math_scale).shift(UP * 0.5)
             self.play(Write(eq_div))
 
-        with self.voiceover(text="We know that 2 times 15 is 30, so 4 times 15 is 60. Therefore, 40 times 15 is 600.") as tracker:
+        with self.voiceover(text="We know that two times fifteen is thirty, so four times fifteen is sixty.") as tracker:
             est_1 = MathTex("2", "\\times", "15", "=", "30").scale(text_scale).set_color(Brand.AUXILIARY)
             est_2 = MathTex("4", "\\times", "15", "=", "60").scale(text_scale).set_color(Brand.AUXILIARY)
-            est_3 = MathTex("40", "\\times", "15", "=", "600").scale(text_scale).set_color(Brand.ACTIVE)
             est_1.next_to(eq_div, DOWN, buff=1.0).shift(LEFT * 2)
             est_2.next_to(est_1, DOWN, buff=0.3)
-            est_3.next_to(est_2, DOWN, buff=0.3)
             self.play(Write(est_1))
             self.play(Write(est_2))
+
+        with self.voiceover(text="Therefore, forty times fifteen is six hundred.") as tracker:
+            est_3 = MathTex("40", "\\times", "15", "=", "600").scale(text_scale).set_color(Brand.ACTIVE)
+            est_3.next_to(est_2, DOWN, buff=0.3)
             self.play(Write(est_3))
 
-        with self.voiceover(text="We have 613 children, so we have 40 groups of 15, with 13 children left over. Since we get one free adult for each full group of 15, 40 adults get in for free.") as tracker:
+        with self.voiceover(text="We have six hundred and thirteen children, so we have forty groups of fifteen, with thirteen children left over.") as tracker:
             sub_eq = MathTex("613", "-", "600", "=", "13").scale(math_scale)
             sub_eq.next_to(eq_div, DOWN, buff=1.0).shift(RIGHT * 2)
             sub_eq[2].set_color(Brand.ACTIVE)
             self.play(Write(sub_eq))
+
+        with self.voiceover(text="Since we get one free adult for each full group of fifteen, forty adults get in for free.") as tracker:
             t_free = Text("40 Free Adults").scale(text_scale).set_color(Brand.ANSWER)
             t_free.next_to(sub_eq, DOWN, buff=0.5)
             self.play(Indicate(est_3[0], color=Brand.ANSWER))
             self.play(Write(t_free))
 
-        with self.voiceover(text="The question asks how many adults must pay. There are 59 adults in total. We subtract the 40 free places from 59, which tells us that 19 adults must pay to get in.") as tracker:
+        with self.voiceover(text="The question asks how many adults must pay. There are fifty-nine adults in total.") as tracker:
             group_part1 = VGroup(eq_div, est_1, est_2, est_3, sub_eq, t_children, t_rule)
             self.play(
                 FadeOut(group_part1),
@@ -731,6 +789,8 @@ class Lesson011Complete(VoiceoverScene):
             )
             t_total_adults = Text("Total Adults: 59").scale(text_scale).next_to(t_free, DOWN, buff=0.5, aligned_edge=LEFT)
             self.play(Write(t_total_adults))
+
+        with self.voiceover(text="We subtract the forty free places from fifty-nine, which tells us that nineteen adults must pay to get in.") as tracker:
             final_calc = MathTex("59", "-", "40", "=", "19").scale(math_scale).move_to(ORIGIN)
             final_calc[2].set_color(Brand.ANSWER)
             final_calc[4].set_color(Brand.ANSWER)
@@ -740,19 +800,27 @@ class Lesson011Complete(VoiceoverScene):
             self.play(Indicate(t_paying, color=Brand.ACTIVE))
 
     def slide_10_summary(self):
-        with self.voiceover(text="To summarize, solving real-life problems is about more than just calculation. It requires reading the context carefully to understand what is being asked. You need to choose an appropriate method—whether that's long multiplication or division. And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders. Always take a moment to check if your answer is reasonable.") as tracker:
+        with self.voiceover(text="To summarize, solving real-life problems is about more than just calculation.") as tracker:
             title = Text("Summary").scale(1.2).to_edge(UP)
             self.play(Write(title))
             
-            bullets = VGroup(
-                Text("• Understand the context"),
-                Text("• Choose your method"),
-                Text("• Interpret the answer"),
-                Text("• Check your results")
-            ).arrange(DOWN, aligned_edge=LEFT, buff=0.5).scale(0.8)
-            
-            for b in bullets:
-                self.play(FadeIn(b, shift=RIGHT))
-                self.wait(0.5)
+        bullets = VGroup(
+            Text("• Understand the context"),
+            Text("• Choose your method"),
+            Text("• Interpret the answer"),
+            Text("• Check your results")
+        ).arrange(DOWN, aligned_edge=LEFT, buff=0.5).scale(0.8)
+        
+        with self.voiceover(text="It requires reading the context carefully to understand what is being asked.") as tracker:
+            self.play(FadeIn(bullets[0], shift=RIGHT))
+
+        with self.voiceover(text="You need to choose an appropriate method—whether that's long multiplication or division.") as tracker:
+            self.play(FadeIn(bullets[1], shift=RIGHT))
+
+        with self.voiceover(text="And crucially, you must interpret your answers back into the context of the problem, especially when dealing with remainders.") as tracker:
+            self.play(FadeIn(bullets[2], shift=RIGHT))
+
+        with self.voiceover(text="Always take a moment to check if your answer is reasonable.") as tracker:
+            self.play(FadeIn(bullets[3], shift=RIGHT))
                 
-            self.wait(1)
+        self.wait(1)
