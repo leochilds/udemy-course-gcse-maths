@@ -98,47 +98,92 @@ class Lesson012Complete(VoiceoverScene):
             title = Text("Decimal Notation").scale(1.0).to_edge(UP)
             self.play(Write(title))
             
-            number = MathTex("2", "5", ".", "3", "7", "4").scale(2)
+            # Start number further up
+            number = MathTex("2", "5", ".", "3", "7", "4").scale(2).shift(UP * 2)
             self.play(Write(number))
-            
-        # Place Value Chart logic
-        # 2: Tens, 5: Units, .: Point, 3: Tenths, 7: Hundredths, 4: Thousandths
-        
-        labels = VGroup(
-            Text("Tens").scale(0.5),
-            Text("Units").scale(0.5),
-            Text(".").scale(0.5),
-            Text("Tenths").scale(0.5),
-            Text("Hundredths").scale(0.5),
-            Text("Thousandths").scale(0.5)
+
+        # Create table structure
+        # Columns: Tens, Units, |, Tenths, Hundredths, Thousandths
+        headers = VGroup(
+            Text("Tens").scale(0.6),
+            Text("Units").scale(0.6),
+            Text("|").scale(0.6),
+            Text("Tenths").scale(0.6),
+            Text("Hundredths").scale(0.6),
+            Text("Thousandths").scale(0.6)
         )
         
-        # Position labels above digits
-        for i, digit in enumerate(number):
-            labels[i].next_to(digit, UP, buff=0.5)
-            if i == 2: continue # Skip dot label
+        # Adjust header spacing
+        headers[0].move_to(LEFT * 4)
+        headers[1].next_to(headers[0], RIGHT, buff=1.0)
+        headers[2].next_to(headers[1], RIGHT, buff=0.5) # The pipe
+        headers[3].next_to(headers[2], RIGHT, buff=0.5)
+        headers[4].next_to(headers[3], RIGHT, buff=1.0)
+        headers[5].next_to(headers[4], RIGHT, buff=1.0)
+        
+        headers.move_to(DOWN * 0.5) # Center the table vertically slightly down
+        
+        # Values row
+        values = VGroup(
+            MathTex("10").scale(0.8),
+            MathTex("1").scale(0.8),
+            Text("|").scale(0.6),
+            MathTex("1/10").scale(0.8),
+            MathTex("1/100").scale(0.8),
+            MathTex("1/1000").scale(0.8)
+        )
+        
+        for i in range(6):
+            values[i].next_to(headers[i], DOWN, buff=0.5)
+            # Align centers
+            values[i].match_x(headers[i])
             
-            arrow = Arrow(start=labels[i].get_bottom(), end=digit.get_top(), buff=0.1, color=Brand.AUXILIARY)
-            
-            if i < 2: # Whole numbers
-                pass
-            else: # Fractions
-                pass
+        table_group = VGroup(headers, values)
 
         with self.voiceover(text="Take the number 25.374, for example. To the left of the decimal point, we have 2 Tens and 5 Units.") as tracker:
-            self.play(FadeIn(labels[0]), FadeIn(labels[1]))
-            self.play(Indicate(number[0], color=Brand.ACTIVE), Indicate(number[1], color=Brand.ACTIVE))
+            self.play(FadeIn(table_group))
+            
+            # Move 2 (Tens) and 5 (Units)
+            # number indices: 0->2, 1->5, 2->., 3->3, 4->7, 5->4
+            
+            target_2 = number[0].copy()
+            target_5 = number[1].copy()
+            
+            # Define targets in table
+            pos_2 = values[0].get_center() + DOWN * 1.0
+            pos_5 = values[1].get_center() + DOWN * 1.0
+            
+            self.play(
+                number[0].animate.move_to(pos_2),
+                number[1].animate.move_to(pos_5),
+                Indicate(headers[0], color=Brand.ACTIVE),
+                Indicate(headers[1], color=Brand.ACTIVE)
+            )
 
         with self.voiceover(text="To the right, we have 3 Tenths, 7 Hundredths, and 4 Thousandths.") as tracker:
-            self.play(FadeIn(labels[3]), FadeIn(labels[4]), FadeIn(labels[5]))
+            # Move decimal point, 3, 7, 4
+            
+            pos_dot = values[2].get_center() + DOWN * 1.0
+            pos_3 = values[3].get_center() + DOWN * 1.0
+            pos_7 = values[4].get_center() + DOWN * 1.0
+            pos_4 = values[5].get_center() + DOWN * 1.0
+            
             self.play(
-                Indicate(number[3], color=Brand.ACTIVE), 
-                Indicate(number[4], color=Brand.ACTIVE),
-                Indicate(number[5], color=Brand.ACTIVE)
+                number[2].animate.move_to(pos_dot),
+                number[3].animate.move_to(pos_3),
+                number[4].animate.move_to(pos_7),
+                number[5].animate.move_to(pos_4),
+                Indicate(headers[3], color=Brand.ACTIVE),
+                Indicate(headers[4], color=Brand.ACTIVE),
+                Indicate(headers[5], color=Brand.ACTIVE)
             )
 
         with self.voiceover(text="We use this every day with money. £36.67 is simply 3 tens, 6 units, 6 tenths—which are 10 pence coins—and 7 hundredths—which are pennies.") as tracker:
-            money = MathTex("\\pounds 36.67").scale(1.5).next_to(number, DOWN, buff=2)
+            # Shift everything up a bit to make room or clear
+            everything = VGroup(title, table_group, number)
+            self.play(everything.animate.scale(0.7).to_edge(UP))
+            
+            money = MathTex("\\pounds 36.67").scale(1.5).move_to(DOWN * 2)
             breakdown = MathTex("30 + 6 + 0.6 + 0.07").scale(1.0).next_to(money, DOWN)
             self.play(Write(money))
             self.play(Write(breakdown))
