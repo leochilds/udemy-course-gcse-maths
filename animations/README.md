@@ -32,6 +32,14 @@ Format: `lesson-XX-animation-YY.py`
 
 Example: `lesson-03-animation-01.py` would be the first animation for lesson 3.
 
+## Narration Guidelines
+
+To ensure correct pronunciation by the AI voiceover, always write numbers as whole words in the narration text.
+
+- Decimals: `3.42` -> "three point four two"
+- Integers: `342` -> "three hundred and forty-two"
+- Money: `£36.67` -> "thirty-six pounds sixty-seven"
+
 ## Creating Animations
 
 ### Installation

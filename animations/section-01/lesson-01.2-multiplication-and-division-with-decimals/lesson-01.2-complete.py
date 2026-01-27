@@ -140,7 +140,7 @@ class Lesson012Complete(VoiceoverScene):
             
         table_group = VGroup(headers, values)
 
-        with self.voiceover(text="Take the number 25.374, for example. To the left of the decimal point, we have 2 Tens and 5 Units.") as tracker:
+        with self.voiceover(text="Take the number twenty-five point three seven four, for example. To the left of the decimal point, we have two Tens and five Units.") as tracker:
             self.play(FadeIn(table_group))
             
             # Move 2 (Tens) and 5 (Units)
@@ -160,7 +160,7 @@ class Lesson012Complete(VoiceoverScene):
                 Indicate(headers[1], color=Brand.ACTIVE)
             )
 
-        with self.voiceover(text="To the right, we have 3 Tenths, 7 Hundredths, and 4 Thousandths.") as tracker:
+        with self.voiceover(text="To the right, we have three Tenths, seven Hundredths, and four Thousandths.") as tracker:
             # Move decimal point, 3, 7, 4
             
             pos_dot = values[2].get_center() + DOWN * 1.0
@@ -178,7 +178,7 @@ class Lesson012Complete(VoiceoverScene):
                 Indicate(headers[5], color=Brand.ACTIVE)
             )
 
-        with self.voiceover(text="We use this every day with money. £36.67 is simply 3 tens, 6 units, 6 tenths—which are 10 pence coins—and 7 hundredths—which are pennies.") as tracker:
+        with self.voiceover(text="We use this every day with money. Thirty-six pounds sixty-seven is simply three tens, six units, six tenths—which are ten pence coins—and seven hundredths—which are pennies.") as tracker:
             # Shift everything up a bit to make room or clear
             everything = VGroup(title, table_group, number)
             self.play(everything.animate.scale(0.7).to_edge(UP))
@@ -198,7 +198,7 @@ class Lesson012Complete(VoiceoverScene):
         ex1_num = MathTex("79", ".", "4").scale(1.5).shift(UP * 1 + LEFT * 3)
         ex1_label = Text("1 decimal place").scale(0.6).next_to(ex1_num, RIGHT, buff=1)
         
-        with self.voiceover(text="For instance, 79.4 has one digit after the point, so it has one decimal place.") as tracker:
+        with self.voiceover(text="For instance, seventy-nine point four has one digit after the point, so it has one decimal place.") as tracker:
             self.play(Write(ex1_num))
             self.play(Indicate(ex1_num[2], color=Brand.ACTIVE))
             self.play(Write(ex1_label))
@@ -207,7 +207,7 @@ class Lesson012Complete(VoiceoverScene):
         ex2_num = MathTex("6", ".", "8", "3").scale(1.5).next_to(ex1_num, DOWN, buff=1.5, aligned_edge=LEFT)
         ex2_label = Text("2 decimal places").scale(0.6).next_to(ex2_num, RIGHT, buff=1)
         
-        with self.voiceover(text="6.83 has two digits after the point, so it has two decimal places.") as tracker:
+        with self.voiceover(text="Six point eight three has two digits after the point, so it has two decimal places.") as tracker:
             self.play(Write(ex2_num))
             self.play(Indicate(ex2_num[2:], color=Brand.ACTIVE))
             self.play(Write(ex2_label))
@@ -216,7 +216,7 @@ class Lesson012Complete(VoiceoverScene):
         ex3_num = MathTex("0", ".", "5", "2", "6").scale(1.5).next_to(ex2_num, DOWN, buff=1.5, aligned_edge=LEFT)
         ex3_label = Text("3 decimal places").scale(0.6).next_to(ex3_num, RIGHT, buff=1)
         
-        with self.voiceover(text="And 0.526 has three decimal places. Knowing this is crucial for rounding and for checking our answers in multiplication.") as tracker:
+        with self.voiceover(text="And zero point five two six has three decimal places. Knowing this is crucial for rounding and for checking our answers in multiplication.") as tracker:
             self.play(Write(ex3_num))
             self.play(Indicate(ex3_num[2:], color=Brand.ACTIVE))
             self.play(Write(ex3_label))
@@ -237,10 +237,10 @@ class Lesson012Complete(VoiceoverScene):
             self.play(Write(steps[0]))
             self.play(Write(steps[1]))
 
-        with self.voiceover(text="If that digit is less than 5, you simply remove it and all following digits.") as tracker:
+        with self.voiceover(text="If that digit is less than five, you simply remove it and all following digits.") as tracker:
             self.play(Write(steps[2]))
 
-        with self.voiceover(text="If that digit is 5 or more, you must round up. Add 1 to the digit in the previous decimal place, and then remove the unwanted digits.") as tracker:
+        with self.voiceover(text="If that digit is five or more, you must round up. Add one to the digit in the previous decimal place, and then remove the unwanted digits.") as tracker:
             self.play(Write(steps[3]))
 
     def slide_05_rounding_examples(self):
@@ -248,12 +248,12 @@ class Lesson012Complete(VoiceoverScene):
         self.add(title)
 
         # Example A: 5.852 (2 dp)
-        with self.voiceover(text="Let's practice this with some examples. First, round 5.852 to 2 decimal places.") as tracker:
+        with self.voiceover(text="Let's practice this with some examples. First, round five point eight five two to two decimal places.") as tracker:
             e1_text = MathTex("5.852").scale(1.5).shift(UP * 2 + LEFT * 2)
             e1_req = Text("(to 2 dp)").scale(0.6).next_to(e1_text, RIGHT)
             self.play(Write(e1_text), Write(e1_req))
 
-        with self.voiceover(text="The second decimal digit is 5. The next digit is 2, which is less than 5. So, we leave it as 5.85.") as tracker:
+        with self.voiceover(text="The second decimal digit is five. The next digit is two, which is less than five. So, we leave it as five point eight five.") as tracker:
             # Highlight 2nd dp (5) and decider (2)
             # 5 . 8 5 2
             # 0 1 2 3 4 (indices roughly)
@@ -264,31 +264,31 @@ class Lesson012Complete(VoiceoverScene):
             self.play(Write(e1_ans))
 
         # Example B: 7.156 (2 dp)
-        with self.voiceover(text="Second, round 7.156 to 2 decimal places.") as tracker:
+        with self.voiceover(text="Second, round seven point one five six to two decimal places.") as tracker:
             e2_text = MathTex("7.156").scale(1.5).next_to(e1_text, DOWN, buff=1, aligned_edge=LEFT)
             e2_req = Text("(to 2 dp)").scale(0.6).next_to(e2_text, RIGHT)
             self.play(Write(e2_text), Write(e2_req))
 
-        with self.voiceover(text="The second digit is 5, but the next digit is 6. Since 6 is 5 or more, we round up the 5 to a 6. The answer is 7.16.") as tracker:
+        with self.voiceover(text="The second digit is five, but the next digit is six. Since six is five or more, we round up the five to a six. The answer is seven point one six.") as tracker:
             self.play(Indicate(e2_text[0][3], color=Brand.ACTIVE)) # The '5'
             self.play(Circumscribe(e2_text[0][4], color=Brand.AUXILIARY)) # The '6'
             e2_ans = MathTex("\\rightarrow 7.16").scale(1.5).next_to(e2_req, RIGHT).set_color(Brand.ANSWER)
             self.play(Write(e2_ans))
 
         # Example C: 0.274 (1 dp)
-        with self.voiceover(text="Third, round 0.274 to 1 decimal place.") as tracker:
+        with self.voiceover(text="Third, round zero point two seven four to one decimal place.") as tracker:
             e3_text = MathTex("0.274").scale(1.5).next_to(e2_text, DOWN, buff=1, aligned_edge=LEFT)
             e3_req = Text("(to 1 dp)").scale(0.6).next_to(e3_text, RIGHT)
             self.play(Write(e3_text), Write(e3_req))
 
-        with self.voiceover(text="The first digit is 2. The next is 7, which is high enough to round up. So, 0.2 becomes 0.3.") as tracker:
+        with self.voiceover(text="The first digit is two. The next is seven, which is high enough to round up. So, zero point two becomes zero point three.") as tracker:
             self.play(Indicate(e3_text[0][2], color=Brand.ACTIVE)) # The '2'
             self.play(Circumscribe(e3_text[0][3], color=Brand.AUXILIARY)) # The '7'
             e3_ans = MathTex("\\rightarrow 0.3").scale(1.5).next_to(e3_req, RIGHT).set_color(Brand.ANSWER)
             self.play(Write(e3_ans))
 
         # Example D: 15.3518 (1 dp)
-        with self.voiceover(text="Finally, 15.3518 to 1 decimal place. The next digit is 5, so we round up the 3 to a 4. The result is 15.4.") as tracker:
+        with self.voiceover(text="Finally, fifteen point three five one eight to one decimal place. The next digit is five, so we round up the three to a four. The result is fifteen point four.") as tracker:
             e4_text = MathTex("15.3518").scale(1.5).next_to(e3_text, DOWN, buff=1, aligned_edge=LEFT)
             e4_req = Text("(to 1 dp)").scale(0.6).next_to(e4_text, RIGHT)
             self.play(Write(e4_text), Write(e4_req))
@@ -312,41 +312,41 @@ class Lesson012Complete(VoiceoverScene):
             Text("4. Divide result by total power of 10")
         ).arrange(DOWN, aligned_edge=LEFT, buff=0.5).scale(0.8)
 
-        with self.voiceover(text="First, multiply each decimal by a power of 10—like 10, 100, or 1000—to turn them into whole numbers.") as tracker:
+        with self.voiceover(text="First, multiply each decimal by a power of ten—like ten, one hundred, or one thousand—to turn them into whole numbers.") as tracker:
             self.play(Write(steps[0]))
 
         with self.voiceover(text="Second, multiply those whole numbers together.") as tracker:
             self.play(Write(steps[1]))
 
-        with self.voiceover(text="Third, multiply the powers of 10 you used in step one.") as tracker:
+        with self.voiceover(text="Third, multiply the powers of ten you used in step one.") as tracker:
             self.play(Write(steps[2]))
 
-        with self.voiceover(text="Finally, divide your result by that combined power of 10 to put the decimal point back in the correct place.") as tracker:
+        with self.voiceover(text="Finally, divide your result by that combined power of ten to put the decimal point back in the correct place.") as tracker:
             self.play(Write(steps[3]))
 
     def slide_07_multiplication_example(self):
-        with self.voiceover(text="Let's calculate 3.42 multiplied by 2.7.") as tracker:
+        with self.voiceover(text="Let's calculate three point four two multiplied by two point seven.") as tracker:
             title = Text("Example: 3.42 × 2.7").scale(1.0).to_edge(UP)
             self.play(Write(title))
             
             problem = MathTex("3.42", "\\times", "2.7").scale(1.5).shift(UP * 2)
             self.play(Write(problem))
 
-        with self.voiceover(text="First, we make them whole numbers. 3.42 has two decimal places, so we multiply by 100 to get 342.") as tracker:
+        with self.voiceover(text="First, we make them whole numbers. Three point four two has two decimal places, so we multiply by one hundred to get three hundred and forty-two.") as tracker:
             arrow1 = Arrow(start=problem[0].get_bottom(), end=problem[0].get_bottom() + DOWN * 1.5, color=Brand.AUXILIARY)
             t1 = MathTex("\\times 100").scale(0.8).next_to(arrow1, RIGHT)
             n1 = MathTex("342").scale(1.5).next_to(arrow1, DOWN)
             self.play(Create(arrow1), Write(t1))
             self.play(Write(n1))
 
-        with self.voiceover(text="2.7 has one decimal place, so we multiply by 10 to get 27.") as tracker:
+        with self.voiceover(text="Two point seven has one decimal place, so we multiply by ten to get twenty-seven.") as tracker:
             arrow2 = Arrow(start=problem[2].get_bottom(), end=problem[2].get_bottom() + DOWN * 1.5, color=Brand.AUXILIARY)
             t2 = MathTex("\\times 10").scale(0.8).next_to(arrow2, RIGHT)
             n2 = MathTex("27").scale(1.5).next_to(arrow2, DOWN)
             self.play(Create(arrow2), Write(t2))
             self.play(Write(n2))
 
-        with self.voiceover(text="Now we calculate 342 times 27. Using long multiplication, we get 9,234.") as tracker:
+        with self.voiceover(text="Now we calculate three hundred and forty-two times twenty-seven. Using long multiplication, we get nine thousand two hundred and thirty-four.") as tracker:
             mult_sym = MathTex("\\times").scale(1.5).move_to((n1.get_center() + n2.get_center()) / 2)
             eq_line = Line(start=n1.get_left() + DOWN * 0.5, end=n2.get_right() + DOWN * 0.5)
             
@@ -357,11 +357,11 @@ class Lesson012Complete(VoiceoverScene):
             self.play(Create(eq_line))
             self.play(Write(res_int))
 
-        with self.voiceover(text="We multiplied by 100 and then by 10. 100 times 10 is 1,000.") as tracker:
+        with self.voiceover(text="We multiplied by one hundred and then by ten. One hundred times ten is one thousand.") as tracker:
             total_pow = MathTex("100 \\times 10 = 1000").scale(1.0).to_edge(RIGHT).shift(UP * 2)
             self.play(Write(total_pow))
 
-        with self.voiceover(text="So, we must divide our answer, 9,234, by 1,000. This moves the decimal point three places to the left.") as tracker:
+        with self.voiceover(text="So, we must divide our answer, nine thousand two hundred and thirty-four, by one thousand. This moves the decimal point three places to the left.") as tracker:
             final_step = MathTex("9234", "\\div", "1000", "=", "9.234").scale(1.5).move_to(DOWN * 2)
             final_step[4].set_color(Brand.ANSWER)
             
@@ -371,7 +371,7 @@ class Lesson012Complete(VoiceoverScene):
             self.play(Create(arrow_back), Write(t_back))
             self.play(Write(final_step))
 
-        with self.voiceover(text="The final answer is 9.234.") as tracker:
+        with self.voiceover(text="The final answer is nine point two three four.") as tracker:
             self.play(Circumscribe(final_step[4], color=Brand.ANSWER))
             self.wait(1)
 
@@ -395,51 +395,48 @@ class Lesson012Complete(VoiceoverScene):
             self.wait(1)
 
     def slide_09_division_example_a(self):
-        with self.voiceover(text="Let's try 42 divided by 0.2.") as tracker:
+        with self.voiceover(text="Let's try forty-two divided by zero point two.") as tracker:
             title = Text("Example: 42 ÷ 0.2").scale(1.0).to_edge(UP)
             self.play(Write(title))
             
-            prob = MathTex("42", "\\div", "0.2").scale(1.5).shift(UP * 1)
-            self.play(Write(prob))
+            prob_inline = MathTex("42", "\\div", "0.2").scale(1.5).shift(UP * 2)
+            self.play(Write(prob_inline))
 
-        with self.voiceover(text="We are dividing by 0.2. To make 0.2 a whole number, we need to multiply it by 10.") as tracker:
-            self.play(Indicate(prob[2], color=Brand.ACTIVE))
-            
-        with self.voiceover(text="So, we must also multiply 42 by 10.") as tracker:
-            # Transformation animation
-            arrow = Arrow(DOWN, UP).scale(0.5).rotate(-PI/2)
-            
-            p1 = MathTex("42", "\\times", "10", "=", "420").scale(1.0).move_to([-3, -1, 0])
-            p2 = MathTex("0.2", "\\times", "10", "=", "2").scale(1.0).move_to([3, -1, 0])
-            
-            self.play(Write(p1))
-            self.play(Write(p2))
+        with self.voiceover(text="First, let's write this as a fraction. Forty-two over zero point two.") as tracker:
+            prob_frac = MathTex("\\frac{42}{0.2}").scale(1.5).shift(LEFT * 3)
+            self.play(ReplacementTransform(prob_inline, prob_frac))
 
-        with self.voiceover(text="The calculation changes from 42 divided by 0.2... to 420 divided by 2.") as tracker:
-            new_prob = MathTex("420", "\\div", "2").scale(1.5).next_to(prob, DOWN, buff=3)
-            self.play(Write(new_prob))
+        with self.voiceover(text="To make the denominator a whole number, we multiply by ten over ten. This effectively multiplies the top and bottom by ten.") as tracker:
+            mult_op = MathTex("\\times", "\\frac{10}{10}").scale(1.5).next_to(prob_frac, RIGHT)
+            self.play(Write(mult_op))
 
-        with self.voiceover(text="420 divided by 2 is easy: it is 210.") as tracker:
-            eq = MathTex("=").scale(1.5).next_to(new_prob, RIGHT)
-            ans = MathTex("210").scale(1.5).next_to(eq, RIGHT).set_color(Brand.ANSWER)
-            self.play(Write(eq), Write(ans))
+        with self.voiceover(text="Note that ten over ten is just one. So unlike multiplication, we aren't changing the value, and we won't need to adjust the answer at the end.") as tracker:
+            self.play(Indicate(mult_op[1], color=Brand.ACTIVE))
 
-        with self.voiceover(text="So, 42 divided by 0.2 is 210.") as tracker:
-            self.play(Circumscribe(ans, color=Brand.ANSWER))
+        with self.voiceover(text="Forty-two times ten is four hundred and twenty. And zero point two times ten is two.") as tracker:
+            eq = MathTex("=").scale(1.5).next_to(mult_op, RIGHT)
+            res_frac = MathTex("\\frac{420}{2}").scale(1.5).next_to(eq, RIGHT)
+            self.play(Write(eq), Write(res_frac))
+
+        with self.voiceover(text="Because the powers of ten cancel out, four hundred and twenty divided by two gives us the final answer directly: two hundred and ten.") as tracker:
+            final_eq = MathTex("=").scale(1.5).next_to(res_frac, RIGHT)
+            final_ans = MathTex("210").scale(1.5).next_to(final_eq, RIGHT).set_color(Brand.ANSWER)
+            self.play(Write(final_eq), Write(final_ans))
+            self.play(Circumscribe(final_ans, color=Brand.ANSWER))
             self.wait(1)
 
     def slide_10_division_example_b(self):
-        with self.voiceover(text="Now a harder one: 19.8 divided by 0.55.") as tracker:
+        with self.voiceover(text="Now a harder one: nineteen point eight divided by zero point five five.") as tracker:
             title = Text("Example: 19.8 ÷ 0.55").scale(1.0).to_edge(UP)
             self.play(Write(title))
             
             prob = MathTex("19.8", "\\div", "0.55").scale(1.5).shift(UP * 2)
             self.play(Write(prob))
 
-        with self.voiceover(text="The divisor is 0.55. To make this a whole number, we need to multiply by 100.") as tracker:
+        with self.voiceover(text="The divisor is zero point five five. To make this a whole number, we need to multiply by one hundred.") as tracker:
             self.play(Indicate(prob[2], color=Brand.ACTIVE))
 
-        with self.voiceover(text="So we multiply 19.8 by 100 as well, which gives us 1,980.") as tracker:
+        with self.voiceover(text="So we multiply nineteen point eight by one hundred as well, which gives us one thousand nine hundred and eighty.") as tracker:
             # Transformation
             t_steps = VGroup(
                 MathTex("19.8 \\times 100 = 1980"),
@@ -447,23 +444,20 @@ class Lesson012Complete(VoiceoverScene):
             ).arrange(DOWN, aligned_edge=LEFT).move_to(LEFT * 3)
             self.play(Write(t_steps))
             
-            new_prob = MathTex("1980 \\div 55").scale(1.5).next_to(prob, DOWN, buff=2)
+            # Move previous sums away to clear space
+            prev_sums = VGroup(prob, t_steps)
+            self.play(prev_sums.animate.scale(0.6).to_corner(UP + LEFT).shift(DOWN * 1.0))
+
+            new_prob = MathTex("1980 \\div 55").scale(1.5).move_to(LEFT * 3)
             self.play(Write(new_prob))
 
-        with self.voiceover(text="Our new problem is 1,980 divided by 55. We can use long division or repeated subtraction here.") as tracker:
+        with self.voiceover(text="Our new problem is one thousand nine hundred and eighty divided by fifty-five. We can use long division or repeated subtraction here.") as tracker:
             # Simplified subtraction display
-            # 1980
-            # -1100 (20 x 55)
-            # = 880
-            # - 440 (8 x 55)
-            # = 440
-            # - 440 (8 x 55)
-            # = 0
             
-            start_num = MathTex("1980").scale(1.0).shift(RIGHT * 2 + UP * 0.5)
+            start_num = MathTex("1980").scale(1.0).shift(RIGHT * 2 + UP * 1.5)
             self.play(Write(start_num))
 
-        with self.voiceover(text="20 times 55 is 1,100. Subtracting that from 1,980 leaves 880.") as tracker:
+        with self.voiceover(text="Twenty times fifty-five is one thousand one hundred. Subtracting that from one thousand nine hundred and eighty leaves eight hundred and eighty.") as tracker:
             sub1 = MathTex("- 1100").scale(1.0).next_to(start_num, DOWN, aligned_edge=RIGHT)
             note1 = Text("(20 x 55)").scale(0.5).next_to(sub1, LEFT, buff=0.5).set_color(Brand.AUXILIARY)
             line1 = Line(sub1.get_left(), sub1.get_right()).next_to(sub1, DOWN)
@@ -473,7 +467,16 @@ class Lesson012Complete(VoiceoverScene):
             self.play(Create(line1))
             self.play(Write(rem1))
 
-        with self.voiceover(text="8 times 55 is 440. We can subtract that twice to clear the remaining 880.") as tracker:
+        with self.voiceover(text="Two times fifty-five is one hundred and ten. Eight times one hundred and ten is eight hundred and eighty. This corresponds to sixteen lots of fifty-five.") as tracker:
+            # Helper calculation
+            helper = VGroup(
+                MathTex("2 \\times 55 = 110"),
+                MathTex("8 \\times 110 = 880"),
+                MathTex("16 \\times 55 = 880")
+            ).arrange(DOWN, aligned_edge=LEFT).scale(0.7).to_edge(RIGHT)
+            
+            self.play(Write(helper))
+            
             sub2 = MathTex("- 880").scale(1.0).next_to(rem1, DOWN, aligned_edge=RIGHT)
             note2 = Text("(16 x 55)").scale(0.5).next_to(sub2, LEFT, buff=0.5).set_color(Brand.AUXILIARY)
             line2 = Line(sub2.get_left(), sub2.get_right()).next_to(sub2, DOWN)
@@ -482,17 +485,15 @@ class Lesson012Complete(VoiceoverScene):
             self.play(Write(sub2), Write(note2))
             self.play(Create(line2))
             self.play(Write(rem2))
-
-        with self.voiceover(text="20 plus 8 plus 8 equals 36. So, 19.8 divided by 0.55 is 36.") as tracker:
+            
+        with self.voiceover(text="Twenty plus sixteen equals thirty-six. So, nineteen point eight divided by zero point five five is thirty-six.") as tracker:
             final_ans = MathTex("= 36").scale(1.5).next_to(new_prob, RIGHT).set_color(Brand.ANSWER)
             self.play(Write(final_ans))
             self.wait(1)
 
     def slide_11_summary(self):
-        with self.voiceover(text="To summarize, we've seen that decimals are just another way to represent fractions.") as tracker:
-            title = Text("Summary").scale(1.2).to_edge(UP)
-            self.play(Write(title))
-            
+        title = Text("Summary").scale(1.2).to_edge(UP)
+        
         bullets = VGroup(
             Text("• Decimals represent fractions"),
             Text("• Rounding: Check the NEXT digit"),
@@ -500,8 +501,11 @@ class Lesson012Complete(VoiceoverScene):
             Text("• Division: Make divisor a whole number")
         ).arrange(DOWN, aligned_edge=LEFT, buff=0.5).scale(0.8)
 
-        with self.voiceover(text="When rounding, always look at the digit immediately to the right of your target place.") as tracker:
+        with self.voiceover(text="To summarize, we've seen that decimals are just another way to represent fractions.") as tracker:
+            self.play(Write(title))
             self.play(FadeIn(bullets[0], shift=RIGHT))
+            
+        with self.voiceover(text="When rounding, always look at the digit immediately to the right of your target place.") as tracker:
             self.play(FadeIn(bullets[1], shift=RIGHT))
 
         with self.voiceover(text="For multiplication, treat them as whole numbers first, then put the decimal point back at the end.") as tracker:
